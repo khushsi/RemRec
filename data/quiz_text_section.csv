@@ -1,0 +1,14 @@
+quizid,text,section,docsrc,docid
+q325,What does a ground truth judgment of relevance mean? documents have no classification. true scores. document that contains only true information. documents have binary classification as either relevant or non relevant,iir_8_1,iir,2190
+q326,Which of the following are standard test collections? datagov. Cranfield. CLEF. TREC,iir_8_2,iir,2191
+q327,Which one of the following is the most used news collections for information retrieval? gov2. Usenet. Reuters. TREC,iir_8_2,iir,2191
+q328,Which are the two most basic measures for information retrieval effectiveness? Quality. Recall. Precision. Index,iir_8_3,iir,2192
+q329,What is recall? fraction of accurate documents. Fraction of relevant documents that are retrieved. sum of relevant and non relevant documents. Fraction of retrieved documents that are relevant,iir_8_3,iir,2192
+q330,What is a measure that trades off between precision and recall? F measure or weighted harmonic mean. Mean Reciprocal Rank. M measure or mode. Accuracy,iir_8_3,iir,2192
+q331,What is true about Mean Average Precision(MAP) for a test collection? it is an interpolated precision. single figure measure of quality across recall levels. it is the arithmetic mean of average precision values for individual information needs,iir_8_4,iir,2193
+q332,What is pooling? joining results of different queries. non relevance assesment. relevance assessed from a subset of collection formed from top k documents. creating pools for individual queries,iir_8_5,iir,2194
+q333,What is an example of marginal relevance? documents with other languges. the first page. TREC documents. duplicate results on world wide web,iir_8_5,iir,2194
+q334,Which of the following are benchmarks to rate an IR system beyond retrieval quality? How expressive is its query language?. How large is the data collection. How fast does it index?. How fast does it search,iir_8_6,iir,2196
+q335,How is user satisfaction measured by web search engines? A/B testing. clickthrough log analysis. B/A testing,iir_8_6,iir,2196
+q336,What is associated with results snippets? click analysis. index number. keyword in context. text summarization,iir_8_7,iir,2200
+q337,Which one is true about relevance feedback? ask search specialist to provide feedback. involve user in the retrieval process to improve the final result set. Teach users to issue good queries. understand user history,iir_9_1,iir,2203

@@ -1,0 +1,8371 @@
+item_id,concept,weight
+iir_1_1,bit,1
+iir_1_1,word brutu,1
+iir_1_1,tobe,1
+iir_1_1,key statist,1
+iir_1_1,grep,1
+iir_1_1,record,1
+iir_1_1,hong kong,1
+iir_1_1,caesar,1
+iir_1_1,magnitud,1
+iir_1_1,individu memo,1
+iir_1_1,result,1
+iir_1_1,document retriev,1
+iir_1_1,goal,1
+iir_1_1,sort,1
+iir_1_1,unit,1
+iir_1_1,detail discuss,1
+iir_1_1,impract,1
+iir_1_1,qualiti,1
+iir_1_1,punctuat,1
+iir_1_1,basic,1
+iir_1_1,precis,1
+iir_1_1,peopl,1
+iir_1_1,linear,1
+iir_1_1,vector,1
+iir_1_1,mean,1
+iir_1_1,binari term document incid matrix,1
+iir_1_1,dictionari,1
+iir_1_1,set,1
+iir_1_1,crucial observ,1
+iir_1_1,topic,1
+iir_1_1,simpl queri,1
+iir_1_1,search,1
+iir_1_1,begin,1
+iir_1_1,attempt,1
+iir_1_1,bodi,1
+iir_1_1,item,1
+iir_1_1,antoni,1
+iir_1_1,form,1
+iir_1_1,advanc,1
+iir_1_1,answer,1
+iir_1_1,respect,1
+iir_1_1,central,1
+iir_1_1,terminolog,1
+iir_1_1,section,1
+iir_1_1,posit,1
+iir_1_1,index,1
+iir_1_1,possibl,1
+iir_1_1,figur,1
+iir_1_1,billion,1
+iir_1_1,wildcard pattern,1
+iir_1_1,shakespear,1
+iir_1_1,term,1
+iir_1_1,vocabulari,1
+iir_1_1,cleopatra,1
+iir_1_1,averag,1
+iir_1_1,entri,1
+iir_1_1,represent,1
+iir_1_1,idea,1
+iir_1_1,complement,1
+iir_1_1,moment,1
+iir_1_1,chapter,1
+iir_1_1,collect,1
+iir_1_1,sentenc,1
+iir_1_1,column,1
+iir_1_1,flexibl match oper,1
+iir_1_1,recal,1
+iir_1_1,process,1
+iir_1_1,speed,1
+iir_1_1,relev,1
+iir_1_1,byte,1
+iir_1_1,kind,1
+iir_1_1,fraction,1
+iir_1_1,notat,1
+iir_1_1,evalu measur,1
+iir_1_1,hamlet,1
+iir_1_1,boolean retriev model,1
+iir_1_1,onlin data,1
+iir_1_1,invert file,1
+iir_1_1,artifici,1
+iir_1_1,user,1
+iir_1_1,bitwis,1
+iir_1_1,play,1
+iir_1_1,comput,1
+iir_1_1,total,1
+iir_1_1,opportun,1
+iir_1_1,redund,1
+iir_1_1,realist scenario,1
+iir_1_1,cell,1
+iir_1_1,altern,1
+iir_1_1,corpu,1
+iir_1_1,memori,1
+iir_1_1,inform,1
+iir_1_1,half trillion,1
+iir_1_1,minimum,1
+iir_1_1,spars,1
+iir_1_1,countrymen,1
+iir_1_1,consider,1
+iir_1_1,amount,1
+iir_1_1,boolean express,1
+iir_1_1,list,1
+iir_1_1,dimens,1
+iir_1_1,retriev system,1
+iir_1_1,size,1
+iir_1_1,calpurnia,1
+iir_1_1,lexicon,1
+iir_1_1,concept,1
+iir_1_1,space,1
+iir_1_1,text,1
+iir_1_1,fat book,1
+iir_1_1,pipelin leak,1
+iir_1_2,alphabet,1
+iir_1_2,length,1
+iir_1_2,represent,1
+iir_1_2,space requir,1
+iir_1_2,basi,1
+iir_1_2,wast,1
+iir_1_2,chapter,1
+iir_1_2,multipl occurr,1
+iir_1_2,offset,1
+iir_1_2,success integ,1
+iir_1_2,modern processor,1
+iir_1_2,infrequ,1
+iir_1_2,equival,1
+iir_1_2,data organ,1
+iir_1_2,process,1
+iir_1_2,result,1
+iir_1_2,uniqu serial,1
+iir_1_2,retriev time,1
+iir_1_2,token,1
+iir_1_2,vital,1
+iir_1_2,speed benefit,1
+iir_1_2,web,1
+iir_1_2,word,1
+iir_1_2,document,1
+iir_1_2,disk,1
+iir_1_2,updat,1
+iir_1_2,major step,1
+iir_1_2,instanc,1
+iir_1_2,statist,1
+iir_1_2,contigu run,1
+iir_1_2,dictionari,1
+iir_1_2,hybrid scheme,1
+iir_1_2,addit pointer,1
+iir_1_2,cheap insert,1
+iir_1_2,altern,1
+iir_1_2,storag requir,1
+iir_1_2,middl column,1
+iir_1_2,memori,1
+iir_1_2,advanc,1
+iir_1_2,inform,1
+iir_1_2,overhead,1
+iir_1_2,practic,1
+iir_1_2,queri time,1
+iir_1_2,compact,1
+iir_1_2,basic boolean search engin,1
+iir_1_2,pair,1
+iir_1_2,docid,1
+iir_1_2,section,1
+iir_1_2,index term,1
+iir_1_2,linguist preprocess,1
+iir_1_2,rival,1
+iir_1_2,stage,1
+iir_1_2,input,1
+iir_1_2,list,1
+iir_1_2,figur,1
+iir_1_2,size,1
+iir_1_2,text,1
+iir_1_2,effici,1
+iir_1_3,length,1
+iir_1_3,singl global,1
+iir_1_3,justif,1
+iir_1_3,crucial,1
+iir_1_3,log time,1
+iir_1_3,effect method,1
+iir_1_3,major element,1
+iir_1_3,short,1
+iir_1_3,intersect,1
+iir_1_3,differ,1
+iir_1_3,oper,1
+iir_1_3,decis,1
+iir_1_3,magnitud,1
+iir_1_3,invalid item,1
+iir_1_3,theta,1
+iir_1_3,time linear,1
+iir_1_3,memori data,1
+iir_1_3,sum,1
+iir_1_3,sort,1
+iir_1_3,result list,1
+iir_1_3,disk,1
+iir_1_3,huge,1
+iir_1_3,intermedi express,1
+iir_1_3,complex,1
+iir_1_3,dictionari,1
+iir_1_3,invert index,1
+iir_1_3,membership,1
+iir_1_3,logic,1
+iir_1_3,disjunct,1
+iir_1_3,estim,1
+iir_1_3,common type,1
+iir_1_3,standard heurist,1
+iir_1_3,advanc,1
+iir_1_3,answer,1
+iir_1_3,practic,1
+iir_1_3,famili,1
+iir_1_3,total amount,1
+iir_1_3,docid,1
+iir_1_3,system,1
+iir_1_3,counterintuit,1
+iir_1_3,possibl,1
+iir_1_3,asymmetr,1
+iir_1_3,figur,1
+iir_1_3,hashtabl,1
+iir_1_3,difficult,1
+iir_1_3,natur,1
+iir_1_3,term,1
+iir_1_3,queri optim,1
+iir_1_3,altern techniqu,1
+iir_1_3,algorithm,1
+iir_1_3,chapter,1
+iir_1_3,collect,1
+iir_1_3,distinct output,1
+iir_1_3,process,1
+iir_1_3,basic boolean retriev model,1
+iir_1_3,brutu,1
+iir_1_3,document,1
+iir_1_3,user,1
+iir_1_3,simpl conjunct queri,1
+iir_1_3,binari search,1
+iir_1_3,simpl,1
+iir_1_3,interleav,1
+iir_1_3,step,1
+iir_1_3,post list,1
+iir_1_3,opportun,1
+iir_1_3,sequenc,1
+iir_1_3,pointer,1
+iir_1_3,multipl,1
+iir_1_3,circumst,1
+iir_1_3,input,1
+iir_1_3,size,1
+iir_1_3,calpurnia,1
+iir_1_3,function,1
+iir_1_3,effici,1
+iir_1_3,constant,1
+iir_1_4,imposs,1
+iir_1_4,length,1
+iir_1_4,queri express,1
+iir_1_4,popular oper,1
+iir_1_4,close,1
+iir_1_4,toler,1
+iir_1_4,search option,1
+iir_1_4,construct,1
+iir_1_4,uncommon,1
+iir_1_4,structur unit,1
+iir_1_4,free text queri,1
+iir_1_4,day,1
+iir_1_4,natur languag,1
+iir_1_4,gate,1
+iir_1_4,sort,1
+iir_1_4,basic technolog,1
+iir_1_4,word,1
+iir_1_4,main,1
+iir_1_4,peopl,1
+iir_1_4,ten,1
+iir_1_4,dictionari,1
+iir_1_4,set,1
+iir_1_4,control,1
+iir_1_4,term proxim oper,1
+iir_1_4,disjunct,1
+iir_1_4,vector space model,1
+iir_1_4,microsoft,1
+iir_1_4,major,1
+iir_1_4,practic,1
+iir_1_4,liab,1
+iir_1_4,compound,1
+iir_1_4,section,1
+iir_1_4,system,1
+iir_1_4,basic invert index,1
+iir_1_4,mechan,1
+iir_1_4,legal materi,1
+iir_1_4,million,1
+iir_1_4,mistak,1
+iir_1_4,date,1
+iir_1_4,commerci legal search servic,1
+iir_1_4,doubl quot,1
+iir_1_4,rank,1
+iir_1_4,difficult,1
+iir_1_4,addit idea,1
+iir_1_4,term,1
+iir_1_4,paragraph,1
+iir_1_4,arriv,1
+iir_1_4,percentag,1
+iir_1_4,profession,1
+iir_1_4,chapter,1
+iir_1_4,partial implement,1
+iir_1_4,sentenc,1
+iir_1_4,inconsist choic,1
+iir_1_4,type,1
+iir_1_4,precis languag,1
+iir_1_4,strict boolean express,1
+iir_1_4,boolean retriev model,1
+iir_1_4,weight,1
+iir_1_4,detail,1
+iir_1_4,http,1
+iir_1_4,document,1
+iir_1_4,dictionaryrank ir system,1
+iir_1_4,world wide web,1
+iir_1_4,user,1
+iir_1_4,basic issu,1
+iir_1_4,academ research,1
+iir_1_4,domain,1
+iir_1_4,law librarian,1
+iir_1_4,subscrib,1
+iir_1_4,worksit,1
+iir_1_4,limit,1
+iir_1_4,post list,1
+iir_1_4,commerci inform provid,1
+iir_1_4,typic expert queri,1
+iir_1_4,advantag,1
+iir_1_4,terabyt,1
+iir_1_4,augment index structur,1
+iir_1_4,match,1
+iir_1_4,evid,1
+iir_1_4,transpar,1
+iir_1_4,inform,1
+iir_1_4,connector,1
+iir_1_4,experi,1
+iir_1_4,phrase search,1
+iir_1_4,effect mean,1
+iir_1_4,satisfactori middl ground,1
+iir_1_4,simpl queri optim,1
+iir_1_4,web search,1
+iir_1_4,www westlaw,1
+iir_1_4,unord result,1
+iir_1_4,linear time merg,1
+iir_1_4,retriev,1
+iir_1_4,default,1
+iir_1_4,exclam mark,1
+iir_1_4,turtl,1
+iir_1_4,absenc,1
+iir_1_4,decad,1
+iir_1_4,refer,1
+iir_2_1,dollar amount,1
+iir_2_1,understand,1
+iir_2_1,multipl level,1
+iir_2_1,encod,1
+iir_2_1,mini document,1
+iir_2_1,scheme,1
+iir_2_1,user select,1
+iir_2_1,ascii,1
+iir_2_1,boolean model,1
+iir_2_1,sort,1
+iir_2_1,extend post,1
+iir_2_1,invert index construct,1
+iir_2_1,writer,1
+iir_2_1,equival class,1
+iir_2_1,disk,1
+iir_2_1,major step,1
+iir_2_1,complex,1
+iir_2_1,linear,1
+iir_2_1,implement,1
+iir_2_1,person,1
+iir_2_1,materi,1
+iir_2_1,folder,1
+iir_2_1,commerci product,1
+iir_2_1,set,1
+iir_2_1,charact stream,1
+iir_2_1,slide,1
+iir_2_1,search,1
+iir_2_1,sound,1
+iir_2_1,individu sentenc,1
+iir_2_1,textual,1
+iir_2_1,binari represent,1
+iir_2_1,explicit,1
+iir_2_1,phase,1
+iir_2_1,vendor specif standard,1
+iir_2_1,koran,1
+iir_2_1,languag,1
+iir_2_1,revers,1
+iir_2_1,file,1
+iir_2_1,section,1
+iir_2_1,decod,1
+iir_2_1,vocal,1
+iir_2_1,attach,1
+iir_2_1,linguist preprocess,1
+iir_2_1,system,1
+iir_2_1,precis recal tradeoff,1
+iir_2_1,unvoc,1
+iir_2_1,modern unicod represent concept,1
+iir_2_1,data structur,1
+iir_2_1,multibyt,1
+iir_2_1,figur,1
+iir_2_1,arab,1
+iir_2_1,hard,1
+iir_2_1,true,1
+iir_2_1,term,1
+iir_2_1,substant linguist issu,1
+iir_2_1,usag pattern,1
+iir_2_1,paragraph,1
+iir_2_1,unicod utf,1
+iir_2_1,xml retriev,1
+iir_2_1,vocabulari,1
+iir_2_1,final,1
+iir_2_1,hebrew,1
+iir_2_1,applic,1
+iir_2_1,idea,1
+iir_2_1,nation,1
+iir_2_1,awar,1
+iir_2_1,chapter,1
+iir_2_1,basic unit,1
+iir_2_1,heurist method,1
+iir_2_1,classif,1
+iir_2_1,collect,1
+iir_2_1,henceforth,1
+iir_2_1,subsect,1
+iir_2_1,process,1
+iir_2_1,relev,1
+iir_2_1,china,1
+iir_2_1,token,1
+iir_2_1,web,1
+iir_2_1,mix characterist,1
+iir_2_1,detail,1
+iir_2_1,diacrit,1
+iir_2_1,complic write system convent,1
+iir_2_1,trivial,1
+iir_2_1,post list,1
+iir_2_1,chines toy,1
+iir_2_1,book,1
+iir_2_1,machin,1
+iir_2_1,purpos,1
+iir_2_1,markup,1
+iir_2_1,latex html,1
+iir_2_1,match,1
+iir_2_1,charact sequenc,1
+iir_2_1,opposit direct,1
+iir_2_1,mbox format,1
+iir_2_1,choic,1
+iir_2_1,short vowel,1
+iir_2_1,evid,1
+iir_2_1,letter,1
+iir_2_1,common,1
+iir_2_1,dimension,1
+iir_2_1,postscript,1
+iir_2_1,email messag,1
+iir_2_1,passag,1
+iir_2_1,question,1
+iir_2_1,phrase,1
+iir_2_1,microsoft word doc,1
+iir_2_1,softwar librari,1
+iir_2_1,tradit unix,1
+iir_2_1,broad rang,1
+iir_2_1,nunat,1
+iir_2_1,children,1
+iir_2_1,handl,1
+iir_2_1,ambigu,1
+iir_2_1,input,1
+iir_2_1,queri,1
+iir_2_1,left,1
+iir_2_1,byte,1
+iir_2_1,page,1
+iir_2_1,text,1
+iir_2_1,amp,1
+iir_2_1,regard,1
+iir_2_2,imper,1
+iir_2_2,black,1
+iir_2_2,result,1
+iir_2_2,apostroph,1
+iir_2_2,sort,1
+iir_2_2,bug databas,1
+iir_2_2,porter,1
+iir_2_2,middl,1
+iir_2_2,languag specif,1
+iir_2_2,jblack,1
+iir_2_2,emphasi,1
+iir_2_2,set,1
+iir_2_2,suffix,1
+iir_2_2,hope,1
+iir_2_2,topic,1
+iir_2_2,individu paragraph,1
+iir_2_2,includegraph,1
+iir_2_2,flight,1
+iir_2_2,govern organ,1
+iir_2_2,habit,1
+iir_2_2,clitic pronoun,1
+iir_2_2,morpholog analysi,1
+iir_2_2,advertis,1
+iir_2_2,mistak,1
+iir_2_2,date,1
+iir_2_2,figur,1
+iir_2_2,vannevar bush,1
+iir_2_2,feminin,1
+iir_2_2,unclear,1
+iir_2_2,type token distinct,1
+iir_2_2,song titl,1
+iir_2_2,bad,1
+iir_2_2,algorithm,1
+iir_2_2,english portion,1
+iir_2_2,truecas,1
+iir_2_2,speed,1
+iir_2_2,style hospit,1
+iir_2_2,schuetz,1
+iir_2_2,plausibl,1
+iir_2_2,acronym,1
+iir_2_2,email address,1
+iir_2_2,masculin,1
+iir_2_2,special,1
+iir_2_2,life insur compani employe,1
+iir_2_2,short charact subsequ,1
+iir_2_2,adject,1
+iir_2_2,diacrit,1
+iir_2_2,definit articl,1
+iir_2_2,condit random field,1
+iir_2_2,statist,1
+iir_2_2,modern storag cost,1
+iir_2_2,comput linguist,1
+iir_2_2,domain,1
+iir_2_2,foreign phrase,1
+iir_2_2,document unit,1
+iir_2_2,heurist rule,1
+iir_2_2,peke,1
+iir_2_2,syllabl,1
+iir_2_2,issu,1
+iir_2_2,match,1
+iir_2_2,charact sequenc,1
+iir_2_2,aggreg effect,1
+iir_2_2,tool,1
+iir_2_2,preprocess,1
+iir_2_2,error,1
+iir_2_2,concept,1
+iir_2_2,obviou,1
+iir_2_2,page,1
+iir_2_2,token phase,1
+iir_2_2,effici,1
+iir_2_2,educ,1
+iir_2_2,orthograph convent,1
+iir_2_2,phenomenon,1
+iir_2_2,presenc,1
+iir_2_2,york univers,1
+iir_2_2,decis,1
+iir_2_2,vers,1
+iir_2_2,compress techniqu,1
+iir_2_2,tag,1
+iir_2_2,tchebycheff,1
+iir_2_2,solut,1
+iir_2_2,whitespac,1
+iir_2_2,beij,1
+iir_2_2,finnish,1
+iir_2_2,sch ëtze,1
+iir_2_2,deriv affix,1
+iir_2_2,punctuat,1
+iir_2_2,sourc,1
+iir_2_2,final line,1
+iir_2_2,predetermin granular,1
+iir_2_2,simpl strategi,1
+iir_2_2,capit,1
+iir_2_2,www,1
+iir_2_2,fed,1
+iir_2_2,search,1
+iir_2_2,disadvantag,1
+iir_2_2,vice versa,1
+iir_2_2,disjunct,1
+iir_2_2,nobel peac prize winner wangari maathai,1
+iir_2_2,begin,1
+iir_2_2,class,1
+iir_2_2,queri expans list,1
+iir_2_2,advanc,1
+iir_2_2,stop list,1
+iir_2_2,standard,1
+iir_2_2,london,1
+iir_2_2,compound,1
+iir_2_2,boolean queri,1
+iir_2_2,lot,1
+iir_2_2,system,1
+iir_2_2,fine detail,1
+iir_2_2,true,1
+iir_2_2,verb,1
+iir_2_2,vocabulari,1
+iir_2_2,token anti discriminatori,1
+iir_2_2,approach,1
+iir_2_2,hiragana syllabari,1
+iir_2_2,ident,1
+iir_2_2,lazi,1
+iir_2_2,base,1
+iir_2_2,perchanc,1
+iir_2_2,computerlinguistik,1
+iir_2_2,tradit,1
+iir_2_2,featur,1
+iir_2_2,hewlett packard,1
+iir_2_2,sleep,1
+iir_2_2,british spell colour,1
+iir_2_2,aircraft name,1
+iir_2_2,air fare,1
+iir_2_2,hand filter,1
+iir_2_2,idf,1
+iir_2_2,major east asian languag,1
+iir_2_2,democrat,1
+iir_2_2,sign,1
+iir_2_2,http,1
+iir_2_2,umlaut,1
+iir_2_2,knowledg,1
+iir_2_2,collect frequenc,1
+iir_2_2,coeduc,1
+iir_2_2,design,1
+iir_2_2,chang,1
+iir_2_2,democraci,1
+iir_2_2,major question,1
+iir_2_2,idiosyncrat,1
+iir_2_2,pena,1
+iir_2_2,superfici differ,1
+iir_2_2,multipl word,1
+iir_2_2,perform,1
+iir_2_2,period,1
+iir_2_2,time,1
+iir_2_2,clich,1
+iir_2_2,choic,1
+iir_2_2,antidiscriminatori,1
+iir_2_2,sorrow,1
+iir_2_2,gerrand,1
+iir_2_2,japanes ep,1
+iir_2_2,westlaw,1
+iir_2_2,space,1
+iir_2_2,correct token,1
+iir_2_2,pe ëa,1
+iir_2_2,normal,1
+iir_2_2,standard term weight,1
+iir_2_2,length,1
+iir_2_2,french,1
+iir_2_2,task,1
+iir_2_2,chebyshev,1
+iir_2_2,neill,1
+iir_2_2,european clef evalu,1
+iir_2_2,hold drag maneuv,1
+iir_2_2,mar,1
+iir_2_2,preval pattern,1
+iir_2_2,note,1
+iir_2_2,semant unit,1
+iir_2_2,measur,1
+iir_2_2,lowercas,1
+iir_2_2,copyedit devic,1
+iir_2_2,scan,1
+iir_2_2,fair percentag,1
+iir_2_2,commerci,1
+iir_2_2,presid,1
+iir_2_2,instanc,1
+iir_2_2,precis,1
+iir_2_2,peopl,1
+iir_2_2,europ,1
+iir_2_2,dictionari,1
+iir_2_2,pass lovin stemmer,1
+iir_2_2,popul,1
+iir_2_2,form,1
+iir_2_2,item,1
+iir_2_2,practic,1
+iir_2_2,comput technolog,1
+iir_2_2,ensembl,1
+iir_2_2,claus,1
+iir_2_2,monetari amount,1
+iir_2_2,intric,1
+iir_2_2,inform comparison,1
+iir_2_2,remov,1
+iir_2_2,capit window oper system,1
+iir_2_2,machin learn sequenc model,1
+iir_2_2,addit challeng,1
+iir_2_2,report,1
+iir_2_2,piec,1
+iir_2_2,benefit,1
+iir_2_2,stuff special html,1
+iir_2_2,difficult,1
+iir_2_2,term,1
+iir_2_2,exact,1
+iir_2_2,contract,1
+iir_2_2,lemma,1
+iir_2_2,chapter,1
+iir_2_2,impact,1
+iir_2_2,german,1
+iir_2_2,option,1
+iir_2_2,angl,1
+iir_2_2,margin statu,1
+iir_2_2,tabl,1
+iir_2_2,implicit,1
+iir_2_2,hidden markov model,1
+iir_2_2,multipl intermingl write system,1
+iir_2_2,window,1
+iir_2_2,automobil,1
+iir_2_2,sifri,1
+iir_2_2,naiv,1
+iir_2_2,advantag,1
+iir_2_2,altern,1
+iir_2_2,chop,1
+iir_2_2,popular cultur,1
+iir_2_2,semant identifi,1
+iir_2_2,post,1
+iir_2_2,situat,1
+iir_2_2,paic,1
+iir_2_2,cliff,1
+iir_2_2,san francisco,1
+iir_2_2,tricki,1
+iir_2_2,classifi,1
+iir_2_2,size,1
+iir_2_2,car,1
+iir_2_2,letter,1
+iir_2_2,flexibl,1
+iir_2_2,dec,1
+iir_2_2,uppercas,1
+iir_2_2,split,1
+iir_2_2,method,1
+iir_2_2,unexpect consequ,1
+iir_2_2,arab numer,1
+iir_2_2,aren,1
+iir_2_2,flavor,1
+iir_2_2,cost,1
+iir_2_2,appear,1
+iir_2_2,hyphen,1
+iir_2_2,lexi nexi,1
+iir_2_2,free text queri,1
+iir_2_2,day,1
+iir_2_2,goal,1
+iir_2_2,thai,1
+iir_2_2,help,1
+iir_2_2,intermingl,1
+iir_2_2,stem,1
+iir_2_2,complex,1
+iir_2_2,accent,1
+iir_2_2,mean,1
+iir_2_2,lemmat,1
+iir_2_2,gener,1
+iir_2_2,relat,1
+iir_2_2,spanish,1
+iir_2_2,semant type,1
+iir_2_2,offici site,1
+iir_2_2,korean,1
+iir_2_2,famili,1
+iir_2_2,asymmetri,1
+iir_2_2,quotat,1
+iir_2_2,section,1
+iir_2_2,environment campaign,1
+iir_2_2,possess,1
+iir_2_2,na ëve,1
+iir_2_2,gain,1
+iir_2_2,index,1
+iir_2_2,store,1
+iir_2_2,rare,1
+iir_2_2,harm,1
+iir_2_2,ital,1
+iir_2_2,compound splitter modul,1
+iir_2_2,hard,1
+iir_2_2,dream,1
+iir_2_2,vowel,1
+iir_2_2,domin posit,1
+iir_2_2,lack,1
+iir_2_2,limit softwar,1
+iir_2_2,process,1
+iir_2_2,gender,1
+iir_2_2,eager,1
+iir_2_2,web url,1
+iir_2_2,increas,1
+iir_2_2,usa,1
+iir_2_2,press,1
+iir_2_2,lower,1
+iir_2_2,mid sentenc,1
+iir_2_2,user,1
+iir_2_2,trivial,1
+iir_2_2,reason,1
+iir_2_2,donn moi,1
+iir_2_2,taxonomi,1
+iir_2_2,purpos,1
+iir_2_2,noun,1
+iir_2_2,chines,1
+iir_2_2,world,1
+iir_2_2,easi,1
+iir_2_2,lo angel,1
+iir_2_2,lebensversicherungsgesellschaftsangestellt,1
+iir_2_2,fold,1
+iir_2_2,cat,1
+iir_2_2,retriev,1
+iir_2_2,katakana syllabari,1
+iir_2_2,wrong,1
+iir_2_2,prescript,1
+iir_2_2,classif,1
+iir_2_2,refer,1
+iir_2_2,entrant,1
+iir_2_3,extens,1
+iir_2_3,span,1
+iir_2_3,presenc,1
+iir_2_3,intersect,1
+iir_2_3,chapter,1
+iir_2_3,oper,1
+iir_2_3,impact,1
+iir_2_3,complex queri,1
+iir_2_3,remaind,1
+iir_2_3,note,1
+iir_2_3,process,1
+iir_2_3,optim encod,1
+iir_2_3,cpu,1
+iir_2_3,malici delet strategi,1
+iir_2_3,fast,1
+iir_2_3,comparison,1
+iir_2_3,time linear,1
+iir_2_3,call,1
+iir_2_3,shortcut,1
+iir_2_3,equat,1
+iir_2_3,detail,1
+iir_2_3,build effect,1
+iir_2_3,disk,1
+iir_2_3,updat,1
+iir_2_3,depend,1
+iir_2_3,total,1
+iir_2_3,post list,1
+iir_2_3,hardwar paramet,1
+iir_2_3,opportun,1
+iir_2_3,search,1
+iir_2_3,static,1
+iir_2_3,skip,1
+iir_2_3,fals,1
+iir_2_3,hasskip,1
+iir_2_3,pointer,1
+iir_2_3,rel speed,1
+iir_2_3,variant version,1
+iir_2_3,distribut,1
+iir_2_3,item,1
+iir_2_3,memori,1
+iir_2_3,slow,1
+iir_2_3,practic,1
+iir_2_3,comput technolog,1
+iir_2_3,question,1
+iir_2_3,intermedi result,1
+iir_2_3,section,1
+iir_2_3,lot,1
+iir_2_3,easi,1
+iir_2_3,simpl heurist,1
+iir_2_3,index,1
+iir_2_3,system builder,1
+iir_2_3,techniqu,1
+iir_2_3,element,1
+iir_2_3,tradeoff,1
+iir_2_3,data structur,1
+iir_2_3,figur,1
+iir_2_3,size,1
+iir_2_3,space,1
+iir_2_3,chang game,1
+iir_2_3,effici,1
+iir_2_4,special statu,1
+iir_2_4,ineffici,1
+iir_2_4,technic concept,1
+iir_2_4,abolit,1
+iir_2_4,suffici,1
+iir_2_4,util,1
+iir_2_4,appear,1
+iir_2_4,strategi,1
+iir_2_4,oper,1
+iir_2_4,rough rule,1
+iir_2_4,extent,1
+iir_2_4,magnitud,1
+iir_2_4,potenti,1
+iir_2_4,origin,1
+iir_2_4,result,1
+iir_2_4,partial word index,1
+iir_2_4,theta,1
+iir_2_4,token index,1
+iir_2_4,sort,1
+iir_2_4,word,1
+iir_2_4,slaveri,1
+iir_2_4,constitut,1
+iir_2_4,daunt prospect,1
+iir_2_4,relat,1
+iir_2_4,model,1
+iir_2_4,dictionari,1
+iir_2_4,stanford univers,1
+iir_2_4,exercis,1
+iir_2_4,vocabulari size,1
+iir_2_4,multiword compound,1
+iir_2_4,recent search engin,1
+iir_2_4,occasion fals posit,1
+iir_2_4,quarter,1
+iir_2_4,vocabulari term,1
+iir_2_4,speech tag,1
+iir_2_4,recent,1
+iir_2_4,space implic,1
+iir_2_4,item,1
+iir_2_4,practic,1
+iir_2_4,optim manner,1
+iir_2_4,languag,1
+iir_2_4,individu term,1
+iir_2_4,section,1
+iir_2_4,britney spear,1
+iir_2_4,remov,1
+iir_2_4,posit,1
+iir_2_4,biword index,1
+iir_2_4,product name,1
+iir_2_4,candid,1
+iir_2_4,combin,1
+iir_2_4,invert index entri,1
+iir_2_4,rare,1
+iir_2_4,doubl quot,1
+iir_2_4,mention,1
+iir_2_4,figur,1
+iir_2_4,context,1
+iir_2_4,desir,1
+iir_2_4,averag,1
+iir_2_4,string,1
+iir_2_4,approach,1
+iir_2_4,applic,1
+iir_2_4,chapter,1
+iir_2_4,chanc,1
+iir_2_4,offset,1
+iir_2_4,speedup factor,1
+iir_2_4,standard solut,1
+iir_2_4,sentenc,1
+iir_2_4,asymptot complex,1
+iir_2_4,hous,1
+iir_2_4,type,1
+iir_2_4,behavior,1
+iir_2_4,term frequenc,1
+iir_2_4,sophist scheme,1
+iir_2_4,increas,1
+iir_2_4,tabl,1
+iir_2_4,william,1
+iir_2_4,document,1
+iir_2_4,user,1
+iir_2_4,form nx,1
+iir_2_4,reason,1
+iir_2_4,access,1
+iir_2_4,segment,1
+iir_2_4,post list,1
+iir_2_4,variabl length word sequenc,1
+iir_2_4,precis speech pattern,1
+iir_2_4,sec stock file,1
+iir_2_4,thumb,1
+iir_2_4,sequenc,1
+iir_2_4,book,1
+iir_2_4,time,1
+iir_2_4,articl,1
+iir_2_4,employ,1
+iir_2_4,compat,1
+iir_2_4,markup,1
+iir_2_4,roman,1
+iir_2_4,criterion,1
+iir_2_4,match,1
+iir_2_4,choic,1
+iir_2_4,preposit,1
+iir_2_4,common,1
+iir_2_4,noun,1
+iir_2_4,epic poem,1
+iir_2_4,pair,1
+iir_2_4,michael jackson,1
+iir_2_4,renegoti,1
+iir_2_4,phrase,1
+iir_2_4,countrymen,1
+iir_2_4,retriev,1
+iir_2_4,westlaw,1
+iir_2_4,queri,1
+iir_2_4,typic mixtur,1
+iir_2_4,index algorithm,1
+iir_2_4,techniqu,1
+iir_2_4,page,1
+iir_2_4,text,1
+iir_2_4,inventor stanford ovshinski,1
+iir_3_1,proper,1
+iir_3_1,close,1
+iir_3_1,method,1
+iir_3_1,task,1
+iir_3_1,branch,1
+iir_3_1,multipl level,1
+iir_3_1,symbol,1
+iir_3_1,automat,1
+iir_3_1,typograph error,1
+iir_3_1,solut,1
+iir_3_1,japanes,1
+iir_3_1,word,1
+iir_3_1,empti,1
+iir_3_1,instanc,1
+iir_3_1,search tree,1
+iir_3_1,rang,1
+iir_3_1,accid,1
+iir_3_1,rebalanc,1
+iir_3_1,dictionari,1
+iir_3_1,invert index,1
+iir_3_1,robust,1
+iir_3_1,vocabulari lookup oper,1
+iir_3_1,logic,1
+iir_3_1,hash collis,1
+iir_3_1,form,1
+iir_3_1,charact,1
+iir_3_1,disk block,1
+iir_3_1,standard,1
+iir_3_1,key,1
+iir_3_1,disk resid,1
+iir_3_1,care,1
+iir_3_1,subtre,1
+iir_3_1,rest,1
+iir_3_1,variant,1
+iir_3_1,section,1
+iir_3_1,proxim queri,1
+iir_3_1,hing,1
+iir_3_1,lot,1
+iir_3_1,system,1
+iir_3_1,background,1
+iir_3_1,current,1
+iir_3_1,specif,1
+iir_3_1,data structur,1
+iir_3_1,figur,1
+iir_3_1,term,1
+iir_3_1,vowel,1
+iir_3_1,approach,1
+iir_3_1,string,1
+iir_3_1,entri,1
+iir_3_1,idea,1
+iir_3_1,autom,1
+iir_3_1,root,1
+iir_3_1,uniqu,1
+iir_3_1,chapter,1
+iir_3_1,hash function,1
+iir_3_1,intern node,1
+iir_3_1,rel frequenc,1
+iir_3_1,comparison,1
+iir_3_1,web,1
+iir_3_1,accent version,1
+iir_3_1,detail,1
+iir_3_1,balanc properti,1
+iir_3_1,document,1
+iir_3_1,user,1
+iir_3_1,integ,1
+iir_3_1,literatur,1
+iir_3_1,account,1
+iir_3_1,uncertain,1
+iir_3_1,post list,1
+iir_3_1,binari test,1
+iir_3_1,outcom,1
+iir_3_1,interv,1
+iir_3_1,sequenc,1
+iir_3_1,time,1
+iir_3_1,advantag,1
+iir_3_1,english alphabet,1
+iir_3_1,static,1
+iir_3_1,issu,1
+iir_3_1,pointer,1
+iir_3_1,asian languag,1
+iir_3_1,choic,1
+iir_3_1,broad class,1
+iir_3_1,chines,1
+iir_3_1,herman,1
+iir_3_1,question,1
+iir_3_1,children,1
+iir_3_1,techniqu,1
+iir_3_1,easi,1
+iir_3_1,equal,1
+iir_3_1,space,1
+iir_3_1,altern spell,1
+iir_3_1,size,1
+iir_3_1,boolean,1
+iir_3_1,letter,1
+iir_3_2,wildcard queri,1
+iir_3_2,demand,1
+iir_3_2,symbol,1
+iir_3_2,intersect,1
+iir_3_2,erfi,1
+iir_3_2,prefix mon,1
+iir_3_2,search engin,1
+iir_3_2,ten fold space increas,1
+iir_3_2,filibust,1
+iir_3_2,multipl variant,1
+iir_3_2,unsur,1
+iir_3_2,link,1
+iir_3_2,rotat,1
+iir_3_2,search tree,1
+iir_3_2,instanc,1
+iir_3_2,boolean oper,1
+iir_3_2,middl,1
+iir_3_2,singl,1
+iir_3_2,dictionari,1
+iir_3_2,set,1
+iir_3_2,conveni,1
+iir_3_2,slight gener,1
+iir_3_2,disadvantag,1
+iir_3_2,disjunct,1
+iir_3_2,tradit terminolog,1
+iir_3_2,begin,1
+iir_3_2,superset,1
+iir_3_2,answer,1
+iir_3_2,stl,1
+iir_3_2,key,1
+iir_3_2,term castl,1
+iir_3_2,judici,1
+iir_3_2,section,1
+iir_3_2,candid,1
+iir_3_2,usual,1
+iir_3_2,combin,1
+iir_3_2,figur,1
+iir_3_2,root leaf path,1
+iir_3_2,color,1
+iir_3_2,vocabulari,1
+iir_3_2,walk,1
+iir_3_2,distinct,1
+iir_3_2,awar,1
+iir_3_2,interfac,1
+iir_3_2,metric,1
+iir_3_2,consider blowup,1
+iir_3_2,spell,1
+iir_3_2,standard invert index,1
+iir_3_2,process,1
+iir_3_2,fi mo er,1
+iir_3_2,conjunct,1
+iir_3_2,type,1
+iir_3_2,judiciari,1
+iir_3_2,sidney,1
+iir_3_2,common strategi,1
+iir_3_2,tle,1
+iir_3_2,moron,1
+iir_3_2,suffix mon,1
+iir_3_2,exhaust enumer,1
+iir_3_2,notic,1
+iir_3_2,fe ri,1
+iir_3_2,document,1
+iir_3_2,correct rendit,1
+iir_3_2,user,1
+iir_3_2,difficulti,1
+iir_3_2,colour,1
+iir_3_2,simpl,1
+iir_3_2,uncertain,1
+iir_3_2,step,1
+iir_3_2,revers tree,1
+iir_3_2,close interplay,1
+iir_3_2,filter,1
+iir_3_2,sequenc,1
+iir_3_2,sydney,1
+iir_3_2,match,1
+iir_3_2,form mon,1
+iir_3_2,capabl,1
+iir_3_2,expens,1
+iir_3_2,ca,1
+iir_3_2,lookup,1
+iir_3_2,gram index,1
+iir_3_2,queri universit stuttgart,1
+iir_3_2,red,1
+iir_3_2,ast,1
+iir_3_2,situat,1
+iir_3_2,phrase,1
+iir_3_2,techniqu,1
+iir_3_2,se mon,1
+iir_3_2,foreign word,1
+iir_3_2,list,1
+iir_3_2,semant,1
+iir_3_2,weed,1
+iir_3_2,structur,1
+iir_3_2,search string,1
+iir_3_2,special charact,1
+iir_3_3,length,1
+iir_3_3,spear,1
+iir_3_3,googl,1
+iir_3_3,hand,1
+iir_3_3,jaccard coeffici,1
+iir_3_3,intersect,1
+iir_3_3,misspel,1
+iir_3_3,result,1
+iir_3_3,measur,1
+iir_3_3,infeas,1
+iir_3_3,denomin,1
+iir_3_3,sum,1
+iir_3_3,implaus,1
+iir_3_3,version,1
+iir_3_3,instanc,1
+iir_3_3,quantiti,1
+iir_3_3,linear,1
+iir_3_3,substr,1
+iir_3_3,sophist variant,1
+iir_3_3,singl,1
+iir_3_3,dictionari,1
+iir_3_3,hope,1
+iir_3_3,suffix,1
+iir_3_3,set,1
+iir_3_3,dog,1
+iir_3_3,permuterm index,1
+iir_3_3,typic cell,1
+iir_3_3,charact,1
+iir_3_3,practic,1
+iir_3_3,effect,1
+iir_3_3,retriev process,1
+iir_3_3,mare,1
+iir_3_3,figur,1
+iir_3_3,string,1
+iir_3_3,fore,1
+iir_3_3,chapter,1
+iir_3_3,collect,1
+iir_3_3,portion,1
+iir_3_3,tarot,1
+iir_3_3,algorithm detail,1
+iir_3_3,plausibl,1
+iir_3_3,kind,1
+iir_3_3,empir support,1
+iir_3_3,web,1
+iir_3_3,output,1
+iir_3_3,notion,1
+iir_3_3,step,1
+iir_3_3,proxim,1
+iir_3_3,altern,1
+iir_3_3,occurr,1
+iir_3_3,insert,1
+iir_3_3,line,1
+iir_3_3,enumer,1
+iir_3_3,semaphor,1
+iir_3_3,post,1
+iir_3_3,slow,1
+iir_3_3,expens,1
+iir_3_3,common,1
+iir_3_3,minimum,1
+iir_3_3,pre comput,1
+iir_3_3,pair,1
+iir_3_3,substitut,1
+iir_3_3,proce,1
+iir_3_3,dynam program algorithm,1
+iir_3_3,straightforward applic,1
+iir_3_3,dimens,1
+iir_3_3,techniqu,1
+iir_3_3,semant,1
+iir_3_3,letter,1
+iir_3_3,isol,1
+iir_3_3,function,1
+iir_3_3,bigram,1
+iir_3_3,grunt,1
+iir_3_3,method,1
+iir_3_3,mi spell queri,1
+iir_3_3,encod,1
+iir_3_3,search engin,1
+iir_3_3,spell correct,1
+iir_3_3,path,1
+iir_3_3,rotat,1
+iir_3_3,queri bord,1
+iir_3_3,basic principl,1
+iir_3_3,mane,1
+iir_3_3,tree,1
+iir_3_3,edit distanc,1
+iir_3_3,boardroom,1
+iir_3_3,queri log,1
+iir_3_3,crucial observ,1
+iir_3_3,edit oper,1
+iir_3_3,www googl job britney html,1
+iir_3_3,reason definit,1
+iir_3_3,grnt,1
+iir_3_3,advanc,1
+iir_3_3,grant,1
+iir_3_3,effici comput,1
+iir_3_3,numer,1
+iir_3_3,section,1
+iir_3_3,gram,1
+iir_3_3,combin,1
+iir_3_3,rare,1
+iir_3_3,ital,1
+iir_3_3,carot,1
+iir_3_3,britney,1
+iir_3_3,vocabulari,1
+iir_3_3,border,1
+iir_3_3,matrix,1
+iir_3_3,codeword,1
+iir_3_3,entri,1
+iir_3_3,idea,1
+iir_3_3,term carrot,1
+iir_3_3,preset threshold,1
+iir_3_3,user type,1
+iir_3_3,spell suggest,1
+iir_3_3,form heathrow,1
+iir_3_3,remaind,1
+iir_3_3,near,1
+iir_3_3,shortcom,1
+iir_3_3,word symbol,1
+iir_3_3,weight,1
+iir_3_3,http,1
+iir_3_3,document,1
+iir_3_3,integ,1
+iir_3_3,spell error,1
+iir_3_3,time,1
+iir_3_3,sema,1
+iir_3_3,purpos,1
+iir_3_3,mase,1
+iir_3_3,phonet similar,1
+iir_3_3,heurist,1
+iir_3_3,inform,1
+iir_3_3,keyboard,1
+iir_3_3,separ issu,1
+iir_3_3,treatment,1
+iir_3_3,phrase,1
+iir_3_3,likelihood,1
+iir_3_3,biword,1
+iir_3_3,cat,1
+iir_3_3,list,1
+iir_3_3,fli,1
+iir_3_3,space,1
+iir_3_4,soundex,1
+iir_3_4,alphabet,1
+iir_3_4,applic,1
+iir_3_4,conson,1
+iir_3_4,string,1
+iir_3_4,zero,1
+iir_3_4,algorithm,1
+iir_3_4,user type,1
+iir_3_4,misspel,1
+iir_3_4,origin,1
+iir_3_4,system depend,1
+iir_3_4,scheme,1
+iir_3_4,toler retriev,1
+iir_3_4,crimin,1
+iir_3_4,convers,1
+iir_3_4,name,1
+iir_3_4,target term,1
+iir_3_4,observ,1
+iir_3_4,countri,1
+iir_3_4,equival class,1
+iir_3_4,similar sound,1
+iir_3_4,pad,1
+iir_3_4,peopl,1
+iir_3_4,instanc map,1
+iir_3_4,chang,1
+iir_3_4,wade gile,1
+iir_3_4,invert index,1
+iir_3_4,digit,1
+iir_3_4,search,1
+iir_3_4,occurr,1
+iir_3_4,intern polic depart,1
+iir_3_4,main idea,1
+iir_3_4,european languag,1
+iir_3_4,pinyin transcript,1
+iir_3_4,form,1
+iir_3_4,charact,1
+iir_3_4,rule,1
+iir_3_4,interchang,1
+iir_3_4,final techniqu,1
+iir_3_4,herman,1
+iir_3_4,variant,1
+iir_3_4,pair,1
+iir_3_4,phonet correct,1
+iir_3_4,posit,1
+iir_3_4,proper noun,1
+iir_3_4,variat,1
+iir_3_4,hermann,1
+iir_3_4,queri,1
+iir_3_4,centuri,1
+iir_3_4,letter,1
+iir_3_4,vowel,1
+iir_4_1,vari content manag system,1
+iir_4_1,databas,1
+iir_4_1,clock cycl,1
+iir_4_1,frequent,1
+iir_4_1,magnitud,1
+iir_4_1,hardwar constraint,1
+iir_4_1,nativ applic program interfac,1
+iir_4_1,email applic,1
+iir_4_1,review,1
+iir_4_1,scalabl version,1
+iir_4_1,basic,1
+iir_4_1,local file system,1
+iir_4_1,kilobyt,1
+iir_4_1,ten,1
+iir_4_1,hundr,1
+iir_4_1,invert index,1
+iir_4_1,topic,1
+iir_4_1,static collect,1
+iir_4_1,subsystem,1
+iir_4_1,server,1
+iir_4_1,secur,1
+iir_4_1,locat,1
+iir_4_1,section,1
+iir_4_1,characterist,1
+iir_4_1,data,1
+iir_4_1,vocabulari,1
+iir_4_1,averag,1
+iir_4_1,awar,1
+iir_4_1,chapter,1
+iir_4_1,challeng,1
+iir_4_1,process,1
+iir_4_1,relev,1
+iir_4_1,thousand,1
+iir_4_1,buffer,1
+iir_4_1,scale properti,1
+iir_4_1,tabl,1
+iir_4_1,web,1
+iir_4_1,http,1
+iir_4_1,api,1
+iir_4_1,effici singl machin algorithm,1
+iir_4_1,processor,1
+iir_4_1,megabyt,1
+iir_4_1,document,1
+iir_4_1,block,1
+iir_4_1,design,1
+iir_4_1,comput hardwar,1
+iir_4_1,access,1
+iir_4_1,book,1
+iir_4_1,machin,1
+iir_4_1,time,1
+iir_4_1,chunk,1
+iir_4_1,raw text,1
+iir_4_1,issu,1
+iir_4_1,intermedi file,1
+iir_4_1,disk read,1
+iir_4_1,memori,1
+iir_4_1,reader,1
+iir_4_1,common,1
+iir_4_1,enterpris search,1
+iir_4_1,retriev,1
+iir_4_1,list,1
+iir_4_1,index algorithm,1
+iir_4_1,techniqu,1
+iir_4_1,byte,1
+iir_4_2,nonposit index,1
+iir_4_2,method,1
+iir_4_2,parsenextblock,1
+iir_4_2,construct,1
+iir_4_2,document frequenc,1
+iir_4_2,magnitud,1
+iir_4_2,compress techniqu,1
+iir_4_2,mergeblock,1
+iir_4_2,result,1
+iir_4_2,sport,1
+iir_4_2,solut,1
+iir_4_2,theta,1
+iir_4_2,reuter newswir,1
+iir_4_2,person comput,1
+iir_4_2,read buffer,1
+iir_4_2,exercis,1
+iir_4_2,polit,1
+iir_4_2,domin key,1
+iir_4_2,scienc,1
+iir_4_2,sort base index,1
+iir_4_2,imag,1
+iir_4_2,item,1
+iir_4_2,wide rang,1
+iir_4_2,multimedia inform,1
+iir_4_2,standard,1
+iir_4_2,store intermedi,1
+iir_4_2,iter,1
+iir_4_2,docid,1
+iir_4_2,section,1
+iir_4_2,upper,1
+iir_4_2,map,1
+iir_4_2,data,1
+iir_4_2,figur,1
+iir_4_2,uniqu serial,1
+iir_4_2,term,1
+iir_4_2,vocabulari,1
+iir_4_2,string,1
+iir_4_2,final,1
+iir_4_2,reuter rcv collect,1
+iir_4_2,applic,1
+iir_4_2,age,1
+iir_4_2,prioriti queue,1
+iir_4_2,algorithm,1
+iir_4_2,chapter,1
+iir_4_2,collect,1
+iir_4_2,intern topic,1
+iir_4_2,byte,1
+iir_4_2,scarc,1
+iir_4_2,bsbi,1
+iir_4_2,term docid pair,1
+iir_4_2,basic step,1
+iir_4_2,tabl,1
+iir_4_2,token,1
+iir_4_2,invers,1
+iir_4_2,readabl,1
+iir_4_2,notic,1
+iir_4_2,pass approach,1
+iir_4_2,block,1
+iir_4_2,statist,1
+iir_4_2,disk space,1
+iir_4_2,busi,1
+iir_4_2,prefer,1
+iir_4_2,segment,1
+iir_4_2,post list,1
+iir_4_2,book,1
+iir_4_2,period,1
+iir_4_2,time,1
+iir_4_2,intermedi file,1
+iir_4_2,memori,1
+iir_4_2,expens,1
+iir_4_2,termid,1
+iir_4_2,central requir,1
+iir_4_2,accept speed,1
+iir_4_2,rcv,1
+iir_4_2,secondari storag,1
+iir_4_2,extern sort algorithm,1
+iir_4_2,beefi server,1
+iir_4_2,fli,1
+iir_4_2,size,1
+iir_4_2,factor,1
+iir_4_2,august,1
+iir_4_2,text,1
+iir_4_2,effici,1
+iir_4_2,refer,1
+iir_4_3,aspect,1
+iir_4_3,differ,1
+iir_4_3,simpl linear,1
+iir_4_3,oper,1
+iir_4_3,collect,1
+iir_4_3,omiss,1
+iir_4_3,excel scale properti,1
+iir_4_3,compon,1
+iir_4_3,result,1
+iir_4_3,theta,1
+iir_4_3,hash,1
+iir_4_3,return,1
+iir_4_3,bsbi,1
+iir_4_3,scalabl altern,1
+iir_4_3,call,1
+iir_4_3,term docid pair,1
+iir_4_3,sort,1
+iir_4_3,subsequ occurr,1
+iir_4_3,addit,1
+iir_4_3,document,1
+iir_4_3,dynam,1
+iir_4_3,disk,1
+iir_4_3,lexicograph,1
+iir_4_3,block,1
+iir_4_3,literatur,1
+iir_4_3,final invert index,1
+iir_4_3,track,1
+iir_4_3,dictionari,1
+iir_4_3,post list,1
+iir_4_3,time,1
+iir_4_3,stream,1
+iir_4_3,advantag,1
+iir_4_3,sort base index,1
+iir_4_3,line,1
+iir_4_3,memori,1
+iir_4_3,reader,1
+iir_4_3,spimi invert,1
+iir_4_3,termid,1
+iir_4_3,section,1
+iir_4_3,compress,1
+iir_4_3,figur,1
+iir_4_3,final merg step,1
+iir_4_3,size,1
+iir_4_3,space,1
+iir_4_3,data structur,1
+iir_4_3,term,1
+iir_4_3,effici,1
+iir_4_4,split,1
+iir_4_4,task,1
+iir_4_4,master,1
+iir_4_4,exposit,1
+iir_4_4,index construct,1
+iir_4_4,caesar,1
+iir_4_4,note,1
+iir_4_4,result,1
+iir_4_4,fashion,1
+iir_4_4,comput cluster,1
+iir_4_4,key pair,1
+iir_4_4,crawl,1
+iir_4_4,network traffic,1
+iir_4_4,instanc,1
+iir_4_4,disk,1
+iir_4_4,complex,1
+iir_4_4,person,1
+iir_4_4,spimi,1
+iir_4_4,environ,1
+iir_4_4,hundr,1
+iir_4_4,exercis,1
+iir_4_4,robust,1
+iir_4_4,topic,1
+iir_4_4,valu,1
+iir_4_4,document partit index,1
+iir_4_4,architectur,1
+iir_4_4,phase,1
+iir_4_4,form,1
+iir_4_4,standard,1
+iir_4_4,local intermedi file,1
+iir_4_4,locat,1
+iir_4_4,job,1
+iir_4_4,ongo basi,1
+iir_4_4,docid,1
+iir_4_4,input data,1
+iir_4_4,section,1
+iir_4_4,map,1
+iir_4_4,singl machin,1
+iir_4_4,figur,1
+iir_4_4,parallel,1
+iir_4_4,setup,1
+iir_4_4,true,1
+iir_4_4,term,1
+iir_4_4,applic,1
+iir_4_4,final,1
+iir_4_4,simpl solut,1
+iir_4_4,semiautomat method,1
+iir_4_4,chapter,1
+iir_4_4,collect,1
+iir_4_4,construct process,1
+iir_4_4,parser,1
+iir_4_4,instanti,1
+iir_4_4,node,1
+iir_4_4,thousand,1
+iir_4_4,bsbi,1
+iir_4_4,laggard due,1
+iir_4_4,mapreduc,1
+iir_4_4,output,1
+iir_4_4,processor,1
+iir_4_4,readabl,1
+iir_4_4,document,1
+iir_4_4,world wide web,1
+iir_4_4,sequenti read,1
+iir_4_4,design,1
+iir_4_4,total,1
+iir_4_4,step,1
+iir_4_4,requir,1
+iir_4_4,chunk,1
+iir_4_4,sequenc,1
+iir_4_4,time,1
+iir_4_4,segment file,1
+iir_4_4,memori,1
+iir_4_4,web search engin,1
+iir_4_4,manipul,1
+iir_4_4,termid,1
+iir_4_4,separ set,1
+iir_4_4,supercomput,1
+iir_4_4,invert,1
+iir_4_4,eas,1
+iir_4_4,failur reassign,1
+iir_4_4,amount,1
+iir_4_4,list,1
+iir_4_4,size,1
+iir_4_4,letter,1
+iir_4_4,function,1
+iir_4_5,simpl option,1
+iir_4_5,aspect,1
+iir_4_5,collect wide statist,1
+iir_4_5,concaten,1
+iir_4_5,cost,1
+iir_4_5,oper,1
+iir_4_5,discuss,1
+iir_4_5,result,1
+iir_4_5,delet,1
+iir_4_5,scheme,1
+iir_4_5,solut,1
+iir_4_5,theta,1
+iir_4_5,infeas,1
+iir_4_5,auxiliari index,1
+iir_4_5,disk,1
+iir_4_5,complex,1
+iir_4_5,dictionari,1
+iir_4_5,search,1
+iir_4_5,compromis,1
+iir_4_5,document collect,1
+iir_4_5,hit,1
+iir_4_5,realiti,1
+iir_4_5,docid,1
+iir_4_5,section,1
+iir_4_5,similar,1
+iir_4_5,figur,1
+iir_4_5,spell correct algorithm,1
+iir_4_5,invalid bit vector,1
+iir_4_5,shakespear,1
+iir_4_5,term,1
+iir_4_5,delay,1
+iir_4_5,level,1
+iir_4_5,vocabulari,1
+iir_4_5,represent,1
+iir_4_5,extrem,1
+iir_4_5,neglect,1
+iir_4_5,reader familiar,1
+iir_4_5,reconstruct scratch strategi,1
+iir_4_5,addit load,1
+iir_4_5,merg,1
+iir_4_5,resourc,1
+iir_4_5,mainten,1
+iir_4_5,accept,1
+iir_4_5,averag size,1
+iir_4_5,queri process,1
+iir_4_5,reason,1
+iir_4_5,requir,1
+iir_4_5,post list,1
+iir_4_5,effici gain,1
+iir_4_5,filter,1
+iir_4_5,sequenc,1
+iir_4_5,time,1
+iir_4_5,logarithm,1
+iir_4_5,altern,1
+iir_4_5,static,1
+iir_4_5,purpos,1
+iir_4_5,binomi heap data structur,1
+iir_4_5,file system,1
+iir_4_5,distribut,1
+iir_4_5,memori,1
+iir_4_5,slow,1
+iir_4_5,ave,1
+iir_4_5,scratch,1
+iir_4_5,bibl,1
+iir_4_5,fine,1
+iir_4_6,nonposit index,1
+iir_4_6,corpor,1
+iir_4_6,boolean retriev system,1
+iir_4_6,space requir,1
+iir_4_6,algorithm,1
+iir_4_6,chapter,1
+iir_4_6,construct,1
+iir_4_6,impact,1
+iir_4_6,result,1
+iir_4_6,posit inform,1
+iir_4_6,user document matrix,1
+iir_4_6,token,1
+iir_4_6,scan,1
+iir_4_6,weight,1
+iir_4_6,acl,1
+iir_4_6,gap,1
+iir_4_6,document,1
+iir_4_6,addit,1
+iir_4_6,user,1
+iir_4_6,difficulti,1
+iir_4_6,id,1
+iir_4_6,queri process,1
+iir_4_6,chang,1
+iir_4_6,manag,1
+iir_4_6,access,1
+iir_4_6,salari roster,1
+iir_4_6,exist,1
+iir_4_6,set,1
+iir_4_6,organ,1
+iir_4_6,advantag,1
+iir_4_6,insert,1
+iir_4_6,tripl,1
+iir_4_6,file system,1
+iir_4_6,post,1
+iir_4_6,respect,1
+iir_4_6,low similar,1
+iir_4_6,termid,1
+iir_4_6,data volum,1
+iir_4_6,secur,1
+iir_4_6,pair,1
+iir_4_6,docid,1
+iir_4_6,main differ,1
+iir_4_6,consider,1
+iir_4_6,section,1
+iir_4_6,optim,1
+iir_4_6,compress,1
+iir_4_6,low level employe,1
+iir_4_6,list,1
+iir_4_6,figur,1
+iir_4_6,difficult,1
+iir_4_6,structur,1
+iir_4_6,term,1
+iir_4_6,context,1
+iir_5_1,space requir,1
+iir_5_1,model collect,1
+iir_5_1,note,1
+iir_5_1,result,1
+iir_5_1,link,1
+iir_5_1,modern hardwar,1
+iir_5_1,instanc,1
+iir_5_1,linear,1
+iir_5_1,peopl,1
+iir_5_1,dictionari,1
+iir_5_1,invert index,1
+iir_5_1,lossless,1
+iir_5_1,quarter,1
+iir_5_1,growth rate,1
+iir_5_1,fit,1
+iir_5_1,reduct,1
+iir_5_1,excel,1
+iir_5_1,cach,1
+iir_5_1,expens resourc,1
+iir_5_1,practic,1
+iir_5_1,effect,1
+iir_5_1,o,1
+iir_5_1,languag,1
+iir_5_1,hit,1
+iir_5_1,statist character,1
+iir_5_1,posit,1
+iir_5_1,sens,1
+iir_5_1,typic valu,1
+iir_5_1,figur,1
+iir_5_1,benefit,1
+iir_5_1,intuit,1
+iir_5_1,natur,1
+iir_5_1,term,1
+iir_5_1,distinct,1
+iir_5_1,concern,1
+iir_5_1,rang typic,1
+iir_5_1,chapter,1
+iir_5_1,main goal,1
+iir_5_1,column,1
+iir_5_1,variabl byte encod,1
+iir_5_1,decompress,1
+iir_5_1,previou line,1
+iir_5_1,tabl,1
+iir_5_1,token,1
+iir_5_1,gene,1
+iir_5_1,name,1
+iir_5_1,paramet,1
+iir_5_1,disk space,1
+iir_5_1,simpl,1
+iir_5_1,comput,1
+iir_5_1,access,1
+iir_5_1,chunk,1
+iir_5_1,inform retriev,1
+iir_5_1,occurr,1
+iir_5_1,memori,1
+iir_5_1,squar,1
+iir_5_1,rule,1
+iir_5_1,termid,1
+iir_5_1,slope,1
+iir_5_1,prime motiv,1
+iir_5_1,porter stemmer,1
+iir_5_1,preprocess,1
+iir_5_1,queri,1
+iir_5_1,retriev scenario,1
+iir_5_1,statist properti,1
+iir_5_1,page,1
+iir_5_1,function,1
+iir_5_1,text,1
+iir_5_1,effici,1
+iir_5_1,constant,1
+iir_5_1,log log space,1
+iir_5_1,entiti,1
+iir_5_1,bit,1
+iir_5_1,ith,1
+iir_5_1,relationship,1
+iir_5_1,law,1
+iir_5_1,dictionari string method,1
+iir_5_1,cost,1
+iir_5_1,compress techniqu,1
+iir_5_1,frequenc,1
+iir_5_1,plot,1
+iir_5_1,subtl advantag,1
+iir_5_1,central data structur,1
+iir_5_1,half,1
+iir_5_1,lemmat,1
+iir_5_1,respons time,1
+iir_5_1,reuter rcv,1
+iir_5_1,vocabulari size,1
+iir_5_1,locat,1
+iir_5_1,docid,1
+iir_5_1,section,1
+iir_5_1,lot,1
+iir_5_1,cut,1
+iir_5_1,system,1
+iir_5_1,predict,1
+iir_5_1,compress algorithm,1
+iir_5_1,true,1
+iir_5_1,transfer,1
+iir_5_1,level,1
+iir_5_1,rapid decreas,1
+iir_5_1,delta,1
+iir_5_1,assumpt,1
+iir_5_1,storag,1
+iir_5_1,hypothes,1
+iir_5_1,remaind,1
+iir_5_1,zipf,1
+iir_5_1,common word,1
+iir_5_1,calcul,1
+iir_5_1,equat,1
+iir_5_1,input output,1
+iir_5_1,compact represent,1
+iir_5_1,document,1
+iir_5_1,user,1
+iir_5_1,post list,1
+iir_5_1,uncompress form,1
+iir_5_1,spell error,1
+iir_5_1,frequent word,1
+iir_5_1,indic,1
+iir_5_1,purpos,1
+iir_5_1,penalti,1
+iir_5_1,distribut,1
+iir_5_1,product,1
+iir_5_1,consequ,1
+iir_5_1,treatment,1
+iir_5_1,web search,1
+iir_5_1,essenti,1
+iir_5_1,english,1
+iir_5_1,easi,1
+iir_5_1,fold,1
+iir_5_1,refer,1
+iir_5_1,unfilt,1
+iir_5_2,systil,1
+iir_5_2,fix width scheme,1
+iir_5_2,bit,1
+iir_5_2,wast,1
+iir_5_2,space requir,1
+iir_5_2,presenc,1
+iir_5_2,list share common prefix,1
+iir_5_2,mobil phone,1
+iir_5_2,averag length,1
+iir_5_2,supercalifragilisticexpialidoci,1
+iir_5_2,primari factor,1
+iir_5_2,syzygi,1
+iir_5_2,applic scenario,1
+iir_5_2,doubl line,1
+iir_5_2,sourc,1
+iir_5_2,dictionari data structur,1
+iir_5_2,syzyget,1
+iir_5_2,disk,1
+iir_5_2,main memori,1
+iir_5_2,respons time,1
+iir_5_2,tree,1
+iir_5_2,dictionari,1
+iir_5_2,compress ratio,1
+iir_5_2,begin,1
+iir_5_2,charact,1
+iir_5_2,den,1
+iir_5_2,reuter,1
+iir_5_2,section,1
+iir_5_2,memori hog word process suit,1
+iir_5_2,limit hardwar,1
+iir_5_2,posit,1
+iir_5_2,index,1
+iir_5_2,multiterabyt collect,1
+iir_5_2,feasibl,1
+iir_5_2,tradeoff,1
+iir_5_2,figur,1
+iir_5_2,true,1
+iir_5_2,vocabulari,1
+iir_5_2,string,1
+iir_5_2,minim perfect,1
+iir_5_2,standard desktop machin,1
+iir_5_2,storag,1
+iir_5_2,collis,1
+iir_5_2,signific,1
+iir_5_2,main goal,1
+iir_5_2,gigabyt,1
+iir_5_2,onboard comput,1
+iir_5_2,portion,1
+iir_5_2,hash function,1
+iir_5_2,toler increas,1
+iir_5_2,subsequ term,1
+iir_5_2,speed,1
+iir_5_2,aid,1
+iir_5_2,shortcom,1
+iir_5_2,tabl,1
+iir_5_2,resourc,1
+iir_5_2,web,1
+iir_5_2,unicod represent,1
+iir_5_2,document,1
+iir_5_2,observ,1
+iir_5_2,block,1
+iir_5_2,creation,1
+iir_5_2,array,1
+iir_5_2,partit,1
+iir_5_2,total,1
+iir_5_2,step,1
+iir_5_2,enterpris search server,1
+iir_5_2,redund,1
+iir_5_2,dynam environ,1
+iir_5_2,dictionari string storag pointer,1
+iir_5_2,pointer,1
+iir_5_2,post,1
+iir_5_2,slow,1
+iir_5_2,seri,1
+iir_5_2,front,1
+iir_5_2,minimum,1
+iir_5_2,experi,1
+iir_5_2,english,1
+iir_5_2,reuter rcv dictionari,1
+iir_5_2,queri,1
+iir_5_2,list,1
+iir_5_2,box,1
+iir_5_2,size,1
+iir_5_2,byte,1
+iir_5_2,fix width entri,1
+iir_5_2,page,1
+iir_5_2,hydrochlorofluorocarbon,1
+iir_5_3,accur,1
+iir_5_3,length,1
+iir_5_3,extens,1
+iir_5_3,rel weight,1
+iir_5_3,close,1
+iir_5_3,short,1
+iir_5_3,concaten,1
+iir_5_3,extent,1
+iir_5_3,result,1
+iir_5_3,mask,1
+iir_5_3,measur,1
+iir_5_3,bytewis compress,1
+iir_5_3,entropi,1
+iir_5_3,sum,1
+iir_5_3,unit,1
+iir_5_3,unicod,1
+iir_5_3,instanc,1
+iir_5_3,implement,1
+iir_5_3,middl,1
+iir_5_3,model,1
+iir_5_3,set,1
+iir_5_3,extract,1
+iir_5_3,reduct,1
+iir_5_3,compromis,1
+iir_5_3,cach,1
+iir_5_3,charact,1
+iir_5_3,handi,1
+iir_5_3,effect,1
+iir_5_3,bit word,1
+iir_5_3,final estim,1
+iir_5_3,characterist,1
+iir_5_3,finer,1
+iir_5_3,figur,1
+iir_5_3,univers,1
+iir_5_3,averag,1
+iir_5_3,string,1
+iir_5_3,moment,1
+iir_5_3,chapter,1
+iir_5_3,offset,1
+iir_5_3,subsequ calcul,1
+iir_5_3,collect,1
+iir_5_3,column,1
+iir_5_3,data transfer,1
+iir_5_3,optim encod,1
+iir_5_3,speed,1
+iir_5_3,decompress,1
+iir_5_3,tabl,1
+iir_5_3,invers,1
+iir_5_3,token,1
+iir_5_3,principl,1
+iir_5_3,name,1
+iir_5_3,pessimist,1
+iir_5_3,disk space,1
+iir_5_3,comput,1
+iir_5_3,simpl,1
+iir_5_3,variabl encod method,1
+iir_5_3,sequenc,1
+iir_5_3,paramet free,1
+iir_5_3,altern,1
+iir_5_3,occurr,1
+iir_5_3,line,1
+iir_5_3,uncertainti,1
+iir_5_3,equiprob,1
+iir_5_3,memori,1
+iir_5_3,post,1
+iir_5_3,expens,1
+iir_5_3,experi,1
+iir_5_3,actual,1
+iir_5_3,pair,1
+iir_5_3,excel tradeoff,1
+iir_5_3,arachnocentr,1
+iir_5_3,size,1
+iir_5_3,factor,1
+iir_5_3,page,1
+iir_5_3,nibbl,1
+iir_5_3,split,1
+iir_5_3,law,1
+iir_5_3,cost,1
+iir_5_3,magnitud,1
+iir_5_3,frequenc,1
+iir_5_3,correct,1
+iir_5_3,goal,1
+iir_5_3,gap,1
+iir_5_3,complex,1
+iir_5_3,optimum,1
+iir_5_3,fourth,1
+iir_5_3,key idea,1
+iir_5_3,reuter rcv,1
+iir_5_3,frequent term,1
+iir_5_3,begin,1
+iir_5_3,term statist,1
+iir_5_3,discrep,1
+iir_5_3,pseudocod,1
+iir_5_3,docid,1
+iir_5_3,decod,1
+iir_5_3,boundari,1
+iir_5_3,section,1
+iir_5_3,lot,1
+iir_5_3,predict,1
+iir_5_3,index,1
+iir_5_3,store,1
+iir_5_3,uniform distribut,1
+iir_5_3,remark,1
+iir_5_3,rank,1
+iir_5_3,binari,1
+iir_5_3,delimit,1
+iir_5_3,vocabulari,1
+iir_5_3,effici represent,1
+iir_5_3,applic,1
+iir_5_3,assumpt,1
+iir_5_3,scarc resourc,1
+iir_5_3,uncompress,1
+iir_5_3,unari code,1
+iir_5_3,zipf,1
+iir_5_3,type,1
+iir_5_3,posit inform,1
+iir_5_3,fraction,1
+iir_5_3,object,1
+iir_5_3,document,1
+iir_5_3,block,1
+iir_5_3,queri process,1
+iir_5_3,reason,1
+iir_5_3,absolut certainti,1
+iir_5_3,time,1
+iir_5_3,bit level oper shift,1
+iir_5_3,refer,1
+iir_5_3,payload,1
+iir_5_3,proport,1
+iir_5_3,row,1
+iir_5_3,question,1
+iir_5_3,fold,1
+iir_5_3,equal,1
+iir_5_3,properti,1
+iir_5_3,amount,1
+iir_5_3,byte,1
+iir_5_3,tenth,1
+iir_5_3,prefix free,1
+iir_6_1,extens,1
+iir_6_1,contribut,1
+iir_6_1,understand,1
+iir_6_1,presenc,1
+iir_6_1,encod,1
+iir_6_1,tupl,1
+iir_6_1,search engin,1
+iir_6_1,complet develop,1
+iir_6_1,abstract,1
+iir_6_1,finit,1
+iir_6_1,merchant,1
+iir_6_1,result,1
+iir_6_1,content,1
+iir_6_1,expert,1
+iir_6_1,boolean,1
+iir_6_1,metadata,1
+iir_6_1,instanc,1
+iir_6_1,main memori,1
+iir_6_1,rang,1
+iir_6_1,tree,1
+iir_6_1,simpl approach,1
+iir_6_1,dictionari,1
+iir_6_1,set,1
+iir_6_1,nuanc judgment,1
+iir_6_1,topic,1
+iir_6_1,linear combin,1
+iir_6_1,valu,1
+iir_6_1,methodolog,1
+iir_6_1,parametr index,1
+iir_6_1,reduct,1
+iir_6_1,formul,1
+iir_6_1,post intersect,1
+iir_6_1,class,1
+iir_6_1,bodi,1
+iir_6_1,tripl,1
+iir_6_1,effici comput,1
+iir_6_1,expens compon,1
+iir_6_1,respect,1
+iir_6_1,standard,1
+iir_6_1,effect,1
+iir_6_1,languag,1
+iir_6_1,format,1
+iir_6_1,human editor,1
+iir_6_1,section,1
+iir_6_1,arbitrari,1
+iir_6_1,poor yorick,1
+iir_6_1,introduct,1
+iir_6_1,usual,1
+iir_6_1,arbitrari free text,1
+iir_6_1,similar,1
+iir_6_1,date,1
+iir_6_1,author,1
+iir_6_1,figur,1
+iir_6_1,view,1
+iir_6_1,data,1
+iir_6_1,sophist implement,1
+iir_6_1,term,1
+iir_6_1,vocabulari,1
+iir_6_1,applic,1
+iir_6_1,concern,1
+iir_6_1,algorithm,1
+iir_6_1,chapter,1
+iir_6_1,addit structur,1
+iir_6_1,zone,1
+iir_6_1,field,1
+iir_6_1,collect,1
+iir_6_1,descript,1
+iir_6_1,authorship,1
+iir_6_1,relev,1
+iir_6_1,unbound amount,1
+iir_6_1,notat,1
+iir_6_1,titl,1
+iir_6_1,web,1
+iir_6_1,principl,1
+iir_6_1,detail,1
+iir_6_1,weight,1
+iir_6_1,equat,1
+iir_6_1,document,1
+iir_6_1,user,1
+iir_6_1,literatur,1
+iir_6_1,creation,1
+iir_6_1,queri process,1
+iir_6_1,reason,1
+iir_6_1,parametr search,1
+iir_6_1,william shakespear,1
+iir_6_1,interv,1
+iir_6_1,machin learn relev,1
+iir_6_1,public,1
+iir_6_1,sequenc,1
+iir_6_1,inform retriev,1
+iir_6_1,score,1
+iir_6_1,occurr,1
+iir_6_1,match,1
+iir_6_1,reader,1
+iir_6_1,accumul,1
+iir_6_1,obviou manner,1
+iir_6_1,pair,1
+iir_6_1,phrase,1
+iir_6_1,labor intens assembl,1
+iir_6_1,machin recogniz form,1
+iir_6_1,error,1
+iir_6_1,size,1
+iir_6_1,techniqu,1
+iir_6_1,absenc,1
+iir_6_1,function,1
+iir_6_1,constant,1
+iir_6_2,crucial,1
+iir_6_2,justif,1
+iir_6_2,freeform,1
+iir_6_2,logic step,1
+iir_6_2,john,1
+iir_6_2,content,1
+iir_6_2,meaning,1
+iir_6_2,rigor form,1
+iir_6_2,queri term,1
+iir_6_2,sum,1
+iir_6_2,search interfac,1
+iir_6_2,word,1
+iir_6_2,instanc,1
+iir_6_2,mari,1
+iir_6_2,vector,1
+iir_6_2,materi,1
+iir_6_2,dictionari,1
+iir_6_2,set,1
+iir_6_2,exercis,1
+iir_6_2,effect,1
+iir_6_2,contrast,1
+iir_6_2,section,1
+iir_6_2,power,1
+iir_6_2,index,1
+iir_6_2,mechan,1
+iir_6_2,usual,1
+iir_6_2,figur,1
+iir_6_2,view,1
+iir_6_2,rank,1
+iir_6_2,intuit,1
+iir_6_2,approach,1
+iir_6_2,exact,1
+iir_6_2,idea,1
+iir_6_2,ident,1
+iir_6_2,popular,1
+iir_6_2,zone,1
+iir_6_2,base,1
+iir_6_2,boolean retriev,1
+iir_6_2,bag,1
+iir_6_2,collect,1
+iir_6_2,definit,1
+iir_6_2,compon,1
+iir_6_2,relev,1
+iir_6_2,plausibl,1
+iir_6_2,document level statist,1
+iir_6_2,idf,1
+iir_6_2,web,1
+iir_6_2,weight,1
+iir_6_2,subscript,1
+iir_6_2,low,1
+iir_6_2,equat,1
+iir_6_2,document,1
+iir_6_2,literatur,1
+iir_6_2,notion,1
+iir_6_2,simpl,1
+iir_6_2,reason,1
+iir_6_2,commonplac,1
+iir_6_2,posit real,1
+iir_6_2,critic,1
+iir_6_2,score,1
+iir_6_2,time,1
+iir_6_2,logarithm,1
+iir_6_2,occurr,1
+iir_6_2,purpos,1
+iir_6_2,inform,1
+iir_6_2,insur,1
+iir_6_2,question,1
+iir_6_2,search oper,1
+iir_6_2,equal,1
+iir_6_2,auto industri,1
+iir_6_2,factor,1
+iir_6_2,page,1
+iir_6_2,quantit,1
+iir_6_2,boost,1
+iir_6_3,jane austen,1
+iir_6_3,tf idf weight scheme,1
+iir_6_3,contribut,1
+iir_6_3,wast,1
+iir_6_3,jealou,1
+iir_6_3,cost,1
+iir_6_3,specif implement,1
+iir_6_3,pride,1
+iir_6_3,tf idf,1
+iir_6_3,discuss,1
+iir_6_3,magnitud,1
+iir_6_3,john,1
+iir_6_3,score equal,1
+iir_6_3,emili bront,1
+iir_6_3,document time,1
+iir_6_3,measur,1
+iir_6_3,effici techniqu,1
+iir_6_3,approxim,1
+iir_6_3,denomin,1
+iir_6_3,version,1
+iir_6_3,repeat,1
+iir_6_3,result list,1
+iir_6_3,quantiti,1
+iir_6_3,ten,1
+iir_6_3,set,1
+iir_6_3,invert index,1
+iir_6_3,extract,1
+iir_6_3,valu,1
+iir_6_3,gossip,1
+iir_6_3,prejudic,1
+iir_6_3,search,1
+iir_6_3,word represent,1
+iir_6_3,develop,1
+iir_6_3,axi,1
+iir_6_3,affect,1
+iir_6_3,sa,1
+iir_6_3,basic algorithm,1
+iir_6_3,prioriti queue data structur,1
+iir_6_3,practic,1
+iir_6_3,effect,1
+iir_6_3,standard,1
+iir_6_3,perfect,1
+iir_6_3,numer,1
+iir_6_3,document collect,1
+iir_6_3,section,1
+iir_6_3,system,1
+iir_6_3,drawback,1
+iir_6_3,pivot step,1
+iir_6_3,doc,1
+iir_6_3,sens,1
+iir_6_3,store,1
+iir_6_3,similar,1
+iir_6_3,studi,1
+iir_6_3,figur,1
+iir_6_3,view,1
+iir_6_3,term weight function,1
+iir_6_3,wuther height,1
+iir_6_3,ident,1
+iir_6_3,document vector,1
+iir_6_3,document mari,1
+iir_6_3,chapter,1
+iir_6_3,bag,1
+iir_6_3,mxiyi,1
+iir_6_3,fundament,1
+iir_6_3,recal,1
+iir_6_3,compon,1
+iir_6_3,process,1
+iir_6_3,featur,1
+iir_6_3,thousand,1
+iir_6_3,term document matrix,1
+iir_6_3,comparison,1
+iir_6_3,angl,1
+iir_6_3,rel import,1
+iir_6_3,tabl,1
+iir_6_3,heap,1
+iir_6_3,term time,1
+iir_6_3,equat,1
+iir_6_3,normal factor,1
+iir_6_3,distant,1
+iir_6_3,user,1
+iir_6_3,post entri,1
+iir_6_3,notion,1
+iir_6_3,comput,1
+iir_6_3,mislead,1
+iir_6_3,immateri,1
+iir_6_3,dot product,1
+iir_6_3,head,1
+iir_6_3,book,1
+iir_6_3,occurr,1
+iir_6_3,purpos,1
+iir_6_3,precomput,1
+iir_6_3,pap,1
+iir_6_3,reader,1
+iir_6_3,heurist,1
+iir_6_3,accumul,1
+iir_6_3,euclidean length,1
+iir_6_3,seri,1
+iir_6_3,sensibl,1
+iir_6_3,jealousi,1
+iir_6_3,consequ,1
+iir_6_3,basic idea,1
+iir_6_3,pair,1
+iir_6_3,treatment,1
+iir_6_3,compel reason,1
+iir_6_3,document length,1
+iir_6_3,outermost loop,1
+iir_6_3,host,1
+iir_6_3,inform retriev oper,1
+iir_6_3,novel,1
+iir_6_3,sim,1
+iir_6_3,queri,1
+iir_6_3,dimens,1
+iir_6_4,xand yax,1
+iir_6_4,subtleti,1
+iir_6_4,hand,1
+iir_6_4,contribut,1
+iir_6_4,aspect,1
+iir_6_4,method,1
+iir_6_4,phenomenon,1
+iir_6_4,vector space,1
+iir_6_4,complet develop,1
+iir_6_4,unnatur,1
+iir_6_4,tf idf,1
+iir_6_4,result,1
+iir_6_4,content,1
+iir_6_4,probabl,1
+iir_6_4,plot,1
+iir_6_4,denomin,1
+iir_6_4,word,1
+iir_6_4,repeat,1
+iir_6_4,swing,1
+iir_6_4,unstabl,1
+iir_6_4,instanc,1
+iir_6_4,independ,1
+iir_6_4,complex,1
+iir_6_4,linear,1
+iir_6_4,mnemon,1
+iir_6_4,implement,1
+iir_6_4,machin learn,1
+iir_6_4,repres,1
+iir_6_4,set,1
+iir_6_4,princip,1
+iir_6_4,begin,1
+iir_6_4,axi,1
+iir_6_4,form,1
+iir_6_4,answer,1
+iir_6_4,practic,1
+iir_6_4,effect,1
+iir_6_4,variant,1
+iir_6_4,section,1
+iir_6_4,modest,1
+iir_6_4,hing,1
+iir_6_4,studi techniqu,1
+iir_6_4,skew distribut,1
+iir_6_4,sens,1
+iir_6_4,common modif,1
+iir_6_4,histogram,1
+iir_6_4,continu,1
+iir_6_4,author,1
+iir_6_4,figur,1
+iir_6_4,curv,1
+iir_6_4,hard,1
+iir_6_4,rank,1
+iir_6_4,term,1
+iir_6_4,triplet,1
+iir_6_4,approach,1
+iir_6_4,bucket,1
+iir_6_4,applic,1
+iir_6_4,compens,1
+iir_6_4,extrem,1
+iir_6_4,chapter,1
+iir_6_4,signific,1
+iir_6_4,custom servic websit,1
+iir_6_4,collect,1
+iir_6_4,fundament,1
+iir_6_4,featur,1
+iir_6_4,wf idf,1
+iir_6_4,relev,1
+iir_6_4,categori,1
+iir_6_4,role,1
+iir_6_4,fraction,1
+iir_6_4,boolean judgment,1
+iir_6_4,weight,1
+iir_6_4,equat,1
+iir_6_4,anomali,1
+iir_6_4,notic,1
+iir_6_4,ntf idf,1
+iir_6_4,effici reason,1
+iir_6_4,depend,1
+iir_6_4,segment,1
+iir_6_4,lnc ltc,1
+iir_6_4,specif combin,1
+iir_6_4,unit vector,1
+iir_6_4,pivot,1
+iir_6_4,xaxi,1
+iir_6_4,score,1
+iir_6_4,logarithm,1
+iir_6_4,smart notat,1
+iir_6_4,altern,1
+iir_6_4,occurr,1
+iir_6_4,time,1
+iir_6_4,issu,1
+iir_6_4,thick line,1
+iir_6_4,specif choic,1
+iir_6_4,expens,1
+iir_6_4,inform,1
+iir_6_4,copi,1
+iir_6_4,basic idea,1
+iir_6_4,question,1
+iir_6_4,document length,1
+iir_6_4,slope,1
+iir_6_4,inform retriev system,1
+iir_6_4,variat,1
+iir_6_4,thin,1
+iir_6_4,queri,1
+iir_6_4,piv,1
+iir_6_4,tendenc,1
+iir_6_4,factor,1
+iir_6_4,letter,1
+iir_6_4,function,1
+iir_6_4,normal,1
+iir_6_4,classif,1
+iir_6_4,consider research,1
+iir_7_1,close,1
+iir_7_1,outer loop,1
+iir_7_1,hand,1
+iir_7_1,suit,1
+iir_7_1,discuss,1
+iir_7_1,content,1
+iir_7_1,result,1
+iir_7_1,dictionari term,1
+iir_7_1,scheme,1
+iir_7_1,measur,1
+iir_7_1,leader,1
+iir_7_1,scan,1
+iir_7_1,version,1
+iir_7_1,queri independ,1
+iir_7_1,instanc,1
+iir_7_1,quantiti,1
+iir_7_1,simpl sum,1
+iir_7_1,inexact top retriev,1
+iir_7_1,news stori,1
+iir_7_1,set,1
+iir_7_1,topic,1
+iir_7_1,static qualiti score,1
+iir_7_1,vector space model,1
+iir_7_1,common queri oper,1
+iir_7_1,form,1
+iir_7_1,multipli add,1
+iir_7_1,minim,1
+iir_7_1,effect,1
+iir_7_1,prefix,1
+iir_7_1,adapt,1
+iir_7_1,figur,1
+iir_7_1,piec,1
+iir_7_1,bad,1
+iir_7_1,algorithm,1
+iir_7_1,chapter,1
+iir_7_1,impact,1
+iir_7_1,collect,1
+iir_7_1,speed,1
+iir_7_1,complet search engin,1
+iir_7_1,follow,1
+iir_7_1,heap,1
+iir_7_1,web,1
+iir_7_1,learn method,1
+iir_7_1,output,1
+iir_7_1,low,1
+iir_7_1,paramet,1
+iir_7_1,queri depend manner,1
+iir_7_1,risk,1
+iir_7_1,partit,1
+iir_7_1,singl pass,1
+iir_7_1,comput,1
+iir_7_1,total,1
+iir_7_1,step,1
+iir_7_1,final stage,1
+iir_7_1,signific benefit,1
+iir_7_1,score,1
+iir_7_1,line,1
+iir_7_1,issu,1
+iir_7_1,expens,1
+iir_7_1,accumul,1
+iir_7_1,tf idf weight,1
+iir_7_1,techniqu,1
+iir_7_1,absenc,1
+iir_7_1,page,1
+iir_7_1,function,1
+iir_7_1,structur,1
+iir_7_1,basic cosin,1
+iir_7_1,cluster prune,1
+iir_7_1,proxi,1
+iir_7_1,cost,1
+iir_7_1,exposit,1
+iir_7_1,dens,1
+iir_7_1,consist,1
+iir_7_1,document time,1
+iir_7_1,free text queri,1
+iir_7_1,fast,1
+iir_7_1,rel,1
+iir_7_1,queri catcher,1
+iir_7_1,posit integ,1
+iir_7_1,rank factor,1
+iir_7_1,contend,1
+iir_7_1,random,1
+iir_7_1,post intersect,1
+iir_7_1,danger,1
+iir_7_1,advanc,1
+iir_7_1,section,1
+iir_7_1,boolean queri,1
+iir_7_1,union,1
+iir_7_1,index,1
+iir_7_1,candid,1
+iir_7_1,direct extens,1
+iir_7_1,combin,1
+iir_7_1,favor review,1
+iir_7_1,approach,1
+iir_7_1,applic,1
+iir_7_1,idea,1
+iir_7_1,preset threshold,1
+iir_7_1,descript,1
+iir_7_1,compon,1
+iir_7_1,process,1
+iir_7_1,relev,1
+iir_7_1,rye,1
+iir_7_1,perspect,1
+iir_7_1,idf,1
+iir_7_1,term time,1
+iir_7_1,alter,1
+iir_7_1,term weight,1
+iir_7_1,theori,1
+iir_7_1,observ,1
+iir_7_1,user,1
+iir_7_1,stop word,1
+iir_7_1,top doc,1
+iir_7_1,reason,1
+iir_7_1,region,1
+iir_7_1,purpos,1
+iir_7_1,precomput,1
+iir_7_1,concurr travers,1
+iir_7_1,pointer,1
+iir_7_1,absolut,1
+iir_7_1,distribut,1
+iir_7_1,heurist,1
+iir_7_1,seri,1
+iir_7_1,likelihood,1
+iir_7_1,variat,1
+iir_7_1,equal,1
+iir_7_1,list,1
+iir_7_1,context,1
+iir_7_2,queri oper,1
+iir_7_2,run,1
+iir_7_2,contribut,1
+iir_7_2,googl,1
+iir_7_2,hand tune,1
+iir_7_2,vector space,1
+iir_7_2,phrase queri,1
+iir_7_2,result,1
+iir_7_2,merger,1
+iir_7_2,import,1
+iir_7_2,hand code,1
+iir_7_2,mlr,1
+iir_7_2,free text queri,1
+iir_7_2,pure cosin similar,1
+iir_7_2,user keyword,1
+iir_7_2,boolean,1
+iir_7_2,metadata,1
+iir_7_2,word,1
+iir_7_2,common solut,1
+iir_7_2,bank,1
+iir_7_2,qualiti,1
+iir_7_2,instanc,1
+iir_7_2,contend,1
+iir_7_2,complex,1
+iir_7_2,machin learn,1
+iir_7_2,gener,1
+iir_7_2,merci,1
+iir_7_2,set,1
+iir_7_2,hundr,1
+iir_7_2,rate,1
+iir_7_2,proxim weight,1
+iir_7_2,search,1
+iir_7_2,queri intent,1
+iir_7_2,technic audienc,1
+iir_7_2,form,1
+iir_7_2,answer,1
+iir_7_2,languag,1
+iir_7_2,queri pars layer,1
+iir_7_2,variant,1
+iir_7_2,scalabl approach,1
+iir_7_2,modul,1
+iir_7_2,section,1
+iir_7_2,characterist,1
+iir_7_2,introduct,1
+iir_7_2,figur,1
+iir_7_2,piec,1
+iir_7_2,aggreg,1
+iir_7_2,top center,1
+iir_7_2,rank,1
+iir_7_2,width,1
+iir_7_2,term,1
+iir_7_2,applic,1
+iir_7_2,idea,1
+iir_7_2,complet search system data path,1
+iir_7_2,tier index,1
+iir_7_2,chapter,1
+iir_7_2,signific,1
+iir_7_2,departur,1
+iir_7_2,collect,1
+iir_7_2,sentenc,1
+iir_7_2,compon,1
+iir_7_2,featur,1
+iir_7_2,relev,1
+iir_7_2,succinct explan,1
+iir_7_2,provis,1
+iir_7_2,token,1
+iir_7_2,web,1
+iir_7_2,subject,1
+iir_7_2,score document,1
+iir_7_2,knowledg,1
+iir_7_2,snippet,1
+iir_7_2,dark arrow,1
+iir_7_2,integ,1
+iir_7_2,post entri,1
+iir_7_2,comput,1
+iir_7_2,multipl sourc,1
+iir_7_2,step,1
+iir_7_2,compani,1
+iir_7_2,spell correct candid,1
+iir_7_2,window,1
+iir_7_2,execut,1
+iir_7_2,semant,1
+iir_7_2,time,1
+iir_7_2,champion list,1
+iir_7_2,stream,1
+iir_7_2,structur,1
+iir_7_2,issu,1
+iir_7_2,rudimentari search system,1
+iir_7_2,difficult exercis,1
+iir_7_2,toolkit,1
+iir_7_2,heurist,1
+iir_7_2,evid,1
+iir_7_2,copi,1
+iir_7_2,soft conjunct,1
+iir_7_2,retriev,1
+iir_7_2,element,1
+iir_7_2,techniqu,1
+iir_7_2,factor,1
+iir_7_2,format detect,1
+iir_7_2,function,1
+iir_7_2,linguist process,1
+iir_7_3,googl,1
+iir_7_3,relationship,1
+iir_7_3,hand,1
+iir_7_3,presenc,1
+iir_7_3,lossi,1
+iir_7_3,encod,1
+iir_7_3,search engin,1
+iir_7_3,phrase queri,1
+iir_7_3,free text queri,1
+iir_7_3,rel,1
+iir_7_3,boolean,1
+iir_7_3,word,1
+iir_7_3,instanc,1
+iir_7_3,independ,1
+iir_7_3,implement,1
+iir_7_3,interpret,1
+iir_7_3,rome,1
+iir_7_3,model,1
+iir_7_3,dictionari,1
+iir_7_3,set,1
+iir_7_3,vector space model,1
+iir_7_3,axi,1
+iir_7_3,form,1
+iir_7_3,trigram,1
+iir_7_3,revers,1
+iir_7_3,section,1
+iir_7_3,system,1
+iir_7_3,standpoint,1
+iir_7_3,index,1
+iir_7_3,usual,1
+iir_7_3,roma,1
+iir_7_3,true,1
+iir_7_3,level,1
+iir_7_3,term,1
+iir_7_3,represent,1
+iir_7_3,chapter,1
+iir_7_3,compon,1
+iir_7_3,express,1
+iir_7_3,wildcard,1
+iir_7_3,idf,1
+iir_7_3,retriev method,1
+iir_7_3,weight,1
+iir_7_3,evid accumul,1
+iir_7_3,document,1
+iir_7_3,call norm,1
+iir_7_3,sophist user,1
+iir_7_3,notion,1
+iir_7_3,formula,1
+iir_7_3,exist,1
+iir_7_3,specif combin,1
+iir_7_3,phrase german shepherd,1
+iir_7_3,score,1
+iir_7_3,indic,1
+iir_7_3,axe,1
+iir_7_3,roman,1
+iir_7_3,post,1
+iir_7_3,paradigm,1
+iir_7_3,evalu,1
+iir_7_3,keyword,1
+iir_7_3,easi,1
+iir_7_3,biword,1
+iir_7_3,default,1
+iir_7_3,semant,1
+iir_7_3,absenc,1
+iir_8_1,distinct,1
+iir_8_1,random sampl,1
+iir_8_1,moment,1
+iir_8_1,basi,1
+iir_8_1,binari assess,1
+iir_8_1,decis,1
+iir_8_1,express,1
+iir_8_1,result,1
+iir_8_1,pet python,1
+iir_8_1,rel,1
+iir_8_1,weight,1
+iir_8_1,relev judgment,1
+iir_8_1,word,1
+iir_8_1,suffici minimum,1
+iir_8_1,simplif,1
+iir_8_1,document,1
+iir_8_1,variabl,1
+iir_8_1,test suit,1
+iir_8_1,averag perform,1
+iir_8_1,user,1
+iir_8_1,paramet,1
+iir_8_1,risk,1
+iir_8_1,unbias estim,1
+iir_8_1,notion,1
+iir_8_1,ground truth judgment,1
+iir_8_1,set,1
+iir_8_1,queri document pair,1
+iir_8_1,thumb,1
+iir_8_1,altern,1
+iir_8_1,web search engin,1
+iir_8_1,inform,1
+iir_8_1,standard,1
+iir_8_1,inform retriev effect,1
+iir_8_1,respect,1
+iir_8_1,effect,1
+iir_8_1,practic,1
+iir_8_1,rule,1
+iir_8_1,tester,1
+iir_8_1,correct procedur,1
+iir_8_1,red,1
+iir_8_1,section,1
+iir_8_1,system,1
+iir_8_1,tune,1
+iir_8_1,queri,1
+iir_8_1,heart attack,1
+iir_8_1,wine,1
+iir_8_1,wrong,1
+iir_8_1,test collect,1
+iir_8_1,difficult,1
+iir_8_1,nonrelev,1
+iir_8_1,scale,1
+iir_8_1,reason size,1
+iir_8_2,inform retriev system evalu,1
+iir_8_2,newsgroup,1
+iir_8_2,text retriev confer,1
+iir_8_2,cranfield collect,1
+iir_8_2,trec,1
+iir_8_2,basi,1
+iir_8_2,research,1
+iir_8_2,chapter,1
+iir_8_2,research nii ac jp ntcir data data en html cross languag evalu forum,1
+iir_8_2,framework,1
+iir_8_2,abstract,1
+iir_8_2,clef,1
+iir_8_2,magnitud,1
+iir_8_2,nation institut,1
+iir_8_2,consist,1
+iir_8_2,categori,1
+iir_8_2,ken lang,1
+iir_8_2,www clef campaign org,1
+iir_8_2,aerodynam journal articl,1
+iir_8_2,document,1
+iir_8_2,rang,1
+iir_8_2,track,1
+iir_8_2,total,1
+iir_8_2,futur,1
+iir_8_2,set,1
+iir_8_2,reuter rcv,1
+iir_8_2,nist,1
+iir_8_2,topic,1
+iir_8_2,rich annot,1
+iir_8_2,text classif,1
+iir_8_2,technolog,1
+iir_8_2,cd,1
+iir_8_2,ntcir,1
+iir_8_2,east asian languag,1
+iir_8_2,detail text passag,1
+iir_8_2,begin,1
+iir_8_2,articl,1
+iir_8_2,late,1
+iir_8_2,subcollect,1
+iir_8_2,recent,1
+iir_8_2,standard test collect,1
+iir_8_2,precis quantit measur,1
+iir_8_2,standard,1
+iir_8_2,pair,1
+iir_8_2,gov,1
+iir_8_2,remov,1
+iir_8_2,system,1
+iir_8_2,evalu seri,1
+iir_8_2,data,1
+iir_8_2,queri,1
+iir_8_2,list,1
+iir_8_2,coupl,1
+iir_8_2,unit kingdom,1
+iir_8_2,size,1
+iir_8_2,foreign broadcast inform servic articl,1
+iir_8_2,elementari pilot experi,1
+iir_8_2,page,1
+iir_8_2,exhaust relev judgment,1
+iir_8_2,scale,1
+iir_8_3,beta,1
+iir_8_3,arithmet,1
+iir_8_3,accuraci,1
+iir_8_3,close,1
+iir_8_3,toler,1
+iir_8_3,graph,1
+iir_8_3,intellig analyst,1
+iir_8_3,short,1
+iir_8_3,frequent,1
+iir_8_3,strategi,1
+iir_8_3,system effect,1
+iir_8_3,result,1
+iir_8_3,correct,1
+iir_8_3,return,1
+iir_8_3,individu,1
+iir_8_3,quantiti,1
+iir_8_3,set,1
+iir_8_3,rate,1
+iir_8_3,valu,1
+iir_8_3,ingredi,1
+iir_8_3,actual class,1
+iir_8_3,subset,1
+iir_8_3,formul,1
+iir_8_3,conting tabl,1
+iir_8_3,contrast,1
+iir_8_3,weight precis,1
+iir_8_3,slice,1
+iir_8_3,effect measur,1
+iir_8_3,decreas function,1
+iir_8_3,data,1
+iir_8_3,figur,1
+iir_8_3,term,1
+iir_8_3,averag,1
+iir_8_3,percentag,1
+iir_8_3,recal,1
+iir_8_3,process,1
+iir_8_3,relev,1
+iir_8_3,calcul,1
+iir_8_3,plausibl,1
+iir_8_3,fraction,1
+iir_8_3,class classifi,1
+iir_8_3,hard disk,1
+iir_8_3,document,1
+iir_8_3,user,1
+iir_8_3,notion,1
+iir_8_3,paraleg,1
+iir_8_3,simpl,1
+iir_8_3,reason,1
+iir_8_3,fals posit,1
+iir_8_3,formula,1
+iir_8_3,advantag,1
+iir_8_3,skew,1
+iir_8_3,choic,1
+iir_8_3,obviou altern,1
+iir_8_3,reader,1
+iir_8_3,inform,1
+iir_8_3,inform retriev effect,1
+iir_8_3,evalu,1
+iir_8_3,minimum,1
+iir_8_3,circumst,1
+iir_8_3,unsatisfi,1
+iir_8_3,retriev situat,1
+iir_8_3,weight harmon,1
+iir_8_3,typic web surfer,1
+iir_8_3,equal,1
+iir_8_3,amount,1
+iir_8_3,queri,1
+iir_8_3,page,1
+iir_8_3,nonrelev,1
+iir_8_3,scale,1
+iir_8_3,classif,1
+iir_8_4,accur,1
+iir_8_4,arithmet,1
+iir_8_4,justif,1
+iir_8_4,understand,1
+iir_8_4,trec,1
+iir_8_4,bottom,1
+iir_8_4,graph,1
+iir_8_4,adopt,1
+iir_8_4,search engin,1
+iir_8_4,summat,1
+iir_8_4,fp tn,1
+iir_8_4,rel,1
+iir_8_4,true posit rate,1
+iir_8_4,interp,1
+iir_8_4,qualiti,1
+iir_8_4,instanc,1
+iir_8_4,peopl,1
+iir_8_4,machin learn,1
+iir_8_4,distinct tooth shape,1
+iir_8_4,set,1
+iir_8_4,exercis,1
+iir_8_4,defin,1
+iir_8_4,valu,1
+iir_8_4,cumul gain,1
+iir_8_4,disadvantag,1
+iir_8_4,includegraph,1
+iir_8_4,estim,1
+iir_8_4,recent,1
+iir_8_4,incomplet,1
+iir_8_4,roc,1
+iir_8_4,stabl,1
+iir_8_4,standard,1
+iir_8_4,effect,1
+iir_8_4,true neg,1
+iir_8_4,section,1
+iir_8_4,map,1
+iir_8_4,vert rel vert,1
+iir_8_4,sens,1
+iir_8_4,specif,1
+iir_8_4,ndcg,1
+iir_8_4,data,1
+iir_8_4,figur,1
+iir_8_4,desir,1
+iir_8_4,term,1
+iir_8_4,unclear,1
+iir_8_4,averag,1
+iir_8_4,final,1
+iir_8_4,percentag,1
+iir_8_4,test collect,1
+iir_8_4,ident,1
+iir_8_4,precis recal curv,1
+iir_8_4,discrimin,1
+iir_8_4,metric,1
+iir_8_4,matter,1
+iir_8_4,stabil,1
+iir_8_4,definit,1
+iir_8_4,recal,1
+iir_8_4,relev,1
+iir_8_4,german,1
+iir_8_4,receiv oper characterist,1
+iir_8_4,tabl,1
+iir_8_4,equat,1
+iir_8_4,weight,1
+iir_8_4,normal factor,1
+iir_8_4,document,1
+iir_8_4,user,1
+iir_8_4,divers,1
+iir_8_4,equal relationship hold,1
+iir_8_4,repres system,1
+iir_8_4,mbox,1
+iir_8_4,corner,1
+iir_8_4,promin applic,1
+iir_8_4,advantag,1
+iir_8_4,altern,1
+iir_8_4,line,1
+iir_8_4,agreement,1
+iir_8_4,roc curv ep,1
+iir_8_4,evalu,1
+iir_8_4,inform,1
+iir_8_4,common,1
+iir_8_4,experi,1
+iir_8_4,binari notion,1
+iir_8_4,situat,1
+iir_8_4,maxim measur,1
+iir_8_4,strong influenc,1
+iir_8_4,low level,1
+iir_8_4,jiggl,1
+iir_8_4,interpol precis,1
+iir_8_4,rank svm rank,1
+iir_8_4,queri,1
+iir_8_4,sensit,1
+iir_8_4,left,1
+iir_8_4,size,1
+iir_8_4,concept,1
+iir_8_4,retriev result,1
+iir_8_4,nonrelev,1
+iir_8_5,common measur,1
+iir_8_5,margin,1
+iir_8_5,presenc,1
+iir_8_5,usag,1
+iir_8_5,result,1
+iir_8_5,probabl,1
+iir_8_5,final analysi,1
+iir_8_5,standard approach,1
+iir_8_5,domain expert,1
+iir_8_5,queri term,1
+iir_8_5,creator,1
+iir_8_5,sourc,1
+iir_8_5,devic,1
+iir_8_5,rang,1
+iir_8_5,peopl,1
+iir_8_5,relev assess,1
+iir_8_5,actual distribut,1
+iir_8_5,pool version,1
+iir_8_5,neg,1
+iir_8_5,subset,1
+iir_8_5,precis cutoff,1
+iir_8_5,time consum,1
+iir_8_5,form,1
+iir_8_5,boolean keyword search,1
+iir_8_5,effect,1
+iir_8_5,judg,1
+iir_8_5,variant,1
+iir_8_5,expens process,1
+iir_8_5,system,1
+iir_8_5,usual,1
+iir_8_5,data,1
+iir_8_5,opinion,1
+iir_8_5,dubiou basi,1
+iir_8_5,level,1
+iir_8_5,rel effect rank,1
+iir_8_5,idea,1
+iir_8_5,systemat differ,1
+iir_8_5,test inform,1
+iir_8_5,exhaust judgment,1
+iir_8_5,chanc,1
+iir_8_5,impact,1
+iir_8_5,individu assessor,1
+iir_8_5,collect,1
+iir_8_5,cranfield,1
+iir_8_5,german,1
+iir_8_5,calcul,1
+iir_8_5,random combin,1
+iir_8_5,tabl,1
+iir_8_5,success,1
+iir_8_5,variabl,1
+iir_8_5,document,1
+iir_8_5,reason,1
+iir_8_5,human,1
+iir_8_5,idiosyncrat,1
+iir_8_5,social scienc,1
+iir_8_5,thumb,1
+iir_8_5,simpl agreement rate,1
+iir_8_5,class decis,1
+iir_8_5,score,1
+iir_8_5,skew,1
+iir_8_5,purpos,1
+iir_8_5,choic,1
+iir_8_5,fair agreement,1
+iir_8_5,valid,1
+iir_8_5,evalu,1
+iir_8_5,rule,1
+iir_8_5,proport,1
+iir_8_5,conserv,1
+iir_8_5,kappa statist,1
+iir_8_5,question,1
+iir_8_5,variat,1
+iir_8_5,nonrelev,1
+iir_8_5,normal,1
+iir_8_5,modest,1
+iir_8_6,particip,1
+iir_8_6,proxi,1
+iir_8_6,method,1
+iir_8_6,task,1
+iir_8_6,buyer,1
+iir_8_6,search engin,1
+iir_8_6,practic benchmark,1
+iir_8_6,frequenc,1
+iir_8_6,result,1
+iir_8_6,purchas,1
+iir_8_6,searcher,1
+iir_8_6,measur,1
+iir_8_6,custom,1
+iir_8_6,fast,1
+iir_8_6,return,1
+iir_8_6,builder,1
+iir_8_6,search interfac,1
+iir_8_6,bunch,1
+iir_8_6,random,1
+iir_8_6,peopl,1
+iir_8_6,queri languag,1
+iir_8_6,latenc,1
+iir_8_6,set,1
+iir_8_6,clickstream mine,1
+iir_8_6,rate,1
+iir_8_6,ultim,1
+iir_8_6,topic,1
+iir_8_6,control,1
+iir_8_6,quantit evalu,1
+iir_8_6,formal evalu measur,1
+iir_8_6,satisfi,1
+iir_8_6,hour,1
+iir_8_6,govern,1
+iir_8_6,elus,1
+iir_8_6,document collect,1
+iir_8_6,standard multivari statist analysi,1
+iir_8_6,retriev qualiti,1
+iir_8_6,effect metric,1
+iir_8_6,section,1
+iir_8_6,posit,1
+iir_8_6,index,1
+iir_8_6,advertis,1
+iir_8_6,analyt power,1
+iir_8_6,enterpris,1
+iir_8_6,parallel,1
+iir_8_6,difficult,1
+iir_8_6,term,1
+iir_8_6,store owner,1
+iir_8_6,criteria,1
+iir_8_6,human satisfact,1
+iir_8_6,human usabl test,1
+iir_8_6,basi,1
+iir_8_6,chapter,1
+iir_8_6,express,1
+iir_8_6,speed,1
+iir_8_6,relev,1
+iir_8_6,standard methodolog,1
+iir_8_6,kind,1
+iir_8_6,fraction,1
+iir_8_6,principl,1
+iir_8_6,detail,1
+iir_8_6,subject,1
+iir_8_6,academ,1
+iir_8_6,object,1
+iir_8_6,function,1
+iir_8_6,expertis,1
+iir_8_6,paramet,1
+iir_8_6,compani,1
+iir_8_6,refin,1
+iir_8_6,multipl linear regress,1
+iir_8_6,aggreg user happi,1
+iir_8_6,user studi,1
+iir_8_6,sequenc,1
+iir_8_6,human util,1
+iir_8_6,score,1
+iir_8_6,time,1
+iir_8_6,distanc,1
+iir_8_6,indic,1
+iir_8_6,uncorrel,1
+iir_8_6,issu,1
+iir_8_6,variant version,1
+iir_8_6,distribut,1
+iir_8_6,clickthrough log analysi,1
+iir_8_6,proport,1
+iir_8_6,expens,1
+iir_8_6,inform,1
+iir_8_6,featur checklist,1
+iir_8_6,broad rang,1
+iir_8_6,traffic,1
+iir_8_6,common version,1
+iir_8_6,system aspect,1
+iir_8_6,easi,1
+iir_8_6,rank algorithm,1
+iir_8_6,site,1
+iir_8_6,implicit feedback,1
+iir_8_6,page,1
+iir_8_6,ethnograph interview techniqu,1
+iir_8_7,length,1
+iir_8_7,extens,1
+iir_8_7,varieti,1
+iir_8_7,nlp,1
+iir_8_7,basic kind,1
+iir_8_7,method,1
+iir_8_7,hand,1
+iir_8_7,util,1
+iir_8_7,research,1
+iir_8_7,differ,1
+iir_8_7,web html page,1
+iir_8_7,rel claus,1
+iir_8_7,strict constraint,1
+iir_8_7,final rank,1
+iir_8_7,discuss,1
+iir_8_7,extract zone,1
+iir_8_7,frequenc,1
+iir_8_7,content factor,1
+iir_8_7,goal,1
+iir_8_7,use,1
+iir_8_7,cheap disk drive,1
+iir_8_7,metadata,1
+iir_8_7,index time,1
+iir_8_7,word,1
+iir_8_7,noun phrase,1
+iir_8_7,usabl,1
+iir_8_7,result list,1
+iir_8_7,control issu,1
+iir_8_7,materi,1
+iir_8_7,model,1
+iir_8_7,keyword context,1
+iir_8_7,subset,1
+iir_8_7,cach,1
+iir_8_7,legal,1
+iir_8_7,key term,1
+iir_8_7,form,1
+iir_8_7,charact,1
+iir_8_7,respect,1
+iir_8_7,care,1
+iir_8_7,system,1
+iir_8_7,date,1
+iir_8_7,author,1
+iir_8_7,figur,1
+iir_8_7,piec,1
+iir_8_7,complic,1
+iir_8_7,paragraph,1
+iir_8_7,text summar,1
+iir_8_7,collect,1
+iir_8_7,sentenc,1
+iir_8_7,standard solut,1
+iir_8_7,short summari,1
+iir_8_7,posit factor,1
+iir_8_7,conjunct,1
+iir_8_7,realm,1
+iir_8_7,relev,1
+iir_8_7,snippet,1
+iir_8_7,user,1
+iir_8_7,reason,1
+iir_8_7,access,1
+iir_8_7,search result,1
+iir_8_7,fix size prefix,1
+iir_8_7,local storag,1
+iir_8_7,crawler,1
+iir_8_7,window,1
+iir_8_7,document titl,1
+iir_8_7,occurr,1
+iir_8_7,static,1
+iir_8_7,distribut,1
+iir_8_7,expens oper,1
+iir_8_7,inform,1
+iir_8_7,common,1
+iir_8_7,circumst,1
+iir_8_7,question,1
+iir_8_7,sophist nlp approach,1
+iir_8_7,world,1
+iir_8_7,huge amount,1
+iir_8_7,edit,1
+iir_8_7,easi,1
+iir_8_7,element,1
+iir_8_7,queri depend,1
+iir_8_7,left,1
+iir_8_7,space,1
+iir_8_7,obviou,1
+iir_8_7,natur languag process,1
+iir_8_7,contain,1
+iir_8_7,fragment,1
+iir_8_7,pronoun,1
+iir_9_1,beta,1
+iir_9_1,thermodynam,1
+iir_9_1,close,1
+iir_9_1,queri term independ,1
+iir_9_1,subtleti,1
+iir_9_1,task,1
+iir_9_1,util,1
+iir_9_1,exemplari,1
+iir_9_1,strategi,1
+iir_9_1,success approach,1
+iir_9_1,attitud,1
+iir_9_1,advanc search interfac,1
+iir_9_1,misspel,1
+iir_9_1,equival,1
+iir_9_1,discuss,1
+iir_9_1,result,1
+iir_9_1,vec,1
+iir_9_1,automat local analysi,1
+iir_9_1,loop,1
+iir_9_1,link,1
+iir_9_1,partial knowledg,1
+iir_9_1,due,1
+iir_9_1,instanc,1
+iir_9_1,precis,1
+iir_9_1,quantiti,1
+iir_9_1,satisfactori,1
+iir_9_1,implement,1
+iir_9_1,peopl,1
+iir_9_1,model,1
+iir_9_1,set,1
+iir_9_1,rate,1
+iir_9_1,estim,1
+iir_9_1,vector space model,1
+iir_9_1,form,1
+iir_9_1,effect,1
+iir_9_1,major class,1
+iir_9_1,languag,1
+iir_9_1,terminolog,1
+iir_9_1,comparison straightforward,1
+iir_9_1,top,1
+iir_9_1,advertis,1
+iir_9_1,dvd nonrelev,1
+iir_9_1,studi,1
+iir_9_1,round,1
+iir_9_1,figur,1
+iir_9_1,posit quadrant,1
+iir_9_1,difficult,1
+iir_9_1,heat,1
+iir_9_1,felin,1
+iir_9_1,alphabet,1
+iir_9_1,final,1
+iir_9_1,editori content,1
+iir_9_1,moment,1
+iir_9_1,consist perform,1
+iir_9_1,similar relat page featur,1
+iir_9_1,inconclus,1
+iir_9_1,chapter,1
+iir_9_1,global method,1
+iir_9_1,impact,1
+iir_9_1,collect,1
+iir_9_1,airplan,1
+iir_9_1,valuabl,1
+iir_9_1,chile,1
+iir_9_1,precis recal graph,1
+iir_9_1,kind,1
+iir_9_1,implicit,1
+iir_9_1,web,1
+iir_9_1,detail,1
+iir_9_1,name,1
+iir_9_1,laptop,1
+iir_9_1,total,1
+iir_9_1,length normal,1
+iir_9_1,boolean indic variabl,1
+iir_9_1,altern,1
+iir_9_1,articl,1
+iir_9_1,oner,1
+iir_9_1,distanc,1
+iir_9_1,issu,1
+iir_9_1,medium,1
+iir_9_1,memori,1
+iir_9_1,activ learn,1
+iir_9_1,reader,1
+iir_9_1,evid,1
+iir_9_1,clickstream data,1
+iir_9_1,banana slug,1
+iir_9_1,situat,1
+iir_9_1,plane,1
+iir_9_1,buckley,1
+iir_9_1,inform retriev system,1
+iir_9_1,queri,1
+iir_9_1,jinx,1
+iir_9_1,techniqu,1
+iir_9_1,dnr,1
+iir_9_1,naiv bay probabilist model,1
+iir_9_1,page,1
+iir_9_1,reluct,1
+iir_9_1,specif concept,1
+iir_9_1,effici,1
+iir_9_1,ineffici,1
+iir_9_1,suffici,1
+iir_9_1,outlin,1
+iir_9_1,ide dec,1
+iir_9_1,probabl,1
+iir_9_1,insuffici,1
+iir_9_1,solut,1
+iir_9_1,correct,1
+iir_9_1,searcher,1
+iir_9_1,balanc,1
+iir_9_1,word,1
+iir_9_1,scale,1
+iir_9_1,relev feedback,1
+iir_9_1,harman,1
+iir_9_1,unstabl,1
+iir_9_1,imag search system,1
+iir_9_1,indirect sourc,1
+iir_9_1,salton,1
+iir_9_1,exercis,1
+iir_9_1,joachim,1
+iir_9_1,search,1
+iir_9_1,disjunct,1
+iir_9_1,direct,1
+iir_9_1,sound,1
+iir_9_1,subset,1
+iir_9_1,burger king,1
+iir_9_1,danger,1
+iir_9_1,respect,1
+iir_9_1,spink,1
+iir_9_1,rocchio algorithm,1
+iir_9_1,variant,1
+iir_9_1,judg,1
+iir_9_1,section,1
+iir_9_1,extend interact,1
+iir_9_1,lot,1
+iir_9_1,system,1
+iir_9_1,standpoint,1
+iir_9_1,reason valu,1
+iir_9_1,hard,1
+iir_9_1,rank,1
+iir_9_1,banana slug ariolimax columbianu santa cruz mountain banana slug santa cruz campu mascot,1
+iir_9_1,third,1
+iir_9_1,vocabulari,1
+iir_9_1,synonymi,1
+iir_9_1,applic,1
+iir_9_1,aircraft,1
+iir_9_1,idea,1
+iir_9_1,assumpt,1
+iir_9_1,popular,1
+iir_9_1,basi,1
+iir_9_1,similar term,1
+iir_9_1,lack,1
+iir_9_1,recal,1
+iir_9_1,process,1
+iir_9_1,news feed,1
+iir_9_1,request,1
+iir_9_1,mismatch,1
+iir_9_1,idf,1
+iir_9_1,equat,1
+iir_9_1,uptak,1
+iir_9_1,term weight,1
+iir_9_1,document,1
+iir_9_1,observ,1
+iir_9_1,user,1
+iir_9_1,gamma,1
+iir_9_1,fair,1
+iir_9_1,burma,1
+iir_9_1,reliabl,1
+iir_9_1,wordnet,1
+iir_9_1,singl prototyp,1
+iir_9_1,substanti gain,1
+iir_9_1,omar,1
+iir_9_1,time,1
+iir_9_1,recent thread,1
+iir_9_1,comput cost,1
+iir_9_1,directhit,1
+iir_9_1,evalu,1
+iir_9_1,cheap cd cheap dvd,1
+iir_9_1,titl text,1
+iir_9_1,except,1
+iir_9_1,copper mine,1
+iir_9_1,cluster,1
+iir_9_1,centroid,1
+iir_9_1,pop star,1
+iir_9_1,reweight promin term,1
+iir_9_1,thesauru,1
+iir_9_1,easi,1
+iir_9_1,retriev,1
+iir_9_1,sim,1
+iir_9_1,condit,1
+iir_9_1,amount,1
+iir_9_1,manual,1
+iir_9_1,refer,1
+iir_9_2,accur,1
+iir_9_2,entiti,1
+iir_9_2,margin,1
+iir_9_2,hand,1
+iir_9_2,understand,1
+iir_9_2,french,1
+iir_9_2,bar,1
+iir_9_2,cost,1
+iir_9_2,result,1
+iir_9_2,addit input,1
+iir_9_2,servic,1
+iir_9_2,word,1
+iir_9_2,relev feedback,1
+iir_9_2,qualiti,1
+iir_9_2,shallow grammat analysi,1
+iir_9_2,instanc,1
+iir_9_2,vocabulari tool,1
+iir_9_2,precis,1
+iir_9_2,main approach,1
+iir_9_2,mean,1
+iir_9_2,dictionari,1
+iir_9_2,invert index,1
+iir_9_2,rate,1
+iir_9_2,robust,1
+iir_9_2,scienc,1
+iir_9_2,extra step,1
+iir_9_2,engin field,1
+iir_9_2,food item,1
+iir_9_2,huge queri volum,1
+iir_9_2,form,1
+iir_9_2,associ,1
+iir_9_2,govern,1
+iir_9_2,stop list,1
+iir_9_2,search process,1
+iir_9_2,yahoo,1
+iir_9_2,effect,1
+iir_9_2,hit,1
+iir_9_2,text statist,1
+iir_9_2,human editor,1
+iir_9_2,section,1
+iir_9_2,pubm,1
+iir_9_2,system,1
+iir_9_2,queri log mine,1
+iir_9_2,bilingu english,1
+iir_9_2,figur,1
+iir_9_2,subject head,1
+iir_9_2,irrelev,1
+iir_9_2,global analysi,1
+iir_9_2,paragraph,1
+iir_9_2,sens similar,1
+iir_9_2,medlin,1
+iir_9_2,distinct,1
+iir_9_2,idea,1
+iir_9_2,scientif,1
+iir_9_2,bad,1
+iir_9_2,unifi medic languag system,1
+iir_9_2,interfac,1
+iir_9_2,chapter,1
+iir_9_2,queri suggest,1
+iir_9_2,global method,1
+iir_9_2,resourc domain,1
+iir_9_2,matter,1
+iir_9_2,collect,1
+iir_9_2,recal,1
+iir_9_2,respons,1
+iir_9_2,term document matrix,1
+iir_9_2,tradit librari subject index,1
+iir_9_2,cancer,1
+iir_9_2,web,1
+iir_9_2,statist canada,1
+iir_9_2,term weight,1
+iir_9_2,success,1
+iir_9_2,document,1
+iir_9_2,user,1
+iir_9_2,parser error,1
+iir_9_2,biomed research literatur,1
+iir_9_2,fals posit,1
+iir_9_2,synonym,1
+iir_9_2,central question,1
+iir_9_2,terminolog develop,1
+iir_9_2,manner,1
+iir_9_2,advantag,1
+iir_9_2,altern,1
+iir_9_2,dimension reduct,1
+iir_9_2,row,1
+iir_9_2,inform,1
+iir_9_2,phrase,1
+iir_9_2,coverag,1
+iir_9_2,relat queri,1
+iir_9_2,neoplasm,1
+iir_9_2,uml,1
+iir_9_2,manual thesauru,1
+iir_9_2,concept,1
+iir_9_2,appl comput,1
+iir_9_2,cell,1
+iir_10_1,keyword juliu caesar,1
+iir_10_1,symbol,1
+iir_10_1,separ,1
+iir_10_1,minim knowledg,1
+iir_10_1,vers,1
+iir_10_1,queri approach,1
+iir_10_1,path,1
+iir_10_1,unit,1
+iir_10_1,word,1
+iir_10_1,xml attribut,1
+iir_10_1,tree,1
+iir_10_1,set,1
+iir_10_1,core inform retriev,1
+iir_10_1,play scene,1
+iir_10_1,search,1
+iir_10_1,initi,1
+iir_10_1,scene element,1
+iir_10_1,vocabulari term,1
+iir_10_1,subset,1
+iir_10_1,scene titl,1
+iir_10_1,yr yr,1
+iir_10_1,standard,1
+iir_10_1,close tag,1
+iir_10_1,claus,1
+iir_10_1,subtre,1
+iir_10_1,section,1
+iir_10_1,arbitrari,1
+iir_10_1,top,1
+iir_10_1,theclaus,1
+iir_10_1,post filter,1
+iir_10_1,figur,1
+iir_10_1,squar bracket,1
+iir_10_1,author,1
+iir_10_1,shakespear,1
+iir_10_1,schema,1
+iir_10_1,constraint,1
+iir_10_1,applic,1
+iir_10_1,common format,1
+iir_10_1,chapter,1
+iir_10_1,collect,1
+iir_10_1,relev,1
+iir_10_1,node,1
+iir_10_1,xml context,1
+iir_10_1,macbeth,1
+iir_10_1,summer holiday,1
+iir_10_1,object,1
+iir_10_1,xml dtd,1
+iir_10_1,document type definit,1
+iir_10_1,text,1
+iir_10_1,user,1
+iir_10_1,play titl,1
+iir_10_1,access,1
+iir_10_1,xml document,1
+iir_10_1,act,1
+iir_10_1,gallic war,1
+iir_10_1,clausemodifi,1
+iir_10_1,book,1
+iir_10_1,xpath,1
+iir_10_1,articl,1
+iir_10_1,line,1
+iir_10_1,purpos,1
+iir_10_1,metadata function,1
+iir_10_1,dom,1
+iir_10_1,languag design,1
+iir_10_1,slash,1
+iir_10_1,nexi,1
+iir_10_1,children,1
+iir_10_1,notat conveni,1
+iir_10_1,dot,1
+iir_10_1,condit,1
+iir_10_1,xml element,1
+iir_10_1,concept,1
+iir_10_1,structur,1
+iir_10_2,corpor,1
+iir_10_2,direct descend,1
+iir_10_2,pseudo xpath notat,1
+iir_10_2,hand,1
+iir_10_2,stage retriev process,1
+iir_10_2,invers document frequenc,1
+iir_10_2,leav,1
+iir_10_2,discuss,1
+iir_10_2,scheme,1
+iir_10_2,postprocess step,1
+iir_10_2,gate,1
+iir_10_2,scan,1
+iir_10_2,creator,1
+iir_10_2,unit,1
+iir_10_2,countri,1
+iir_10_2,instanc,1
+iir_10_2,familiar,1
+iir_10_2,nest,1
+iir_10_2,child relationship,1
+iir_10_2,predictor,1
+iir_10_2,assessor,1
+iir_10_2,automat method,1
+iir_10_2,compromis,1
+iir_10_2,citi,1
+iir_10_2,form,1
+iir_10_2,user friendli,1
+iir_10_2,hit,1
+iir_10_2,rest,1
+iir_10_2,queri document mismatch,1
+iir_10_2,top,1
+iir_10_2,sens,1
+iir_10_2,similar,1
+iir_10_2,author,1
+iir_10_2,figur,1
+iir_10_2,difficult,1
+iir_10_2,shakespear,1
+iir_10_2,arrow,1
+iir_10_2,paragraph,1
+iir_10_2,tragedi,1
+iir_10_2,restrict strategi,1
+iir_10_2,distinct,1
+iir_10_2,chapter,1
+iir_10_2,challeng,1
+iir_10_2,collect,1
+iir_10_2,unrel,1
+iir_10_2,subel,1
+iir_10_2,overlap pseudodocu,1
+iir_10_2,macbeth,1
+iir_10_2,summer holiday,1
+iir_10_2,web,1
+iir_10_2,principl,1
+iir_10_2,interfac design,1
+iir_10_2,spars data,1
+iir_10_2,basic set,1
+iir_10_2,subunit,1
+iir_10_2,structur retriev,1
+iir_10_2,book section,1
+iir_10_2,occurr,1
+iir_10_2,issu,1
+iir_10_2,criterion,1
+iir_10_2,attent,1
+iir_10_2,problemat,1
+iir_10_2,common,1
+iir_10_2,email messag,1
+iir_10_2,queri titl,1
+iir_10_2,page,1
+iir_10_2,phenomenon,1
+iir_10_2,bottom,1
+iir_10_2,suffici,1
+iir_10_2,strict match,1
+iir_10_2,addit advantag,1
+iir_10_2,solut,1
+iir_10_2,path,1
+iir_10_2,help,1
+iir_10_2,sourc,1
+iir_10_2,complex,1
+iir_10_2,element type,1
+iir_10_2,interpret,1
+iir_10_2,tree,1
+iir_10_2,conveni,1
+iir_10_2,disadvantag,1
+iir_10_2,desktop,1
+iir_10_2,satisfi,1
+iir_10_2,scene,1
+iir_10_2,class,1
+iir_10_2,term statist,1
+iir_10_2,file,1
+iir_10_2,system,1
+iir_10_2,index,1
+iir_10_2,plural,1
+iir_10_2,introduct,1
+iir_10_2,combin,1
+iir_10_2,vatican,1
+iir_10_2,pass,1
+iir_10_2,harm,1
+iir_10_2,parallel,1
+iir_10_2,hard,1
+iir_10_2,rank,1
+iir_10_2,librarian,1
+iir_10_2,correspond,1
+iir_10_2,elig,1
+iir_10_2,schema,1
+iir_10_2,level,1
+iir_10_2,approach,1
+iir_10_2,xml context term pair,1
+iir_10_2,conflat,1
+iir_10_2,relev,1
+iir_10_2,hint,1
+iir_10_2,idf,1
+iir_10_2,document,1
+iir_10_2,edg,1
+iir_10_2,play,1
+iir_10_2,root node,1
+iir_10_2,reason,1
+iir_10_2,fft,1
+iir_10_2,act,1
+iir_10_2,redund,1
+iir_10_2,time,1
+iir_10_2,exact structur configur,1
+iir_10_2,inform,1
+iir_10_2,unspecifi search,1
+iir_10_2,unstructur retriev,1
+iir_10_2,human edit,1
+iir_10_2,strict condit,1
+iir_10_2,lastnam,1
+iir_10_2,list,1
+iir_10_2,xml element,1
+iir_10_2,context,1
+iir_10_2,refer,1
+iir_10_3,accuraci,1
+iir_10_3,pseudo xpath notat,1
+iir_10_3,separ,1
+iir_10_3,art system,1
+iir_10_3,flavor,1
+iir_10_3,queri length normal,1
+iir_10_3,return,1
+iir_10_3,text node,1
+iir_10_3,gate,1
+iir_10_3,path,1
+iir_10_3,word,1
+iir_10_3,structur term,1
+iir_10_3,leav bill,1
+iir_10_3,instanc,1
+iir_10_3,true cosin measu,1
+iir_10_3,set,1
+iir_10_3,robust,1
+iir_10_3,simmerg,1
+iir_10_3,vocabulari term,1
+iir_10_3,subset,1
+iir_10_3,compromis,1
+iir_10_3,simnomerg,1
+iir_10_3,respect,1
+iir_10_3,effect,1
+iir_10_3,final score,1
+iir_10_3,form ula,1
+iir_10_3,variant,1
+iir_10_3,articl atl,1
+iir_10_3,section,1
+iir_10_3,main differ,1
+iir_10_3,arbitrari,1
+iir_10_3,posit,1
+iir_10_3,context resembl function,1
+iir_10_3,index,1
+iir_10_3,similar,1
+iir_10_3,tradeoff,1
+iir_10_3,lexic subtre,1
+iir_10_3,figur,1
+iir_10_3,setup,1
+iir_10_3,rank,1
+iir_10_3,coll ection,1
+iir_10_3,xml retriev,1
+iir_10_3,complet descript,1
+iir_10_3,weight match,1
+iir_10_3,schema,1
+iir_10_3,represent,1
+iir_10_3,bad,1
+iir_10_3,ident,1
+iir_10_3,xml tree,1
+iir_10_3,singl dimens,1
+iir_10_3,algorithm,1
+iir_10_3,chapter,1
+iir_10_3,collect,1
+iir_10_3,definit,1
+iir_10_3,xml context,1
+iir_10_3,macbeth,1
+iir_10_3,juliu caesar,1
+iir_10_3,titl,1
+iir_10_3,unknown,1
+iir_10_3,detail,1
+iir_10_3,document,1
+iir_10_3,author element,1
+iir_10_3,statist,1
+iir_10_3,dft,1
+iir_10_3,equationâ,1
+iir_10_3,account,1
+iir_10_3,comput,1
+iir_10_3,reason,1
+iir_10_3,prefer,1
+iir_10_3,post list,1
+iir_10_3,book,1
+iir_10_3,leaf,1
+iir_10_3,occurr,1
+iir_10_3,purpos,1
+iir_10_3,simpl measur,1
+iir_10_3,recognit,1
+iir_10_3,dimension,1
+iir_10_3,reader,1
+iir_10_3,evalu,1
+iir_10_3,simpl vector space model,1
+iir_10_3,xml contextterm pair,1
+iir_10_3,queri,1
+iir_10_3,page,1
+iir_10_4,content criteria,1
+iir_10_4,run,1
+iir_10_4,refer collect,1
+iir_10_4,subtleti,1
+iir_10_4,english wikipedia,1
+iir_10_4,research,1
+iir_10_4,abstract,1
+iir_10_4,program,1
+iir_10_4,discuss,1
+iir_10_4,result,1
+iir_10_4,approxim,1
+iir_10_4,collabor effort,1
+iir_10_4,precis orient task,1
+iir_10_4,word,1
+iir_10_4,instanc,1
+iir_10_4,precis,1
+iir_10_4,tree,1
+iir_10_4,superior,1
+iir_10_4,set,1
+iir_10_4,inex,1
+iir_10_4,topic,1
+iir_10_4,search,1
+iir_10_4,methodolog,1
+iir_10_4,initi,1
+iir_10_4,compon coverag,1
+iir_10_4,digit letter code,1
+iir_10_4,contain,1
+iir_10_4,subset,1
+iir_10_4,respect,1
+iir_10_4,standard,1
+iir_10_4,effect,1
+iir_10_4,improv,1
+iir_10_4,summer,1
+iir_10_4,section,1
+iir_10_4,top,1
+iir_10_4,sens,1
+iir_10_4,combin,1
+iir_10_4,figur,1
+iir_10_4,complic,1
+iir_10_4,benefit,1
+iir_10_4,difficult,1
+iir_10_4,level,1
+iir_10_4,xml retriev,1
+iir_10_4,schema,1
+iir_10_4,algorithm,1
+iir_10_4,chapter,1
+iir_10_4,meaning unit,1
+iir_10_4,definit,1
+iir_10_4,recal,1
+iir_10_4,type,1
+iir_10_4,flaw,1
+iir_10_4,orthogon dimens,1
+iir_10_4,tabl,1
+iir_10_4,relev judgment,1
+iir_10_4,low,1
+iir_10_4,grade,1
+iir_10_4,addit,1
+iir_10_4,document,1
+iir_10_4,premier venu,1
+iir_10_4,theori,1
+iir_10_4,holiday,1
+iir_10_4,subpart,1
+iir_10_4,nonrelev,1
+iir_10_4,account,1
+iir_10_4,vector space system,1
+iir_10_4,ieee journal,1
+iir_10_4,median,1
+iir_10_4,unstructur bag,1
+iir_10_4,perform,1
+iir_10_4,articl,1
+iir_10_4,binari choic relev nonrelev,1
+iir_10_4,discret function,1
+iir_10_4,human assessor,1
+iir_10_4,evalu,1
+iir_10_4,inform,1
+iir_10_4,keyword,1
+iir_10_4,structur model rank element,1
+iir_10_4,recent focu,1
+iir_10_4,element,1
+iir_10_4,queri,1
+iir_10_4,concept,1
+iir_10_4,embed attribut,1
+iir_10_4,page,1
+iir_10_4,structur,1
+iir_10_4,context,1
+iir_10_5,xml,1
+iir_10_5,extens,1
+iir_10_5,suffici,1
+iir_10_5,short,1
+iir_10_5,research,1
+iir_10_5,tupl,1
+iir_10_5,xqueri base,1
+iir_10_5,navig databas,1
+iir_10_5,premis,1
+iir_10_5,due,1
+iir_10_5,exampl,1
+iir_10_5,employe,1
+iir_10_5,inexact match,1
+iir_10_5,book introduct,1
+iir_10_5,emphasi,1
+iir_10_5,unord set,1
+iir_10_5,unstructur retriev method,1
+iir_10_5,footnot,1
+iir_10_5,relev rank result,1
+iir_10_5,form,1
+iir_10_5,standard,1
+iir_10_5,numer,1
+iir_10_5,contrast,1
+iir_10_5,section,1
+iir_10_5,system,1
+iir_10_5,data,1
+iir_10_5,prioriti,1
+iir_10_5,journal,1
+iir_10_5,rank,1
+iir_10_5,difficult,1
+iir_10_5,shakespear,1
+iir_10_5,citi map,1
+iir_10_5,paragraph,1
+iir_10_5,approach,1
+iir_10_5,applic,1
+iir_10_5,represent,1
+iir_10_5,algorithm,1
+iir_10_5,chapter,1
+iir_10_5,framework,1
+iir_10_5,type,1
+iir_10_5,street name,1
+iir_10_5,power queri languag,1
+iir_10_5,document,1
+iir_10_5,accept,1
+iir_10_5,text,1
+iir_10_5,user,1
+iir_10_5,salari,1
+iir_10_5,structur retriev,1
+iir_10_5,reason,1
+iir_10_5,relat databas,1
+iir_10_5,textual descript,1
+iir_10_5,time period,1
+iir_10_5,addit structur constraint,1
+iir_10_5,complex structur,1
+iir_10_5,issu,1
+iir_10_5,inform,1
+iir_10_5,perform characterist,1
+iir_10_5,newswir articl,1
+iir_10_5,assembl manual,1
+iir_10_5,element,1
+iir_10_5,queri,1
+iir_10_5,bioinformat,1
+iir_10_5,refer,1
+iir_11_1,assumpt,1
+iir_11_1,complement,1
+iir_11_1,basic probabl theori,1
+iir_11_1,chapter,1
+iir_11_1,disjoint subcas,1
+iir_11_1,initi estim,1
+iir_11_1,fundament relationship,1
+iir_11_1,true,1
+iir_11_1,certainti,1
+iir_11_1,sum,1
+iir_11_1,equat,1
+iir_11_1,read,1
+iir_11_1,domain,1
+iir_11_1,exhaust set,1
+iir_11_1,outcom,1
+iir_11_1,joint event,1
+iir_11_1,subset,1
+iir_11_1,reader,1
+iir_11_1,inform,1
+iir_11_1,real,1
+iir_11_1,chain rule,1
+iir_11_1,world,1
+iir_11_1,bay,1
+iir_11_1,odd,1
+iir_11_1,random variabl,1
+iir_11_1,likelihood,1
+iir_11_1,quick review,1
+iir_11_1,space,1
+iir_11_1,multipli,1
+iir_11_1,function,1
+iir_11_1,refer,1
+iir_11_2,foundat,1
+iir_11_2,ripley,1
+iir_11_2,accuraci,1
+iir_11_2,obtain,1
+iir_11_2,basi,1
+iir_11_2,formal framework,1
+iir_11_2,chapter,1
+iir_11_2,collect,1
+iir_11_2,decis,1
+iir_11_2,nonrelev document,1
+iir_11_2,probabl,1
+iir_11_2,relev,1
+iir_11_2,request,1
+iir_11_2,goal,1
+iir_11_2,theorem,1
+iir_11_2,risk,1
+iir_11_2,van rijsbergen,1
+iir_11_2,fals posit,1
+iir_11_2,set,1
+iir_11_2,prp,1
+iir_11_2,bay optim decis rule,1
+iir_11_2,probabilist model,1
+iir_11_2,proof,1
+iir_11_2,purpos,1
+iir_11_2,action,1
+iir_11_2,evalu stage,1
+iir_11_2,retriev setup,1
+iir_11_2,inform,1
+iir_11_2,respect,1
+iir_11_2,practic,1
+iir_11_2,effect,1
+iir_11_2,binari notion,1
+iir_11_2,indic random variabl,1
+iir_11_2,user issu,1
+iir_11_2,retriev cost,1
+iir_11_2,section,1
+iir_11_2,refer retriev system,1
+iir_11_2,util concern,1
+iir_11_2,sens,1
+iir_11_2,data,1
+iir_11_2,queri,1
+iir_11_2,list,1
+iir_11_2,probabl rank principl,1
+iir_11_2,error,1
+iir_11_2,loss,1
+iir_11_2,page,1
+iir_11_2,context,1
+iir_11_3,pseudocount,1
+iir_11_3,pseudo relev feedback version,1
+iir_11_3,log odd ratio,1
+iir_11_3,straightforward,1
+iir_11_3,abstract,1
+iir_11_3,satisfactori result,1
+iir_11_3,equival,1
+iir_11_3,orthogon,1
+iir_11_3,briefli,1
+iir_11_3,incorrect,1
+iir_11_3,conjug,1
+iir_11_3,instanc,1
+iir_11_3,quantiti,1
+iir_11_3,beta distribut,1
+iir_11_3,model,1
+iir_11_3,strength,1
+iir_11_3,binari term incid vector,1
+iir_11_3,hope,1
+iir_11_3,mle,1
+iir_11_3,set,1
+iir_11_3,estim,1
+iir_11_3,vector space model,1
+iir_11_3,weak,1
+iir_11_3,underestim,1
+iir_11_3,form,1
+iir_11_3,practic,1
+iir_11_3,central,1
+iir_11_3,posit,1
+iir_11_3,count,1
+iir_11_3,sens,1
+iir_11_3,difficult,1
+iir_11_3,trial,1
+iir_11_3,zero,1
+iir_11_3,distinct,1
+iir_11_3,percentag,1
+iir_11_3,algorithm,1
+iir_11_3,chapter,1
+iir_11_3,henceforth,1
+iir_11_3,column,1
+iir_11_3,bay rule,1
+iir_11_3,theoret justif,1
+iir_11_3,subsect,1
+iir_11_3,plausibl,1
+iir_11_3,event,1
+iir_11_3,greiff,1
+iir_11_3,titl,1
+iir_11_3,dft,1
+iir_11_3,total,1
+iir_11_3,domain,1
+iir_11_3,rsvd,1
+iir_11_3,step,1
+iir_11_3,prp,1
+iir_11_3,prior probabl,1
+iir_11_3,categor outcom,1
+iir_11_3,logarithm,1
+iir_11_3,belief,1
+iir_11_3,binari independ model,1
+iir_11_3,problemat,1
+iir_11_3,evid,1
+iir_11_3,accumul,1
+iir_11_3,center,1
+iir_11_3,situat,1
+iir_11_3,rightmost express,1
+iir_11_3,iter process,1
+iir_11_3,bayesian prior,1
+iir_11_3,queri,1
+iir_11_3,dimens,1
+iir_11_3,probabilist retriev strategi precis,1
+iir_11_3,size,1
+iir_11_3,factor,1
+iir_11_3,absenc,1
+iir_11_3,bim,1
+iir_11_3,page,1
+iir_11_3,posteriori,1
+iir_11_3,constant,1
+iir_11_3,maximum likelihood estim,1
+iir_11_3,noisi,1
+iir_11_3,log,1
+iir_11_3,bit,1
+iir_11_3,method,1
+iir_11_3,pseudo,1
+iir_11_3,presenc,1
+iir_11_3,monoton,1
+iir_11_3,vrt,1
+iir_11_3,correct,1
+iir_11_3,unsur,1
+iir_11_3,word,1
+iir_11_3,repeat,1
+iir_11_3,relev feedback,1
+iir_11_3,simpl assumpt,1
+iir_11_3,rank function,1
+iir_11_3,vnr,1
+iir_11_3,rang,1
+iir_11_3,undesir,1
+iir_11_3,rsv,1
+iir_11_3,guess,1
+iir_11_3,probabilist approach,1
+iir_11_3,subset,1
+iir_11_3,conting tabl,1
+iir_11_3,associ,1
+iir_11_3,respect,1
+iir_11_3,influenc judgment,1
+iir_11_3,standard,1
+iir_11_3,section,1
+iir_11_3,map,1
+iir_11_3,system,1
+iir_11_3,uniform distribut,1
+iir_11_3,croft,1
+iir_11_3,data,1
+iir_11_3,harm,1
+iir_11_3,vocabulari,1
+iir_11_3,singl step inform,1
+iir_11_3,represent,1
+iir_11_3,idea,1
+iir_11_3,basi,1
+iir_11_3,framework,1
+iir_11_3,compon,1
+iir_11_3,unreli,1
+iir_11_3,term frequenc,1
+iir_11_3,harper,1
+iir_11_3,unknown,1
+iir_11_3,equat,1
+iir_11_3,whichisdisjoint,1
+iir_11_3,addit,1
+iir_11_3,document,1
+iir_11_3,term weight,1
+iir_11_3,success,1
+iir_11_3,theori,1
+iir_11_3,user,1
+iir_11_3,unseen,1
+iir_11_3,naiv bay model,1
+iir_11_3,actual document collect,1
+iir_11_3,time,1
+iir_11_3,arguesthattheconstantestimateofptinthecroftandharp,1
+iir_11_3,unchang,1
+iir_11_3,proport,1
+iir_11_3,inform,1
+iir_11_3,smooth,1
+iir_11_3,product,1
+iir_11_3,common denomin,1
+iir_11_3,conserv,1
+iir_11_3,randvnr,1
+iir_11_3,odd,1
+iir_11_3,approxim statist,1
+iir_11_3,boolean,1
+iir_11_4,extens,1
+iir_11_4,hand,1
+iir_11_4,differ,1
+iir_11_4,abstract,1
+iir_11_4,paragraph inform,1
+iir_11_4,tf idf,1
+iir_11_4,document queri relev,1
+iir_11_4,discuss,1
+iir_11_4,neat idea,1
+iir_11_4,quantiti,1
+iir_11_4,peopl,1
+iir_11_4,van rijsbergen,1
+iir_11_4,set,1
+iir_11_4,hope,1
+iir_11_4,topic,1
+iir_11_4,citi,1
+iir_11_4,spa rck jone,1
+iir_11_4,stock,1
+iir_11_4,complex configur,1
+iir_11_4,form,1
+iir_11_4,altern version,1
+iir_11_4,effici scale retriev,1
+iir_11_4,practic,1
+iir_11_4,relev factor cˆt,1
+iir_11_4,sophist algorithm,1
+iir_11_4,tree augment naiv bay model,1
+iir_11_4,figur,1
+iir_11_4,univers,1
+iir_11_4,major assumpt,1
+iir_11_4,reason approxim,1
+iir_11_4,floor,1
+iir_11_4,exact,1
+iir_11_4,cosin similar,1
+iir_11_4,chapter,1
+iir_11_4,arbitrari knowledg,1
+iir_11_4,collect,1
+iir_11_4,express,1
+iir_11_4,inform retriev scheme,1
+iir_11_4,summand,1
+iir_11_4,thesauru base expans,1
+iir_11_4,relev judgment,1
+iir_11_4,detail,1
+iir_11_4,tree structur,1
+iir_11_4,statist,1
+iir_11_4,dft,1
+iir_11_4,depend,1
+iir_11_4,simpl,1
+iir_11_4,massachusett,1
+iir_11_4,comput linguist,1
+iir_11_4,learn,1
+iir_11_4,modern text search collect,1
+iir_11_4,score,1
+iir_11_4,probabilist model,1
+iir_11_4,consist length,1
+iir_11_4,line,1
+iir_11_4,attent,1
+iir_11_4,experi,1
+iir_11_4,tftd,1
+iir_11_4,pre comput,1
+iir_11_4,kong,1
+iir_11_4,apprais,1
+iir_11_4,york,1
+iir_11_4,infer,1
+iir_11_4,goldszmidt,1
+iir_11_4,queri,1
+iir_11_4,concept,1
+iir_11_4,absenc,1
+iir_11_4,page,1
+iir_11_4,bim,1
+iir_11_4,document relev valu,1
+iir_11_4,bm weight scheme,1
+iir_11_4,method,1
+iir_11_4,graph,1
+iir_11_4,vector space,1
+iir_11_4,jensen,1
+iir_11_4,probabl,1
+iir_11_4,vrt,1
+iir_11_4,term independ,1
+iir_11_4,bayesian network approach,1
+iir_11_4,partial relev inform,1
+iir_11_4,rang,1
+iir_11_4,undesir,1
+iir_11_4,gener,1
+iir_11_4,lave,1
+iir_11_4,develop,1
+iir_11_4,modern era,1
+iir_11_4,sever,1
+iir_11_4,advanc,1
+iir_11_4,nvrt,1
+iir_11_4,stop list,1
+iir_11_4,respect,1
+iir_11_4,exchang,1
+iir_11_4,variant,1
+iir_11_4,section,1
+iir_11_4,system,1
+iir_11_4,addit paramet,1
+iir_11_4,croft,1
+iir_11_4,boolean represent,1
+iir_11_4,true,1
+iir_11_4,formal model,1
+iir_11_4,resurg,1
+iir_11_4,experiment result,1
+iir_11_4,basi,1
+iir_11_4,short catalog record,1
+iir_11_4,subexpress,1
+iir_11_4,term frequenc,1
+iir_11_4,manual review,1
+iir_11_4,friedman,1
+iir_11_4,equat,1
+iir_11_4,document,1
+iir_11_4,variabl,1
+iir_11_4,theori,1
+iir_11_4,unnecessari,1
+iir_11_4,inqueri text retriev system,1
+iir_11_4,formula,1
+iir_11_4,influenc,1
+iir_11_4,opportun,1
+iir_11_4,outcom,1
+iir_11_4,theoret foot,1
+iir_11_4,flexibl probabilist network,1
+iir_11_4,time,1
+iir_11_4,hong,1
+iir_11_4,trec evalu,1
+iir_11_4,okapi weight,1
+iir_11_4,perform,1
+iir_11_4,tftq,1
+iir_11_4,seri,1
+iir_11_4,grid search,1
+iir_11_4,england,1
+iir_11_4,turtl,1
+iir_11_4,scale,1
+iir_11_4,context,1
+iir_12_1,formal languag theori,1
+iir_12_1,data set,1
+iir_12_1,inclus,1
+iir_12_1,document model,1
+iir_12_1,construct,1
+iir_12_1,equival,1
+iir_12_1,loop,1
+iir_12_1,node,1
+iir_12_1,sum,1
+iir_12_1,equat,1
+iir_12_1,word,1
+iir_12_1,function,1
+iir_12_1,familiar,1
+iir_12_1,notion,1
+iir_12_1,partial specif,1
+iir_12_1,formula,1
+iir_12_1,exercis,1
+iir_12_1,alphabet sigma,1
+iir_12_1,probabl distribut,1
+iir_12_1,time,1
+iir_12_1,probabilist,1
+iir_12_1,line,1
+iir_12_1,proport,1
+iir_12_1,product,1
+iir_12_1,practic,1
+iir_12_1,common,1
+iir_12_1,string document,1
+iir_12_1,stop,1
+iir_12_1,frog,1
+iir_12_1,likelihood ratio,1
+iir_12_1,queri,1
+iir_12_1,finit automaton,1
+iir_12_1,figur,1
+iir_12_1,author,1
+iir_12_1,rank,1
+iir_12_1,page,1
+iir_12_1,text,1
+iir_12_1,term,1
+iir_12_1,vocabulari,1
+iir_12_1,finish,1
+iir_12_2,linear interpol languag model,1
+iir_12_2,close,1
+iir_12_2,method,1
+iir_12_2,symbol,1
+iir_12_2,extent,1
+iir_12_2,probabl,1
+iir_12_2,mind,1
+iir_12_2,prior distribut,1
+iir_12_2,lenient match,1
+iir_12_2,unigram assumpt,1
+iir_12_2,classic,1
+iir_12_2,human comput interfac issu,1
+iir_12_2,peopl,1
+iir_12_2,profit,1
+iir_12_2,mean,1
+iir_12_2,set,1
+iir_12_2,mle,1
+iir_12_2,exercis,1
+iir_12_2,search,1
+iir_12_2,suitabl,1
+iir_12_2,direct,1
+iir_12_2,estim,1
+iir_12_2,expect maximim algorithm,1
+iir_12_2,major,1
+iir_12_2,bayesian,1
+iir_12_2,answer,1
+iir_12_2,practic,1
+iir_12_2,rest,1
+iir_12_2,section,1
+iir_12_2,lot,1
+iir_12_2,simpl idea,1
+iir_12_2,similar,1
+iir_12_2,approach,1
+iir_12_2,multinomi,1
+iir_12_2,chanc,1
+iir_12_2,collect,1
+iir_12_2,process,1
+iir_12_2,conjunct,1
+iir_12_2,languag model,1
+iir_12_2,divid,1
+iir_12_2,term frequenc,1
+iir_12_2,role,1
+iir_12_2,fraction,1
+iir_12_2,token,1
+iir_12_2,equat,1
+iir_12_2,detail,1
+iir_12_2,document,1
+iir_12_2,user,1
+iir_12_2,paramet,1
+iir_12_2,probtheori,1
+iir_12_2,word count,1
+iir_12_2,vector space system,1
+iir_12_2,reason,1
+iir_12_2,speech recognit applic,1
+iir_12_2,strict conjunct semant,1
+iir_12_2,retriev rank,1
+iir_12_2,recent web search develop,1
+iir_12_2,perform,1
+iir_12_2,altern,1
+iir_12_2,occurr,1
+iir_12_2,stress,1
+iir_12_2,xyzzi,1
+iir_12_2,problemat,1
+iir_12_2,revenu,1
+iir_12_2,inform,1
+iir_12_2,smooth,1
+iir_12_2,preval,1
+iir_12_2,raw,1
+iir_12_2,lm,1
+iir_12_2,essenti,1
+iir_12_2,quarter loss,1
+iir_12_2,properti,1
+iir_12_2,queri,1
+iir_12_2,train data,1
+iir_12_2,quoru,1
+iir_12_2,coupl,1
+iir_12_2,function,1
+iir_12_2,mixtur,1
+iir_12_2,appar,1
+iir_12_2,constant,1
+iir_12_3,method,1
+iir_12_3,hand,1
+iir_12_3,insuffici evid,1
+iir_12_3,concret realiz,1
+iir_12_3,equival,1
+iir_12_3,import,1
+iir_12_3,central variabl,1
+iir_12_3,tradit tf idf model,1
+iir_12_3,explicit notion,1
+iir_12_3,precis,1
+iir_12_3,independ,1
+iir_12_3,implement,1
+iir_12_3,hope,1
+iir_12_3,tune tradit vector space retriev system,1
+iir_12_3,estim,1
+iir_12_3,probabilist,1
+iir_12_3,unrealist,1
+iir_12_3,recent,1
+iir_12_3,effect,1
+iir_12_3,languag,1
+iir_12_3,section,1
+iir_12_3,main differ,1
+iir_12_3,lot,1
+iir_12_3,croft,1
+iir_12_3,similar,1
+iir_12_3,speech,1
+iir_12_3,rank,1
+iir_12_3,difficult,1
+iir_12_3,intuit,1
+iir_12_3,approach,1
+iir_12_3,represent,1
+iir_12_3,pont,1
+iir_12_3,concern,1
+iir_12_3,assumpt,1
+iir_12_3,chapter,1
+iir_12_3,model relev,1
+iir_12_3,express,1
+iir_12_3,type,1
+iir_12_3,term frequenc,1
+iir_12_3,idf,1
+iir_12_3,weight,1
+iir_12_3,principl,1
+iir_12_3,object,1
+iir_12_3,detail,1
+iir_12_3,paper,1
+iir_12_3,document,1
+iir_12_3,user prefer,1
+iir_12_3,success,1
+iir_12_3,appeal,1
+iir_12_3,tractabl,1
+iir_12_3,statist,1
+iir_12_3,simpl,1
+iir_12_3,influenc,1
+iir_12_3,perform,1
+iir_12_3,document gener probabl,1
+iir_12_3,match,1
+iir_12_3,choic,1
+iir_12_3,heurist,1
+iir_12_3,inform,1
+iir_12_3,common,1
+iir_12_3,major issu,1
+iir_12_3,situat,1
+iir_12_3,phrase,1
+iir_12_3,geometr,1
+iir_12_3,tool,1
+iir_12_3,text retriev,1
+iir_12_3,signific relat,1
+iir_12_3,queri,1
+iir_12_3,retriev result,1
+iir_12_3,bim,1
+iir_12_3,languag model approach,1
+iir_12_3,mixtur,1
+iir_12_4,man,1
+iir_12_4,basic languag model approach,1
+iir_12_4,log likelihood ratio,1
+iir_12_4,tradit thesauru,1
+iir_12_4,inform theori,1
+iir_12_4,research,1
+iir_12_4,deviat,1
+iir_12_4,abstract,1
+iir_12_4,probabl,1
+iir_12_4,queri likelihood,1
+iir_12_4,document retriev,1
+iir_12_4,spitter,1
+iir_12_4,anchor text,1
+iir_12_4,rank function,1
+iir_12_4,instanc,1
+iir_12_4,compar,1
+iir_12_4,lavrenko,1
+iir_12_4,pseudo relev feedback,1
+iir_12_4,disadvantag,1
+iir_12_4,direct,1
+iir_12_4,hypertext environ,1
+iir_12_4,cover,1
+iir_12_4,form,1
+iir_12_4,build,1
+iir_12_4,sch tze,1
+iir_12_4,kullback leibler,1
+iir_12_4,section,1
+iir_12_4,separ resourc,1
+iir_12_4,lafferti,1
+iir_12_4,croft,1
+iir_12_4,figur,1
+iir_12_4,piec,1
+iir_12_4,similar mean,1
+iir_12_4,strong empir result,1
+iir_12_4,intens,1
+iir_12_4,term,1
+iir_12_4,synonymi,1
+iir_12_4,topic track,1
+iir_12_4,approach,1
+iir_12_4,model choic,1
+iir_12_4,bad,1
+iir_12_4,berger,1
+iir_12_4,cross entropi,1
+iir_12_4,basi,1
+iir_12_4,chapter,1
+iir_12_4,zhai,1
+iir_12_4,main reason,1
+iir_12_4,statist machin translat system,1
+iir_12_4,activ,1
+iir_12_4,titl,1
+iir_12_4,altern propos,1
+iir_12_4,appeal,1
+iir_12_4,risk,1
+iir_12_4,bilingu dictionari,1
+iir_12_4,basic lm,1
+iir_12_4,translat model,1
+iir_12_4,diverg,1
+iir_12_4,perform,1
+iir_12_4,score,1
+iir_12_4,kraaij,1
+iir_12_4,issu,1
+iir_12_4,candid exampl,1
+iir_12_4,easi,1
+iir_12_4,queri document gap,1
+iir_12_4,thoma,1
+iir_12_4,risk minim approach,1
+iir_13_1,document privat chines airlin,1
+iir_13_1,applic,1
+iir_13_1,reuter rcv collect,1
+iir_13_1,accuraci,1
+iir_13_1,assumpt,1
+iir_13_1,mnemon word,1
+iir_13_1,algorithm,1
+iir_13_1,descript,1
+iir_13_1,sport,1
+iir_13_1,discuss,1
+iir_13_1,content,1
+iir_13_1,type,1
+iir_13_1,categori,1
+iir_13_1,aid,1
+iir_13_1,train,1
+iir_13_1,goal,1
+iir_13_1,gammadef,1
+iir_13_1,unknown,1
+iir_13_1,learn method,1
+iir_13_1,document,1
+iir_13_1,name,1
+iir_13_1,instanc,1
+iir_13_1,hierarchi,1
+iir_13_1,notion,1
+iir_13_1,gamma,1
+iir_13_1,subset relationship,1
+iir_13_1,label,1
+iir_13_1,model,1
+iir_13_1,set,1
+iir_13_1,human,1
+iir_13_1,correct assign,1
+iir_13_1,robust,1
+iir_13_1,definit eqn,1
+iir_13_1,text classif,1
+iir_13_1,world trade organ,1
+iir_13_1,dimension space,1
+iir_13_1,exampl china,1
+iir_13_1,time,1
+iir_13_1,naiv bay,1
+iir_13_1,class,1
+iir_13_1,teacher,1
+iir_13_1,error rate,1
+iir_13_1,distribut,1
+iir_13_1,experi,1
+iir_13_1,newswir articl,1
+iir_13_1,olymp,1
+iir_13_1,supervisor,1
+iir_13_1,section,1
+iir_13_1,easi,1
+iir_13_1,classifi,1
+iir_13_1,test,1
+iir_13_1,multicor comput chip,1
+iir_13_1,input,1
+iir_13_1,data,1
+iir_13_1,similar,1
+iir_13_1,talk,1
+iir_13_1,figur,1
+iir_13_1,page,1
+iir_13_1,structur,1
+iir_13_1,tomorrow morn,1
+iir_13_2,length,1
+iir_13_2,log,1
+iir_13_2,term wto,1
+iir_13_2,applymultinomialnb,1
+iir_13_2,add smooth,1
+iir_13_2,probabl,1
+iir_13_2,measur,1
+iir_13_2,theta,1
+iir_13_2,nonstandard,1
+iir_13_2,tokyo,1
+iir_13_2,goal,1
+iir_13_2,denomin,1
+iir_13_2,sum,1
+iir_13_2,train set,1
+iir_13_2,word,1
+iir_13_2,multinomi naiv bay,1
+iir_13_2,china document,1
+iir_13_2,linear,1
+iir_13_2,relat,1
+iir_13_2,model,1
+iir_13_2,exercis,1
+iir_13_2,text classif,1
+iir_13_2,estim,1
+iir_13_2,class,1
+iir_13_2,strong,1
+iir_13_2,complet algorithm,1
+iir_13_2,section,1
+iir_13_2,map,1
+iir_13_2,posit,1
+iir_13_2,count,1
+iir_13_2,pass,1
+iir_13_2,figur,1
+iir_13_2,maximum,1
+iir_13_2,vocabulari,1
+iir_13_2,formal deriv,1
+iir_13_2,ident,1
+iir_13_2,moment,1
+iir_13_2,supervis learn method,1
+iir_13_2,matter,1
+iir_13_2,true valu,1
+iir_13_2,compon,1
+iir_13_2,featur,1
+iir_13_2,posteriori,1
+iir_13_2,relev,1
+iir_13_2,type,1
+iir_13_2,rel frequenc,1
+iir_13_2,role,1
+iir_13_2,notat,1
+iir_13_2,tabl,1
+iir_13_2,token,1
+iir_13_2,textc,1
+iir_13_2,time complex,1
+iir_13_2,weight,1
+iir_13_2,special,1
+iir_13_2,term class combin,1
+iir_13_2,detail,1
+iir_13_2,equat,1
+iir_13_2,paramet,1
+iir_13_2,probtheori,1
+iir_13_2,comput,1
+iir_13_2,reason,1
+iir_13_2,primari statist,1
+iir_13_2,logarithm,1
+iir_13_2,occurr,1
+iir_13_2,indic,1
+iir_13_2,prior,1
+iir_13_2,distribut,1
+iir_13_2,evid,1
+iir_13_2,spars,1
+iir_13_2,ave,1
+iir_13_2,classif decis,1
+iir_13_2,classifi,1
+iir_13_2,element,1
+iir_13_2,queri,1
+iir_13_2,train data,1
+iir_13_2,rare event,1
+iir_13_2,simpl interpret,1
+iir_13_2,float underflow,1
+iir_13_2,page,1
+iir_13_2,mixtur,1
+iir_13_2,effici,1
+iir_13_3,accur,1
+iir_13_3,length,1
+iir_13_3,close,1
+iir_13_3,understand,1
+iir_13_3,exponenti,1
+iir_13_3,differ,1
+iir_13_3,minim error rate,1
+iir_13_3,note,1
+iir_13_3,equival,1
+iir_13_3,wto,1
+iir_13_3,result,1
+iir_13_3,theta,1
+iir_13_3,tokyo,1
+iir_13_3,infeas,1
+iir_13_3,denomin,1
+iir_13_3,quantiti,1
+iir_13_3,track,1
+iir_13_3,set,1
+iir_13_3,estim,1
+iir_13_3,gradual chang,1
+iir_13_3,answer,1
+iir_13_3,dimension vector,1
+iir_13_3,posit,1
+iir_13_3,count,1
+iir_13_3,sens,1
+iir_13_3,mistak,1
+iir_13_3,figur,1
+iir_13_3,nonoccurr,1
+iir_13_3,previou section,1
+iir_13_3,knn knn,1
+iir_13_3,chapter,1
+iir_13_3,class china,1
+iir_13_3,bean,1
+iir_13_3,tabl,1
+iir_13_3,token,1
+iir_13_3,detail,1
+iir_13_3,paramet,1
+iir_13_3,baselin,1
+iir_13_3,depend,1
+iir_13_3,step,1
+iir_13_3,pair hong,1
+iir_13_3,multivari bernoulli model,1
+iir_13_3,sequenc,1
+iir_13_3,naiv bay,1
+iir_13_3,score,1
+iir_13_3,altern,1
+iir_13_3,term taipei,1
+iir_13_3,line,1
+iir_13_3,prior,1
+iir_13_3,problemat,1
+iir_13_3,valid,1
+iir_13_3,evid,1
+iir_13_3,common,1
+iir_13_3,argmax,1
+iir_13_3,kong,1
+iir_13_3,ontario,1
+iir_13_3,singl distribut,1
+iir_13_3,random variabl,1
+iir_13_3,size,1
+iir_13_3,factor,1
+iir_13_3,opposit,1
+iir_13_3,page,1
+iir_13_3,absenc,1
+iir_13_3,classif rule,1
+iir_13_3,effici,1
+iir_13_3,accuraci,1
+iir_13_3,rational,1
+iir_13_3,method,1
+iir_13_3,symbol,1
+iir_13_3,presenc,1
+iir_13_3,binari vector,1
+iir_13_3,top node,1
+iir_13_3,binari occurr inform,1
+iir_13_3,magnitud,1
+iir_13_3,beij,1
+iir_13_3,main strength,1
+iir_13_3,natur languag,1
+iir_13_3,word model,1
+iir_13_3,trainbernoullinb,1
+iir_13_3,exercis,1
+iir_13_3,robust,1
+iir_13_3,valu,1
+iir_13_3,decent perform,1
+iir_13_3,bayesian text classif,1
+iir_13_3,respect,1
+iir_13_3,london,1
+iir_13_3,variant,1
+iir_13_3,contrast,1
+iir_13_3,realiti,1
+iir_13_3,map,1
+iir_13_3,lot,1
+iir_13_3,naiv bay condit independ assumpt,1
+iir_13_3,combin,1
+iir_13_3,data,1
+iir_13_3,pass,1
+iir_13_3,extra percentag,1
+iir_13_3,true,1
+iir_13_3,level,1
+iir_13_3,vocabulari,1
+iir_13_3,assumpt,1
+iir_13_3,ident,1
+iir_13_3,multinomi,1
+iir_13_3,bag,1
+iir_13_3,descript,1
+iir_13_3,featur,1
+iir_13_3,applybernoullinb,1
+iir_13_3,bill clinton,1
+iir_13_3,fraction,1
+iir_13_3,train,1
+iir_13_3,time complex,1
+iir_13_3,equat,1
+iir_13_3,addit,1
+iir_13_3,document,1
+iir_13_3,probtheori,1
+iir_13_3,strong contend,1
+iir_13_3,troubl,1
+iir_13_3,reason,1
+iir_13_3,divis,1
+iir_13_3,low qualiti,1
+iir_13_3,japan,1
+iir_13_3,gener model,1
+iir_13_3,indic,1
+iir_13_3,test algorithm,1
+iir_13_3,choic,1
+iir_13_3,inform,1
+iir_13_3,concept drift,1
+iir_13_3,text classifi,1
+iir_13_3,entir book,1
+iir_13_3,condit probabl,1
+iir_13_3,except,1
+iir_13_3,chines,1
+iir_13_3,english,1
+iir_13_3,retriev,1
+iir_13_3,franc,1
+iir_13_3,properti,1
+iir_13_3,england,1
+iir_13_3,worth,1
+iir_13_3,context,1
+iir_13_4,accur,1
+iir_13_4,length,1
+iir_13_4,accuraci,1
+iir_13_4,close,1
+iir_13_4,method,1
+iir_13_4,understand,1
+iir_13_4,exponenti,1
+iir_13_4,symbol,1
+iir_13_4,presenc,1
+iir_13_4,binari vector,1
+iir_13_4,top node,1
+iir_13_4,minim error rate,1
+iir_13_4,multinomi factor,1
+iir_13_4,magnitud,1
+iir_13_4,note,1
+iir_13_4,equival,1
+iir_13_4,wto,1
+iir_13_4,probabl,1
+iir_13_4,bernoulli,1
+iir_13_4,beij,1
+iir_13_4,theta,1
+iir_13_4,main strength,1
+iir_13_4,infeas,1
+iir_13_4,natur languag,1
+iir_13_4,denomin,1
+iir_13_4,page,1
+iir_13_4,word,1
+iir_13_4,binari attribut,1
+iir_13_4,quantiti,1
+iir_13_4,model,1
+iir_13_4,set,1
+iir_13_4,robust,1
+iir_13_4,valu,1
+iir_13_4,estim,1
+iir_13_4,decent perform,1
+iir_13_4,bayesian text classif,1
+iir_13_4,answer,1
+iir_13_4,gradual chang,1
+iir_13_4,respect,1
+iir_13_4,london,1
+iir_13_4,variant,1
+iir_13_4,realiti,1
+iir_13_4,section,1
+iir_13_4,map,1
+iir_13_4,lot,1
+iir_13_4,bay,1
+iir_13_4,naiv bay condit independ assumpt,1
+iir_13_4,posit,1
+iir_13_4,count,1
+iir_13_4,sens,1
+iir_13_4,combin,1
+iir_13_4,data,1
+iir_13_4,pass,1
+iir_13_4,context,1
+iir_13_4,figur,1
+iir_13_4,opposit,1
+iir_13_4,extra percentag,1
+iir_13_4,true,1
+iir_13_4,level,1
+iir_13_4,vocabulari,1
+iir_13_4,knn knn,1
+iir_13_4,idiosyncrat properti,1
+iir_13_4,assumpt,1
+iir_13_4,multipl time,1
+iir_13_4,chapter,1
+iir_13_4,bag,1
+iir_13_4,descript,1
+iir_13_4,class china,1
+iir_13_4,featur,1
+iir_13_4,bill clinton,1
+iir_13_4,bean,1
+iir_13_4,train,1
+iir_13_4,tabl,1
+iir_13_4,equat,1
+iir_13_4,addit,1
+iir_13_4,document,1
+iir_13_4,paramet,1
+iir_13_4,baselin,1
+iir_13_4,probtheori,1
+iir_13_4,gener process,1
+iir_13_4,depend,1
+iir_13_4,strong contend,1
+iir_13_4,formal,1
+iir_13_4,troubl,1
+iir_13_4,reason,1
+iir_13_4,step,1
+iir_13_4,divis,1
+iir_13_4,pair hong,1
+iir_13_4,low qualiti,1
+iir_13_4,sequenc,1
+iir_13_4,book,1
+iir_13_4,score,1
+iir_13_4,term taipei,1
+iir_13_4,occurr,1
+iir_13_4,choic,1
+iir_13_4,neg indic,1
+iir_13_4,valid,1
+iir_13_4,evid,1
+iir_13_4,inform,1
+iir_13_4,common,1
+iir_13_4,argmax,1
+iir_13_4,concept drift,1
+iir_13_4,text classifi,1
+iir_13_4,kong,1
+iir_13_4,singl distribut,1
+iir_13_4,english,1
+iir_13_4,random variabl,1
+iir_13_4,retriev,1
+iir_13_4,franc,1
+iir_13_4,condit,1
+iir_13_4,size,1
+iir_13_4,worth,1
+iir_13_4,absenc,1
+iir_13_4,classif rule,1
+iir_13_4,effici,1
+iir_13_5,main purpos,1
+iir_13_5,exploit,1
+iir_13_5,presenc absenc,1
+iir_13_5,util measur,1
+iir_13_5,equival,1
+iir_13_5,import,1
+iir_13_5,class classif task,1
+iir_13_5,incorrect gener,1
+iir_13_5,tuesday,1
+iir_13_5,briefli,1
+iir_13_5,train set,1
+iir_13_5,qualiti,1
+iir_13_5,instanc,1
+iir_13_5,independ,1
+iir_13_5,quantiti,1
+iir_13_5,nois featur,1
+iir_13_5,model,1
+iir_13_5,mle,1
+iir_13_5,monday,1
+iir_13_5,form,1
+iir_13_5,peripher,1
+iir_13_5,optim,1
+iir_13_5,top,1
+iir_13_5,count,1
+iir_13_5,similar,1
+iir_13_5,figur,1
+iir_13_5,desir,1
+iir_13_5,nonoccurr,1
+iir_13_5,servationo,1
+iir_13_5,week,1
+iir_13_5,signific,1
+iir_13_5,confid,1
+iir_13_5,collect,1
+iir_13_5,column,1
+iir_13_5,paramet estim,1
+iir_13_5,china,1
+iir_13_5,comparison,1
+iir_13_5,event,1
+iir_13_5,tabl,1
+iir_13_5,token,1
+iir_13_5,learn method,1
+iir_13_5,low,1
+iir_13_5,statist,1
+iir_13_5,depend,1
+iir_13_5,account,1
+iir_13_5,prefer,1
+iir_13_5,inform theoret sens,1
+iir_13_5,obviou util,1
+iir_13_5,hypothesi,1
+iir_13_5,class membership,1
+iir_13_5,advantag,1
+iir_13_5,altern,1
+iir_13_5,criterion,1
+iir_13_5,expens,1
+iir_13_5,common,1
+iir_13_5,kong,1
+iir_13_5,featur select,1
+iir_13_5,random variabl,1
+iir_13_5,classifi,1
+iir_13_5,arachnocentr,1
+iir_13_5,sensit,1
+iir_13_5,size,1
+iir_13_5,page,1
+iir_13_5,function,1
+iir_13_5,term export,1
+iir_13_5,effici,1
+iir_13_5,rational,1
+iir_13_5,document represent,1
+iir_13_5,bottom,1
+iir_13_5,newswir text,1
+iir_13_5,frequenc,1
+iir_13_5,probabl,1
+iir_13_5,day,1
+iir_13_5,help,1
+iir_13_5,peak,1
+iir_13_5,rang,1
+iir_13_5,reuter rcv,1
+iir_13_5,exercis,1
+iir_13_5,robust,1
+iir_13_5,valu,1
+iir_13_5,frequent term,1
+iir_13_5,text classif,1
+iir_13_5,accident properti,1
+iir_13_5,bia varianc tradeoff,1
+iir_13_5,subset,1
+iir_13_5,classif accuraci,1
+iir_13_5,merit,1
+iir_13_5,london,1
+iir_13_5,respect class,1
+iir_13_5,section,1
+iir_13_5,gain,1
+iir_13_5,lot,1
+iir_13_5,system,1
+iir_13_5,counterintuit,1
+iir_13_5,combin,1
+iir_13_5,data,1
+iir_13_5,effect vocabulari,1
+iir_13_5,true,1
+iir_13_5,loss,1
+iir_13_5,level,1
+iir_13_5,british,1
+iir_13_5,multinomi,1
+iir_13_5,chanc,1
+iir_13_5,process,1
+iir_13_5,thousand,1
+iir_13_5,equat,1
+iir_13_5,singl set,1
+iir_13_5,perfect indic,1
+iir_13_5,accept,1
+iir_13_5,reason,1
+iir_13_5,redund,1
+iir_13_5,binari occurr,1
+iir_13_5,hong,1
+iir_13_5,tonight,1
+iir_13_5,overfit,1
+iir_13_5,comput cost,1
+iir_13_5,distribut,1
+iir_13_5,row,1
+iir_13_5,inform,1
+iir_13_5,list,1
+iir_13_5,test document,1
+iir_13_5,wrong,1
+iir_13_5,worth,1
+iir_13_5,context,1
+iir_13_5,refer,1
+iir_13_6,accur,1
+iir_13_6,classif method,1
+iir_13_6,microaverag result,1
+iir_13_6,text classif evalu,1
+iir_13_6,task,1
+iir_13_6,uzu,1
+iir_13_6,differ,1
+iir_13_6,strategi,1
+iir_13_6,ozb,1
+iir_13_6,zoo,1
+iir_13_6,equival,1
+iir_13_6,measur,1
+iir_13_6,theta,1
+iir_13_6,entropi,1
+iir_13_6,conclus,1
+iir_13_6,untouch,1
+iir_13_6,due,1
+iir_13_6,qualiti,1
+iir_13_6,degre,1
+iir_13_6,instanc,1
+iir_13_6,machin learn algorithm,1
+iir_13_6,precis,1
+iir_13_6,peopl,1
+iir_13_6,set,1
+iir_13_6,practition,1
+iir_13_6,quarter,1
+iir_13_6,estim,1
+iir_13_6,correct decis,1
+iir_13_6,minim,1
+iir_13_6,practic,1
+iir_13_6,effect,1
+iir_13_6,rest,1
+iir_13_6,typic document,1
+iir_13_6,sens,1
+iir_13_6,rocchio,1
+iir_13_6,figur,1
+iir_13_6,true posit,1
+iir_13_6,natur,1
+iir_13_6,averag,1
+iir_13_6,percentag,1
+iir_13_6,comput effici,1
+iir_13_6,chapter,1
+iir_13_6,collect,1
+iir_13_6,uncompetit,1
+iir_13_6,micro avg,1
+iir_13_6,class classifi,1
+iir_13_6,tabl,1
+iir_13_6,token,1
+iir_13_6,invis,1
+iir_13_6,paramet,1
+iir_13_6,independ assumpt,1
+iir_13_6,depend,1
+iir_13_6,unabl,1
+iir_13_6,naiv bay,1
+iir_13_6,carnegi,1
+iir_13_6,strict separ,1
+iir_13_6,valid,1
+iir_13_6,classif error,1
+iir_13_6,function applymultinomialnb,1
+iir_13_6,rule,1
+iir_13_6,experi,1
+iir_13_6,main benchmark,1
+iir_13_6,expens,1
+iir_13_6,situat,1
+iir_13_6,consider variat,1
+iir_13_6,page,1
+iir_13_6,accuraci,1
+iir_13_6,bottom,1
+iir_13_6,class prior,1
+iir_13_6,uneven,1
+iir_13_6,research,1
+iir_13_6,ideal,1
+iir_13_6,linear svm,1
+iir_13_6,program,1
+iir_13_6,simplic,1
+iir_13_6,magnitud,1
+iir_13_6,probabl,1
+iir_13_6,solut,1
+iir_13_6,standard approach,1
+iir_13_6,classic reuter collect,1
+iir_13_6,statist sampl,1
+iir_13_6,goal,1
+iir_13_6,break score,1
+iir_13_6,word,1
+iir_13_6,sourc,1
+iir_13_6,equal weight,1
+iir_13_6,interpret,1
+iir_13_6,real world,1
+iir_13_6,knn,1
+iir_13_6,exercis,1
+iir_13_6,subset,1
+iir_13_6,develop,1
+iir_13_6,singl assign,1
+iir_13_6,recent,1
+iir_13_6,gener term,1
+iir_13_6,select,1
+iir_13_6,reuter,1
+iir_13_6,money fx,1
+iir_13_6,true neg,1
+iir_13_6,section,1
+iir_13_6,macro avg,1
+iir_13_6,system,1
+iir_13_6,modapt split,1
+iir_13_6,data,1
+iir_13_6,tweak,1
+iir_13_6,rank,1
+iir_13_6,rightmost column,1
+iir_13_6,applic,1
+iir_13_6,ident,1
+iir_13_6,complement,1
+iir_13_6,histor,1
+iir_13_6,beginn,1
+iir_13_6,recal,1
+iir_13_6,featur,1
+iir_13_6,type,1
+iir_13_6,rel frequenc,1
+iir_13_6,fraction,1
+iir_13_6,train,1
+iir_13_6,equat,1
+iir_13_6,paper,1
+iir_13_6,addit,1
+iir_13_6,knowledg,1
+iir_13_6,bun,1
+iir_13_6,book,1
+iir_13_6,period,1
+iir_13_6,time,1
+iir_13_6,perform,1
+iir_13_6,indic,1
+iir_13_6,purpos,1
+iir_13_6,ship,1
+iir_13_6,distribut,1
+iir_13_6,row,1
+iir_13_6,evalu,1
+iir_13_6,smooth,1
+iir_13_6,inform,1
+iir_13_6,concept drift,1
+iir_13_6,bernoulli model,1
+iir_13_6,newswir articl,1
+iir_13_6,proport,1
+iir_13_6,topic categori,1
+iir_13_6,english,1
+iir_13_6,experiment setup,1
+iir_13_6,retriev,1
+iir_13_6,stationari,1
+iir_13_6,condit,1
+iir_13_6,properti,1
+iir_13_6,human index,1
+iir_13_6,test document,1
+iir_13_6,fals posit decis,1
+iir_14_1,averag,1
+iir_14_1,cosin similar,1
+iir_14_1,knn classif,1
+iir_14_1,vert vert,1
+iir_14_1,chapter,1
+iir_14_1,neighbor,1
+iir_14_1,decis,1
+iir_14_1,hyper,1
+iir_14_1,surfac,1
+iir_14_1,direct correspond,1
+iir_14_1,behavior,1
+iir_14_1,role,1
+iir_14_1,project,1
+iir_14_1,addit,1
+iir_14_1,document,1
+iir_14_1,mathbb,1
+iir_14_1,vector,1
+iir_14_1,notion,1
+iir_14_1,distanc measur,1
+iir_14_1,exercis,1
+iir_14_1,dot product,1
+iir_14_1,related,1
+iir_14_1,local region,1
+iir_14_1,realiti,1
+iir_14_1,plane,1
+iir_14_1,centroid,1
+iir_14_1,sphere,1
+iir_14_1,length normal unit vector,1
+iir_14_1,properti,1
+iir_14_1,figur,1
+iir_14_1,hyperspher,1
+iir_14_1,page,1
+iir_14_1,term,1
+iir_14_2,log,1
+iir_14_2,docsetlabel,1
+iir_14_2,close,1
+iir_14_2,task,1
+iir_14_2,overlin,1
+iir_14_2,queri compon,1
+iir_14_2,cdot,1
+iir_14_2,vec,1
+iir_14_2,theta,1
+iir_14_2,circl,1
+iir_14_2,assign criterion,1
+iir_14_2,countri,1
+iir_14_2,multimod class,1
+iir_14_2,rocchio relev feedback,1
+iir_14_2,linear,1
+iir_14_2,mass,1
+iir_14_2,rangl,1
+iir_14_2,gener,1
+iir_14_2,set,1
+iir_14_2,knn,1
+iir_14_2,tcjclass,1
+iir_14_2,exercis,1
+iir_14_2,vert docsetlabel vert vert vert,1
+iir_14_2,onedoc,1
+iir_14_2,fit,1
+iir_14_2,diamond,1
+iir_14_2,form,1
+iir_14_2,classif accuraci,1
+iir_14_2,respect,1
+iir_14_2,locat,1
+iir_14_2,muc,1
+iir_14_2,pseudocod,1
+iir_14_2,section,1
+iir_14_2,boundari,1
+iir_14_2,arbitrari,1
+iir_14_2,hyperplan,1
+iir_14_2,approxim sphere,1
+iir_14_2,figur,1
+iir_14_2,kenya,1
+iir_14_2,vector space classif,1
+iir_14_2,docsetc,1
+iir_14_2,similar radii,1
+iir_14_2,vert,1
+iir_14_2,unnorm,1
+iir_14_2,entri,1
+iir_14_2,cosin similar,1
+iir_14_2,assumpt,1
+iir_14_2,mean cluster,1
+iir_14_2,complement,1
+iir_14_2,algorithm,1
+iir_14_2,applyrocchio,1
+iir_14_2,scatter,1
+iir_14_2,collect,1
+iir_14_2,definit,1
+iir_14_2,type,1
+iir_14_2,china,1
+iir_14_2,myanmar,1
+iir_14_2,train,1
+iir_14_2,class classifi,1
+iir_14_2,tabl,1
+iir_14_2,time complex,1
+iir_14_2,rocchio classif,1
+iir_14_2,spheric,1
+iir_14_2,star,1
+iir_14_2,detail,1
+iir_14_2,equat,1
+iir_14_2,addit,1
+iir_14_2,document,1
+iir_14_2,accord,1
+iir_14_2,contigu,1
+iir_14_2,equal distanc,1
+iir_14_2,fals posit,1
+iir_14_2,burma,1
+iir_14_2,formula,1
+iir_14_2,singl prototyp,1
+iir_14_2,naiv bay,1
+iir_14_2,altern,1
+iir_14_2,line,1
+iir_14_2,distribut,1
+iir_14_2,dimension,1
+iir_14_2,vector averag,1
+iir_14_2,solid squar,1
+iir_14_2,center,1
+iir_14_2,data unseen,1
+iir_14_2,ave,1
+iir_14_2,classif decis,1
+iir_14_2,plane,1
+iir_14_2,centroid,1
+iir_14_2,size,1
+iir_14_2,space,1
+iir_14_2,page,1
+iir_14_2,nonrelev,1
+iir_14_2,constant,1
+iir_14_3,accur,1
+iir_14_3,length,1
+iir_14_3,accuraci,1
+iir_14_3,close,1
+iir_14_3,rational,1
+iir_14_3,common choic,1
+iir_14_3,hand,1
+iir_14_3,invari,1
+iir_14_3,error bound,1
+iir_14_3,law,1
+iir_14_3,hat,1
+iir_14_3,infrequ,1
+iir_14_3,result,1
+iir_14_3,voronoi tessel,1
+iir_14_3,scheme,1
+iir_14_3,probabl,1
+iir_14_3,solut,1
+iir_14_3,measur,1
+iir_14_3,theta,1
+iir_14_3,approxim,1
+iir_14_3,due,1
+iir_14_3,sourc,1
+iir_14_3,qualiti,1
+iir_14_3,independ,1
+iir_14_3,linear,1
+iir_14_3,vector,1
+iir_14_3,contigu hypothesi,1
+iir_14_3,label,1
+iir_14_3,set,1
+iir_14_3,invert index,1
+iir_14_3,membership,1
+iir_14_3,exercis,1
+iir_14_3,robust,1
+iir_14_3,valu,1
+iir_14_3,onedoc,1
+iir_14_3,tie,1
+iir_14_3,search,1
+iir_14_3,nois,1
+iir_14_3,estim,1
+iir_14_3,class,1
+iir_14_3,form,1
+iir_14_3,decis boundari,1
+iir_14_3,stop list,1
+iir_14_3,practic,1
+iir_14_3,effect,1
+iir_14_3,section,1
+iir_14_3,optim,1
+iir_14_3,sens,1
+iir_14_3,rocchio,1
+iir_14_3,sever effici penalti,1
+iir_14_3,context,1
+iir_14_3,figur,1
+iir_14_3,desir,1
+iir_14_3,term,1
+iir_14_3,vocabulari,1
+iir_14_3,vert,1
+iir_14_3,entri,1
+iir_14_3,cosin similar,1
+iir_14_3,memori base learn,1
+iir_14_3,knn classif,1
+iir_14_3,chapter,1
+iir_14_3,neighbor,1
+iir_14_3,collect,1
+iir_14_3,train document,1
+iir_14_3,voronoi cell,1
+iir_14_3,compon,1
+iir_14_3,rel densiti,1
+iir_14_3,heap,1
+iir_14_3,tabl,1
+iir_14_3,token,1
+iir_14_3,time complex,1
+iir_14_3,star,1
+iir_14_3,weight,1
+iir_14_3,object,1
+iir_14_3,addit,1
+iir_14_3,knowledg,1
+iir_14_3,vote,1
+iir_14_3,paramet,1
+iir_14_3,potenti advantag,1
+iir_14_3,noisi featur,1
+iir_14_3,signific loss,1
+iir_14_3,vert docsetlabel vert convex polygon,1
+iir_14_3,reason,1
+iir_14_3,segment,1
+iir_14_3,held portion,1
+iir_14_3,naiv bay,1
+iir_14_3,score,1
+iir_14_3,local region,1
+iir_14_3,altern,1
+iir_14_3,occurr,1
+iir_14_3,distanc,1
+iir_14_3,line,1
+iir_14_3,vert docsetlabel vert,1
+iir_14_3,prior,1
+iir_14_3,reader,1
+iir_14_3,proport,1
+iir_14_3,experi,1
+iir_14_3,spars,1
+iir_14_3,ave,1
+iir_14_3,plane,1
+iir_14_3,centroid,1
+iir_14_3,probabilist version,1
+iir_14_3,preprocess,1
+iir_14_3,atyp,1
+iir_14_3,odd,1
+iir_14_3,retriev,1
+iir_14_3,properti,1
+iir_14_3,queri,1
+iir_14_3,train data,1
+iir_14_3,test document,1
+iir_14_3,size,1
+iir_14_3,space,1
+iir_14_3,factor,1
+iir_14_3,page,1
+iir_14_3,function,1
+iir_14_4,accur,1
+iir_14_4,threshold,1
+iir_14_4,enclav,1
+iir_14_4,graph,1
+iir_14_4,separ,1
+iir_14_4,bar,1
+iir_14_4,hat,1
+iir_14_4,simplic,1
+iir_14_4,equival,1
+iir_14_4,discuss,1
+iir_14_4,cdot,1
+iir_14_4,vec,1
+iir_14_4,approxim,1
+iir_14_4,assign criterion,1
+iir_14_4,rate discount dlr world,1
+iir_14_4,train set,1
+iir_14_4,dimension vector represent,1
+iir_14_4,basic arithmet,1
+iir_14_4,qualiti,1
+iir_14_4,instanc,1
+iir_14_4,typic,1
+iir_14_4,complement categori,1
+iir_14_4,knn,1
+iir_14_4,exercis,1
+iir_14_4,nonlinear classifi,1
+iir_14_4,text classif,1
+iir_14_4,mislead featur,1
+iir_14_4,decis boundari,1
+iir_14_4,prime dlr,1
+iir_14_4,effect,1
+iir_14_4,complex shape,1
+iir_14_4,circular,1
+iir_14_4,select,1
+iir_14_4,reuter,1
+iir_14_4,contrast,1
+iir_14_4,section,1
+iir_14_4,posit,1
+iir_14_4,index,1
+iir_14_4,hyperplan,1
+iir_14_4,rocchio,1
+iir_14_4,data,1
+iir_14_4,method naiv bay,1
+iir_14_4,figur,1
+iir_14_4,true,1
+iir_14_4,difficult,1
+iir_14_4,term,1
+iir_14_4,arrow,1
+iir_14_4,vocabulari,1
+iir_14_4,altern geometr interpret,1
+iir_14_4,function form,1
+iir_14_4,averag increas,1
+iir_14_4,paramet vector,1
+iir_14_4,algorithm,1
+iir_14_4,challeng,1
+iir_14_4,solid circl,1
+iir_14_4,vert onedoc,1
+iir_14_4,type,1
+iir_14_4,variantmultinomi,1
+iir_14_4,tabl,1
+iir_14_4,token,1
+iir_14_4,equat,1
+iir_14_4,learn method,1
+iir_14_4,leq,1
+iir_14_4,document,1
+iir_14_4,trivial,1
+iir_14_4,difficulti,1
+iir_14_4,classif rule,1
+iir_14_4,normal vector,1
+iir_14_4,equal distanc,1
+iir_14_4,reason,1
+iir_14_4,log odd,1
+iir_14_4,class membership,1
+iir_14_4,vert overlin,1
+iir_14_4,occurr,1
+iir_14_4,line,1
+iir_14_4,attent,1
+iir_14_4,distribut,1
+iir_14_4,squar,1
+iir_14_4,log space,1
+iir_14_4,inaccur,1
+iir_14_4,twasxi vert bar,1
+iir_14_4,easi,1
+iir_14_4,linear classifi,1
+iir_14_4,short dash,1
+iir_14_4,dimens,1
+iir_14_4,page,1
+iir_14_5,accuraci,1
+iir_14_5,method,1
+iir_14_5,overlin,1
+iir_14_5,separ,1
+iir_14_5,straightforward,1
+iir_14_5,decis,1
+iir_14_5,multiclass,1
+iir_14_5,probabl,1
+iir_14_5,correct,1
+iir_14_5,approxim,1
+iir_14_5,nonlinear,1
+iir_14_5,direct measur,1
+iir_14_5,due,1
+iir_14_5,train set,1
+iir_14_5,mathbb,1
+iir_14_5,rang,1
+iir_14_5,independ,1
+iir_14_5,rangl,1
+iir_14_5,class linear classifi,1
+iir_14_5,knn,1
+iir_14_5,poultri,1
+iir_14_5,topic,1
+iir_14_5,onedoc,1
+iir_14_5,text classif,1
+iir_14_5,maximum score,1
+iir_14_5,class,1
+iir_14_5,respect,1
+iir_14_5,exclus,1
+iir_14_5,effect,1
+iir_14_5,languag,1
+iir_14_5,system,1
+iir_14_5,corn,1
+iir_14_5,sens,1
+iir_14_5,prime minist,1
+iir_14_5,figur,1
+iir_14_5,true,1
+iir_14_5,rank,1
+iir_14_5,formal definit,1
+iir_14_5,term,1
+iir_14_5,complement,1
+iir_14_5,multinomi,1
+iir_14_5,algorithm,1
+iir_14_5,vert vert,1
+iir_14_5,neighbor,1
+iir_14_5,confid,1
+iir_14_5,featur,1
+iir_14_5,relev,1
+iir_14_5,type,1
+iir_14_5,posit label,1
+iir_14_5,option,1
+iir_14_5,plausibl,1
+iir_14_5,china,1
+iir_14_5,singl classif function gamma,1
+iir_14_5,tabl,1
+iir_14_5,equat,1
+iir_14_5,confus matrix,1
+iir_14_5,document,1
+iir_14_5,ldot,1
+iir_14_5,mislead,1
+iir_14_5,influenc,1
+iir_14_5,opportun,1
+iir_14_5,polytom,1
+iir_14_5,perform,1
+iir_14_5,distanc,1
+iir_14_5,coffe,1
+iir_14_5,grain,1
+iir_14_5,common,1
+iir_14_5,pair,1
+iir_14_5,tool,1
+iir_14_5,error,1
+iir_14_5,page,1
+iir_14_6,close,1
+iir_14_6,task,1
+iir_14_6,class boundari,1
+iir_14_6,extent,1
+iir_14_6,equival,1
+iir_14_6,incorrect,1
+iir_14_6,sort,1
+iir_14_6,simplif,1
+iir_14_6,instanc,1
+iir_14_6,independ,1
+iir_14_6,classifi gamma,1
+iir_14_6,dimension space,1
+iir_14_6,rise,1
+iir_14_6,misclassif,1
+iir_14_6,linear hyperplan,1
+iir_14_6,partial credit,1
+iir_14_6,form,1
+iir_14_6,fit train set perfectli,1
+iir_14_6,expect,1
+iir_14_6,quadrat polynomi,1
+iir_14_6,posit,1
+iir_14_6,logist regress,1
+iir_14_6,rocchio,1
+iir_14_6,graphclassmodelbernoulligraph,1
+iir_14_6,figur,1
+iir_14_6,underli distribut,1
+iir_14_6,intuit,1
+iir_14_6,term,1
+iir_14_6,english word,1
+iir_14_6,averag,1
+iir_14_6,fine grain detail,1
+iir_14_6,unavoid,1
+iir_14_6,gp,1
+iir_14_6,chapter,1
+iir_14_6,test set,1
+iir_14_6,varianc,1
+iir_14_6,final result,1
+iir_14_6,surpris,1
+iir_14_6,solid circl,1
+iir_14_6,arithmet transform,1
+iir_14_6,optim learn method,1
+iir_14_6,vert onedoc,1
+iir_14_6,option,1
+iir_14_6,make,1
+iir_14_6,comparison,1
+iir_14_6,evalu measur,1
+iir_14_6,special,1
+iir_14_6,low,1
+iir_14_6,readabl,1
+iir_14_6,prototyp exampl,1
+iir_14_6,paramet,1
+iir_14_6,onlin,1
+iir_14_6,simpl,1
+iir_14_6,account,1
+iir_14_6,corner,1
+iir_14_6,naiv bay,1
+iir_14_6,line,1
+iir_14_6,criterion,1
+iir_14_6,reader,1
+iir_14_6,squar,1
+iir_14_6,classif error,1
+iir_14_6,fundament insight,1
+iir_14_6,illustr,1
+iir_14_6,memori capac,1
+iir_14_6,featur select,1
+iir_14_6,roman alphabet,1
+iir_14_6,input,1
+iir_14_6,linear classifi,1
+iir_14_6,sensit,1
+iir_14_6,dimens,1
+iir_14_6,concept,1
+iir_14_6,character,1
+iir_14_6,size,1
+iir_14_6,page,1
+iir_14_6,function,1
+iir_14_6,margin maxim,1
+iir_14_6,estim hat,1
+iir_14_6,proxi,1
+iir_14_6,chines text,1
+iir_14_6,sentenc document china,1
+iir_14_6,search engin,1
+iir_14_6,decis,1
+iir_14_6,learn error,1
+iir_14_6,cpu,1
+iir_14_6,correct,1
+iir_14_6,word model,1
+iir_14_6,goal,1
+iir_14_6,complex,1
+iir_14_6,rangl,1
+iir_14_6,machin learn,1
+iir_14_6,label,1
+iir_14_6,knn,1
+iir_14_6,exercis,1
+iir_14_6,nonlinear classifi,1
+iir_14_6,bia,1
+iir_14_6,prone,1
+iir_14_6,bia varianc tradeoff,1
+iir_14_6,minor effect,1
+iir_14_6,desideratum,1
+iir_14_6,respect,1
+iir_14_6,contrast,1
+iir_14_6,section,1
+iir_14_6,optim effect,1
+iir_14_6,power,1
+iir_14_6,circular enclav,1
+iir_14_6,data,1
+iir_14_6,applic,1
+iir_14_6,intern trade lawyer,1
+iir_14_6,class legal action,1
+iir_14_6,chanc,1
+iir_14_6,matter,1
+iir_14_6,bag,1
+iir_14_6,lack,1
+iir_14_6,train document,1
+iir_14_6,compon,1
+iir_14_6,relev,1
+iir_14_6,type,1
+iir_14_6,domain knowledg,1
+iir_14_6,calcul,1
+iir_14_6,equat,1
+iir_14_6,object,1
+iir_14_6,regular,1
+iir_14_6,success,1
+iir_14_6,variabl,1
+iir_14_6,reason,1
+iir_14_6,stand queri,1
+iir_14_6,loanword,1
+iir_14_6,contriv,1
+iir_14_6,public,1
+iir_14_6,gamma docsetlabel,1
+iir_14_6,gener model,1
+iir_14_6,overfit,1
+iir_14_6,vast major,1
+iir_14_6,inconsist,1
+iir_14_6,product,1
+iir_14_6,except,1
+iir_14_6,true condit probabl,1
+iir_14_6,question,1
+iir_14_6,treatment,1
+iir_14_6,implicit assumpt,1
+iir_14_6,bia varianc decomposit,1
+iir_14_6,deriv,1
+iir_14_6,centroid,1
+iir_14_6,mse,1
+iir_14_6,variat,1
+iir_14_6,likelihood,1
+iir_14_6,franc,1
+iir_14_6,properti,1
+iir_14_6,inher uncertainti,1
+iir_14_6,wrong,1
+iir_14_6,mix chines english web page,1
+iir_14_6,dash,1
+iir_14_6,appar,1
+iir_15_1,length,1
+iir_15_1,diagram,1
+iir_15_1,close,1
+iir_15_1,invari,1
+iir_15_1,perpendicular,1
+iir_15_1,margin,1
+iir_15_1,platt,1
+iir_15_1,construct,1
+iir_15_1,void,1
+iir_15_1,abil,1
+iir_15_1,origin,1
+iir_15_1,discuss,1
+iir_15_1,unknow,1
+iir_15_1,result,1
+iir_15_1,linear separ,1
+iir_15_1,measur,1
+iir_15_1,probabl,1
+iir_15_1,solut,1
+iir_15_1,help,1
+iir_15_1,sourc,1
+iir_15_1,middl,1
+iir_15_1,shape,1
+iir_15_1,model,1
+iir_15_1,slight document variat,1
+iir_15_1,conveni,1
+iir_15_1,search,1
+iir_15_1,care rescal,1
+iir_15_1,misclassif,1
+iir_15_1,direct,1
+iir_15_1,sampl,1
+iir_15_1,fit,1
+iir_15_1,bia varianc tradeoff,1
+iir_15_1,librari,1
+iir_15_1,actual geometri,1
+iir_15_1,subset,1
+iir_15_1,class,1
+iir_15_1,decis boundari,1
+iir_15_1,respect,1
+iir_15_1,effect,1
+iir_15_1,intric,1
+iir_15_1,section,1
+iir_15_1,slight error,1
+iir_15_1,lot,1
+iir_15_1,posit,1
+iir_15_1,sens,1
+iir_15_1,derconstrain,1
+iir_15_1,unit hyperspher,1
+iir_15_1,data,1
+iir_15_1,figur,1
+iir_15_1,parallel,1
+iir_15_1,desir,1
+iir_15_1,width,1
+iir_15_1,intuit,1
+iir_15_1,term,1
+iir_15_1,constraint,1
+iir_15_1,svm,1
+iir_15_1,perceptron algorithm,1
+iir_15_1,chapter,1
+iir_15_1,signific,1
+iir_15_1,chanc,1
+iir_15_1,inequ,1
+iir_15_1,confid,1
+iir_15_1,definit,1
+iir_15_1,separ train data set,1
+iir_15_1,project,1
+iir_15_1,band,1
+iir_15_1,principl,1
+iir_15_1,learn method,1
+iir_15_1,detail,1
+iir_15_1,unknown,1
+iir_15_1,sign,1
+iir_15_1,equat,1
+iir_15_1,paramet,1
+iir_15_1,literatur,1
+iir_15_1,quadrat optim,1
+iir_15_1,support vector,1
+iir_15_1,dot product,1
+iir_15_1,sigmoid,1
+iir_15_1,decis function,1
+iir_15_1,machin,1
+iir_15_1,naiv bay,1
+iir_15_1,time,1
+iir_15_1,distanc,1
+iir_15_1,line,1
+iir_15_1,uncertain classif decis,1
+iir_15_1,criterion,1
+iir_15_1,math,1
+iir_15_1,choic,1
+iir_15_1,extra featur,1
+iir_15_1,translat,1
+iir_15_1,algebra,1
+iir_15_1,decis hyperplan,1
+iir_15_1,pair,1
+iir_15_1,memori capac,1
+iir_15_1,plane,1
+iir_15_1,final standard formul,1
+iir_15_1,classifi,1
+iir_15_1,equal,1
+iir_15_1,dimens,1
+iir_15_1,size,1
+iir_15_1,factor,1
+iir_15_1,page,1
+iir_15_1,structur,1
+iir_15_1,scale,1
+iir_15_1,refer,1
+iir_15_1,constant,1
+iir_15_2,categor label,1
+iir_15_2,separ,1
+iir_15_2,construct,1
+iir_15_2,strategi,1
+iir_15_2,finit,1
+iir_15_2,extent,1
+iir_15_2,equival,1
+iir_15_2,content,1
+iir_15_2,circl,1
+iir_15_2,ethnic,1
+iir_15_2,sum,1
+iir_15_2,polynomi kernel,1
+iir_15_2,independ,1
+iir_15_2,linear,1
+iir_15_2,model,1
+iir_15_2,quadrat function,1
+iir_15_2,related,1
+iir_15_2,dimension space,1
+iir_15_2,weak,1
+iir_15_2,formul,1
+iir_15_2,strong reput,1
+iir_15_2,slack variabl,1
+iir_15_2,form,1
+iir_15_2,decis boundari,1
+iir_15_2,minim,1
+iir_15_2,practic,1
+iir_15_2,languag,1
+iir_15_2,terminolog,1
+iir_15_2,xit xj,1
+iir_15_2,mistak,1
+iir_15_2,continu,1
+iir_15_2,investig,1
+iir_15_2,polar,1
+iir_15_2,dimension common,1
+iir_15_2,weird nois document,1
+iir_15_2,piec,1
+iir_15_2,figur,1
+iir_15_2,difficult,1
+iir_15_2,deep root,1
+iir_15_2,qp,1
+iir_15_2,charact subsequ,1
+iir_15_2,start,1
+iir_15_2,plane techniqu,1
+iir_15_2,kind,1
+iir_15_2,class classifi,1
+iir_15_2,tabl,1
+iir_15_2,notic,1
+iir_15_2,lagrang multipli,1
+iir_15_2,gaussian distribut,1
+iir_15_2,straightforward notion,1
+iir_15_2,quadrat optim,1
+iir_15_2,dot product,1
+iir_15_2,isn,1
+iir_15_2,altern,1
+iir_15_2,occurr,1
+iir_15_2,issu,1
+iir_15_2,dumai,1
+iir_15_2,arbitrari structur object,1
+iir_15_2,bulk,1
+iir_15_2,pair,1
+iir_15_2,outlier,1
+iir_15_2,awe,1
+iir_15_2,handl,1
+iir_15_2,svm world,1
+iir_15_2,trick,1
+iir_15_2,posit definit gram matrix,1
+iir_15_2,dimens,1
+iir_15_2,theoret,1
+iir_15_2,size,1
+iir_15_2,factor,1
+iir_15_2,page,1
+iir_15_2,constant,1
+iir_15_2,imposs,1
+iir_15_2,threshold,1
+iir_15_2,relationship,1
+iir_15_2,bottom,1
+iir_15_2,method,1
+iir_15_2,cost,1
+iir_15_2,solut,1
+iir_15_2,standard approach,1
+iir_15_2,impract,1
+iir_15_2,word,1
+iir_15_2,gap,1
+iir_15_2,symmetr,1
+iir_15_2,complex,1
+iir_15_2,exampl,1
+iir_15_2,machin learn,1
+iir_15_2,repres,1
+iir_15_2,test time,1
+iir_15_2,test datum,1
+iir_15_2,joachim,1
+iir_15_2,mathemat,1
+iir_15_2,unattract,1
+iir_15_2,fat decis margin,1
+iir_15_2,tripl,1
+iir_15_2,recent,1
+iir_15_2,build,1
+iir_15_2,contrast,1
+iir_15_2,section,1
+iir_15_2,upper,1
+iir_15_2,power,1
+iir_15_2,system,1
+iir_15_2,standard attribut,1
+iir_15_2,map,1
+iir_15_2,data,1
+iir_15_2,harm,1
+iir_15_2,hyperspher,1
+iir_15_2,standardli increas,1
+iir_15_2,regular term,1
+iir_15_2,replic,1
+iir_15_2,major slowdown,1
+iir_15_2,featur,1
+iir_15_2,train,1
+iir_15_2,simpl instanc,1
+iir_15_2,project,1
+iir_15_2,unknown,1
+iir_15_2,equat,1
+iir_15_2,success,1
+iir_15_2,kozlov,1
+iir_15_2,distinct inform,1
+iir_15_2,naiv bay model,1
+iir_15_2,support vector,1
+iir_15_2,rbf,1
+iir_15_2,interv,1
+iir_15_2,promis answer,1
+iir_15_2,book,1
+iir_15_2,overfit,1
+iir_15_2,math,1
+iir_15_2,penalti,1
+iir_15_2,straightforward famili,1
+iir_15_2,text applic,1
+iir_15_2,standard result,1
+iir_15_2,easi,1
+iir_15_2,actual speed,1
+iir_15_2,mercer kernel,1
+iir_15_2,wrong,1
+iir_15_2,cξi,1
+iir_15_2,scale,1
+iir_15_2,classif,1
+iir_15_2,soft margin classif,1
+iir_15_3,perfect posit,1
+iir_15_3,mileag,1
+iir_15_3,hierarch structur,1
+iir_15_3,ultim test,1
+iir_15_3,util,1
+iir_15_3,moulini,1
+iir_15_3,classificatori power,1
+iir_15_3,topic middl east,1
+iir_15_3,oxygen,1
+iir_15_3,leav,1
+iir_15_3,note,1
+iir_15_3,discuss,1
+iir_15_3,content,1
+iir_15_3,jacob,1
+iir_15_3,sort,1
+iir_15_3,practic challeng,1
+iir_15_3,intern,1
+iir_15_3,qualiti,1
+iir_15_3,takeov,1
+iir_15_3,instanc,1
+iir_15_3,precis,1
+iir_15_3,quantiti,1
+iir_15_3,real world context,1
+iir_15_3,textbook,1
+iir_15_3,implement,1
+iir_15_3,peopl,1
+iir_15_3,independ,1
+iir_15_3,decis tree,1
+iir_15_3,manag,1
+iir_15_3,model,1
+iir_15_3,set,1
+iir_15_3,hundr,1
+iir_15_3,strength,1
+iir_15_3,categor tool vendor,1
+iir_15_3,rate,1
+iir_15_3,limit goal,1
+iir_15_3,special token,1
+iir_15_3,rase,1
+iir_15_3,multiword pattern,1
+iir_15_3,weak,1
+iir_15_3,bodi,1
+iir_15_3,action,1
+iir_15_3,perform gain,1
+iir_15_3,wide rang,1
+iir_15_3,form,1
+iir_15_3,phone,1
+iir_15_3,answer,1
+iir_15_3,yahoo,1
+iir_15_3,effect,1
+iir_15_3,care,1
+iir_15_3,improv,1
+iir_15_3,rout email,1
+iir_15_3,reuter newswir document,1
+iir_15_3,central,1
+iir_15_3,market,1
+iir_15_3,hay,1
+iir_15_3,mistak,1
+iir_15_3,human tune,1
+iir_15_3,date,1
+iir_15_3,inspir,1
+iir_15_3,report,1
+iir_15_3,author,1
+iir_15_3,piec,1
+iir_15_3,commerci world,1
+iir_15_3,difficult,1
+iir_15_3,singer,1
+iir_15_3,term,1
+iir_15_3,paragraph,1
+iir_15_3,unclear,1
+iir_15_3,charact gram featur,1
+iir_15_3,annot cost,1
+iir_15_3,string,1
+iir_15_3,aggress,1
+iir_15_3,concern,1
+iir_15_3,random sampl,1
+iir_15_3,discrimin,1
+iir_15_3,algorithm,1
+iir_15_3,chapter,1
+iir_15_3,signific,1
+iir_15_3,brill,1
+iir_15_3,start,1
+iir_15_3,sentenc,1
+iir_15_3,runtim effici,1
+iir_15_3,titl,1
+iir_15_3,principl,1
+iir_15_3,subject,1
+iir_15_3,queue,1
+iir_15_3,paramet,1
+iir_15_3,congress,1
+iir_15_3,boost,1
+iir_15_3,domain,1
+iir_15_3,deal,1
+iir_15_3,restrict chanc,1
+iir_15_3,internet publish,1
+iir_15_3,machin,1
+iir_15_3,naiv bay,1
+iir_15_3,thumb,1
+iir_15_3,numer score,1
+iir_15_3,articl,1
+iir_15_3,altern,1
+iir_15_3,occurr,1
+iir_15_3,murata,1
+iir_15_3,scalabl,1
+iir_15_3,advantag,1
+iir_15_3,attent,1
+iir_15_3,activ learn,1
+iir_15_3,reader,1
+iir_15_3,evid,1
+iir_15_3,capabl,1
+iir_15_3,jackson,1
+iir_15_3,chemic formula,1
+iir_15_3,linear increas,1
+iir_15_3,huge amount,1
+iir_15_3,classifi,1
+iir_15_3,boolean express,1
+iir_15_3,queri,1
+iir_15_3,train data,1
+iir_15_3,default,1
+iir_15_3,size,1
+iir_15_3,techniqu,1
+iir_15_3,factor,1
+iir_15_3,theoret,1
+iir_15_3,page,1
+iir_15_3,exclam mark,1
+iir_15_3,corpor intranet,1
+iir_15_3,man,1
+iir_15_3,mail messag header,1
+iir_15_3,accuraci,1
+iir_15_3,upweight,1
+iir_15_3,method,1
+iir_15_3,empir result,1
+iir_15_3,doubl,1
+iir_15_3,special treatment,1
+iir_15_3,appear,1
+iir_15_3,hand written rule,1
+iir_15_3,govern depart,1
+iir_15_3,uncommon,1
+iir_15_3,solut,1
+iir_15_3,text document relev,1
+iir_15_3,day,1
+iir_15_3,consider research,1
+iir_15_3,separ featur space,1
+iir_15_3,success categor,1
+iir_15_3,text classif,1
+iir_15_3,bia,1
+iir_15_3,direct,1
+iir_15_3,librari,1
+iir_15_3,begin,1
+iir_15_3,forman,1
+iir_15_3,class,1
+iir_15_3,legal,1
+iir_15_3,human label,1
+iir_15_3,key,1
+iir_15_3,compound,1
+iir_15_3,deep hierarchi,1
+iir_15_3,keyword ethnic,1
+iir_15_3,section,1
+iir_15_3,lot,1
+iir_15_3,futur version,1
+iir_15_3,system,1
+iir_15_3,subvocabulari,1
+iir_15_3,banko,1
+iir_15_3,cue,1
+iir_15_3,commod,1
+iir_15_3,applic specif heurist,1
+iir_15_3,vocabulari,1
+iir_15_3,dewey decim,1
+iir_15_3,jordan,1
+iir_15_3,email spam,1
+iir_15_3,applic,1
+iir_15_3,svm,1
+iir_15_3,zone,1
+iir_15_3,field,1
+iir_15_3,bag,1
+iir_15_3,rau,1
+iir_15_3,recal,1
+iir_15_3,empir evalu,1
+iir_15_3,process,1
+iir_15_3,featur,1
+iir_15_3,compon,1
+iir_15_3,entiti recogn,1
+iir_15_3,type,1
+iir_15_3,thousand,1
+iir_15_3,web directori,1
+iir_15_3,porn,1
+iir_15_3,reason estim,1
+iir_15_3,categori,1
+iir_15_3,manual review,1
+iir_15_3,connect,1
+iir_15_3,similar signal,1
+iir_15_3,benefici,1
+iir_15_3,cohen,1
+iir_15_3,weight,1
+iir_15_3,mainten,1
+iir_15_3,document,1
+iir_15_3,vote,1
+iir_15_3,user,1
+iir_15_3,staff knowledg,1
+iir_15_3,uncertain,1
+iir_15_3,colloc ethnic,1
+iir_15_3,promis approach,1
+iir_15_3,time,1
+iir_15_3,enzym,1
+iir_15_3,indic,1
+iir_15_3,art,1
+iir_15_3,purpos,1
+iir_15_3,pointer,1
+iir_15_3,choic,1
+iir_15_3,isbn,1
+iir_15_3,refer,1
+iir_15_3,inform,1
+iir_15_3,product,1
+iir_15_3,question,1
+iir_15_3,ubiquit,1
+iir_15_3,bootstrap,1
+iir_15_3,retriev,1
+iir_15_3,space,1
+iir_15_3,natur task,1
+iir_15_3,klein,1
+iir_15_3,modest,1
+iir_15_3,weinstein,1
+iir_15_4,rel weight,1
+iir_15_4,close,1
+iir_15_4,threshold,1
+iir_15_4,hand,1
+iir_15_4,task,1
+iir_15_4,construct,1
+iir_15_4,relev decis,1
+iir_15_4,excit,1
+iir_15_4,abil,1
+iir_15_4,direct perpendicular,1
+iir_15_4,monoton,1
+iir_15_4,probabl,1
+iir_15_4,expert,1
+iir_15_4,antisymmetr,1
+iir_15_4,special field,1
+iir_15_4,goal,1
+iir_15_4,sort,1
+iir_15_4,word,1
+iir_15_4,sourc,1
+iir_15_4,binari relev nonrelev judgment,1
+iir_15_4,quantiti,1
+iir_15_4,implement,1
+iir_15_4,person,1
+iir_15_4,materi,1
+iir_15_4,geometri,1
+iir_15_4,featur exposit,1
+iir_15_4,machin learn,1
+iir_15_4,statistician,1
+iir_15_4,set,1
+iir_15_4,relev signal,1
+iir_15_4,topic,1
+iir_15_4,proxim weight,1
+iir_15_4,linear combin,1
+iir_15_4,methodolog,1
+iir_15_4,coeffici,1
+iir_15_4,real valu predictor,1
+iir_15_4,zone contribut,1
+iir_15_4,formul,1
+iir_15_4,develop,1
+iir_15_4,class,1
+iir_15_4,document weight function,1
+iir_15_4,height,1
+iir_15_4,practic,1
+iir_15_4,section,1
+iir_15_4,lot,1
+iir_15_4,top,1
+iir_15_4,similar restrict model class,1
+iir_15_4,global scale,1
+iir_15_4,figur,1
+iir_15_4,instruct,1
+iir_15_4,difficult,1
+iir_15_4,loss,1
+iir_15_4,term,1
+iir_15_4,form unknown,1
+iir_15_4,constraint,1
+iir_15_4,idea,1
+iir_15_4,svm,1
+iir_15_4,statement,1
+iir_15_4,chapter,1
+iir_15_4,nonrelev instanc,1
+iir_15_4,bag,1
+iir_15_4,confid,1
+iir_15_4,nonrelev document,1
+iir_15_4,addit power,1
+iir_15_4,definit,1
+iir_15_4,rich collect,1
+iir_15_4,dimension plane,1
+iir_15_4,german,1
+iir_15_4,respons,1
+iir_15_4,titl match,1
+iir_15_4,idf,1
+iir_15_4,tabl,1
+iir_15_4,project,1
+iir_15_4,web,1
+iir_15_4,equat,1
+iir_15_4,pedagog,1
+iir_15_4,paper,1
+iir_15_4,variabl,1
+iir_15_4,static qualiti,1
+iir_15_4,user,1
+iir_15_4,knowledg,1
+iir_15_4,paramet,1
+iir_15_4,statist,1
+iir_15_4,result rank,1
+iir_15_4,implicit phrase,1
+iir_15_4,vector space cosin similar,1
+iir_15_4,simpl,1
+iir_15_4,notion,1
+iir_15_4,train exampl,1
+iir_15_4,domain,1
+iir_15_4,cosin score,1
+iir_15_4,logweight,1
+iir_15_4,reason,1
+iir_15_4,skill human,1
+iir_15_4,hypothesi,1
+iir_15_4,manner,1
+iir_15_4,time,1
+iir_15_4,altern,1
+iir_15_4,distanc,1
+iir_15_4,line,1
+iir_15_4,issu,1
+iir_15_4,bottleneck,1
+iir_15_4,axe,1
+iir_15_4,pagerank style measur,1
+iir_15_4,classif approach,1
+iir_15_4,regress,1
+iir_15_4,agreement,1
+iir_15_4,pair,1
+iir_15_4,slope,1
+iir_15_4,classifi,1
+iir_15_4,move,1
+iir_15_4,retriev,1
+iir_15_4,queri,1
+iir_15_4,boolean indic,1
+iir_15_4,techniqu,1
+iir_15_4,factor,1
+iir_15_4,page,1
+iir_15_4,refer,1
+iir_16_1,sarkozi,1
+iir_16_1,bottom,1
+iir_16_1,columbia newsblast system,1
+iir_16_1,search request,1
+iir_16_1,york time news stori,1
+iir_16_1,latent semant index,1
+iir_16_1,unsur,1
+iir_16_1,goal,1
+iir_16_1,jaguar,1
+iir_16_1,simpl list,1
+iir_16_1,cluster hypothesi,1
+iir_16_1,fundament assumpt,1
+iir_16_1,top hit,1
+iir_16_1,accur estim,1
+iir_16_1,inexact,1
+iir_16_1,set,1
+iir_16_1,exercis,1
+iir_16_1,direct,1
+iir_16_1,subset,1
+iir_16_1,share term,1
+iir_16_1,respect,1
+iir_16_1,word sens,1
+iir_16_1,appl oper system,1
+iir_16_1,section,1
+iir_16_1,usual,1
+iir_16_1,similar,1
+iir_16_1,figur,1
+iir_16_1,true,1
+iir_16_1,difficult,1
+iir_16_1,arrow,1
+iir_16_1,approach,1
+iir_16_1,applic,1
+iir_16_1,idea,1
+iir_16_1,news,1
+iir_16_1,expect decreas,1
+iir_16_1,recent event,1
+iir_16_1,algorithm,1
+iir_16_1,chapter,1
+iir_16_1,descript label,1
+iir_16_1,standard invert index,1
+iir_16_1,neighbor,1
+iir_16_1,collect,1
+iir_16_1,recal,1
+iir_16_1,cluster base navig,1
+iir_16_1,default present,1
+iir_16_1,relev,1
+iir_16_1,scenario,1
+iir_16_1,respons,1
+iir_16_1,languag model,1
+iir_16_1,tabl,1
+iir_16_1,anim sens,1
+iir_16_1,web,1
+iir_16_1,equat,1
+iir_16_1,http,1
+iir_16_1,hierarch tree,1
+iir_16_1,user,1
+iir_16_1,car,1
+iir_16_1,notion,1
+iir_16_1,process repeat,1
+iir_16_1,access,1
+iir_16_1,search result,1
+iir_16_1,vehicl,1
+iir_16_1,scatter gather,1
+iir_16_1,proper name,1
+iir_16_1,inform retriev,1
+iir_16_1,clinton,1
+iir_16_1,line,1
+iir_16_1,slow,1
+iir_16_1,common,1
+iir_16_1,trinidad,1
+iir_16_1,precursor,1
+iir_16_1,directori,1
+iir_16_1,automobil document,1
+iir_16_1,queri,1
+iir_16_1,left,1
+iir_16_1,page,1
+iir_16_1,dmoz org,1
+iir_16_1,occurr probabl,1
+iir_16_1,coher,1
+iir_16_2,research,1
+iir_16_2,hard flat cluster,1
+iir_16_2,brute forc solut,1
+iir_16_2,resolut,1
+iir_16_2,note,1
+iir_16_2,discuss,1
+iir_16_2,beij,1
+iir_16_2,goal,1
+iir_16_2,multipl membership,1
+iir_16_2,word,1
+iir_16_2,qualiti,1
+iir_16_2,empti,1
+iir_16_2,rang,1
+iir_16_2,guess,1
+iir_16_2,set,1
+iir_16_2,related,1
+iir_16_2,valu,1
+iir_16_2,assign,1
+iir_16_2,scatter gather interfac,1
+iir_16_2,search,1
+iir_16_2,object function,1
+iir_16_2,vector space model,1
+iir_16_2,altern definit,1
+iir_16_2,attempt,1
+iir_16_2,global optimum,1
+iir_16_2,exclus,1
+iir_16_2,london,1
+iir_16_2,select,1
+iir_16_2,languag,1
+iir_16_2,terminolog,1
+iir_16_2,surject,1
+iir_16_2,cue,1
+iir_16_2,queen,1
+iir_16_2,feasibl,1
+iir_16_2,figur,1
+iir_16_2,term,1
+iir_16_2,approach,1
+iir_16_2,applic,1
+iir_16_2,represent,1
+iir_16_2,constraint,1
+iir_16_2,mean cluster,1
+iir_16_2,comput monitor,1
+iir_16_2,layer,1
+iir_16_2,chapter,1
+iir_16_2,heurist method,1
+iir_16_2,type,1
+iir_16_2,domain knowledg,1
+iir_16_2,china,1
+iir_16_2,britain,1
+iir_16_2,document,1
+iir_16_2,topic similar,1
+iir_16_2,exhaust cluster,1
+iir_16_2,partit,1
+iir_16_2,unfavor initi,1
+iir_16_2,reason,1
+iir_16_2,book,1
+iir_16_2,distanc,1
+iir_16_2,experi,1
+iir_16_2,cardin,1
+iir_16_2,chines,1
+iir_16_2,english,1
+iir_16_2,centroid,1
+iir_16_2,mao,1
+iir_16_2,dimens,1
+iir_16_2,size,1
+iir_16_2,page,1
+iir_16_2,difficult issu,1
+iir_16_3,maximum likelihood estim,1
+iir_16_3,accuraci,1
+iir_16_3,intersect,1
+iir_16_3,frequent,1
+iir_16_3,inform theoret interpret,1
+iir_16_3,decis,1
+iir_16_3,equival,1
+iir_16_3,result,1
+iir_16_3,probabl,1
+iir_16_3,correct,1
+iir_16_3,measur,1
+iir_16_3,fix,1
+iir_16_3,entropi,1
+iir_16_3,goal,1
+iir_16_3,jaguar,1
+iir_16_3,denomin,1
+iir_16_3,direct evalu,1
+iir_16_3,anim,1
+iir_16_3,qualiti,1
+iir_16_3,random,1
+iir_16_3,familiar,1
+iir_16_3,set,1
+iir_16_3,exercis,1
+iir_16_3,assign,1
+iir_16_3,search,1
+iir_16_3,bia,1
+iir_16_3,omega,1
+iir_16_3,class,1
+iir_16_3,typic object function,1
+iir_16_3,answer,1
+iir_16_3,respect,1
+iir_16_3,differenti weight,1
+iir_16_3,tight upper,1
+iir_16_3,intern criteria,1
+iir_16_3,section,1
+iir_16_3,system,1
+iir_16_3,tradeoff,1
+iir_16_3,figur,1
+iir_16_3,difficult,1
+iir_16_3,document cluster,1
+iir_16_3,intra cluster similar,1
+iir_16_3,fals neg decis,1
+iir_16_3,applic,1
+iir_16_3,exact,1
+iir_16_3,percentag,1
+iir_16_3,chapter,1
+iir_16_3,assess,1
+iir_16_3,collect,1
+iir_16_3,type,1
+iir_16_3,normal,1
+iir_16_3,rel frequenc,1
+iir_16_3,inter judg agreement,1
+iir_16_3,tabl,1
+iir_16_3,equat,1
+iir_16_3,rand index,1
+iir_16_3,gold standard,1
+iir_16_3,addit,1
+iir_16_3,knowledg,1
+iir_16_3,user,1
+iir_16_3,human judg,1
+iir_16_3,partit,1
+iir_16_3,intern criterion,1
+iir_16_3,simpl,1
+iir_16_3,low inter cluster similar,1
+iir_16_3,nmi,1
+iir_16_3,fals posit,1
+iir_16_3,score,1
+iir_16_3,time,1
+iir_16_3,advantag,1
+iir_16_3,altern,1
+iir_16_3,ident copi,1
+iir_16_3,expens,1
+iir_16_3,seri,1
+iir_16_3,minimum,1
+iir_16_3,pair,1
+iir_16_3,mutual inform,1
+iir_16_3,easi,1
+iir_16_3,equal,1
+iir_16_3,amount,1
+iir_16_3,puriti valu,1
+iir_16_3,error,1
+iir_16_3,sens car,1
+iir_16_3,page,1
+iir_16_3,surrog,1
+iir_16_3,research commun,1
+iir_16_4,varieti,1
+iir_16_4,close,1
+iir_16_4,rss,1
+iir_16_4,subtleti,1
+iir_16_4,threshold,1
+iir_16_4,cycl,1
+iir_16_4,naiv implement,1
+iir_16_4,differ,1
+iir_16_4,argument,1
+iir_16_4,partial deriv,1
+iir_16_4,reuter classif,1
+iir_16_4,cost,1
+iir_16_4,sport,1
+iir_16_4,equival,1
+iir_16_4,result,1
+iir_16_4,dens,1
+iir_16_4,loop,1
+iir_16_4,measur,1
+iir_16_4,fix,1
+iir_16_4,fast,1
+iir_16_4,goal,1
+iir_16_4,sum,1
+iir_16_4,train set,1
+iir_16_4,cluster center,1
+iir_16_4,qualiti,1
+iir_16_4,familiar,1
+iir_16_4,complex,1
+iir_16_4,linear,1
+iir_16_4,mean,1
+iir_16_4,seed,1
+iir_16_4,curv flatten,1
+iir_16_4,membership,1
+iir_16_4,exercis,1
+iir_16_4,assign,1
+iir_16_4,tie,1
+iir_16_4,object function,1
+iir_16_4,class,1
+iir_16_4,guarante,1
+iir_16_4,relev factor,1
+iir_16_4,practic,1
+iir_16_4,care,1
+iir_16_4,germani,1
+iir_16_4,iter,1
+iir_16_4,variant,1
+iir_16_4,section,1
+iir_16_4,predict,1
+iir_16_4,index,1
+iir_16_4,effect heurist,1
+iir_16_4,figur,1
+iir_16_4,term,1
+iir_16_4,snapshot,1
+iir_16_4,averag,1
+iir_16_4,converg,1
+iir_16_4,signific speedup,1
+iir_16_4,chapter,1
+iir_16_4,similar role,1
+iir_16_4,bad local minimum,1
+iir_16_4,column,1
+iir_16_4,descript,1
+iir_16_4,definit,1
+iir_16_4,compon,1
+iir_16_4,type,1
+iir_16_4,euclidean distanc,1
+iir_16_4,oper cost theta,1
+iir_16_4,categori china,1
+iir_16_4,tabl,1
+iir_16_4,rocchio classif,1
+iir_16_4,medoid,1
+iir_16_4,document,1
+iir_16_4,desiderata,1
+iir_16_4,simpl,1
+iir_16_4,runtim,1
+iir_16_4,real valu space,1
+iir_16_4,poor,1
+iir_16_4,bad choic,1
+iir_16_4,flat cluster algorithm,1
+iir_16_4,graviti,1
+iir_16_4,time,1
+iir_16_4,min,1
+iir_16_4,criterion,1
+iir_16_4,multipl,1
+iir_16_4,dimension,1
+iir_16_4,refer,1
+iir_16_4,squar,1
+iir_16_4,russia,1
+iir_16_4,slow,1
+iir_16_4,minimum,1
+iir_16_4,initi method,1
+iir_16_4,iknm,1
+iir_16_4,spars,1
+iir_16_4,outlier,1
+iir_16_4,termin condit,1
+iir_16_4,length normal vector,1
+iir_16_4,sphere,1
+iir_16_4,tricki,1
+iir_16_4,centroid,1
+iir_16_4,size,1
+iir_16_4,page,1
+iir_16_4,effici,1
+iir_16_4,recomput step,1
+iir_16_4,knm,1
+iir_16_5,varieti,1
+iir_16_5,spread,1
+iir_16_5,seed document,1
+iir_16_5,document represent,1
+iir_16_5,recomput,1
+iir_16_5,rss,1
+iir_16_5,log likelihood,1
+iir_16_5,spheric shape,1
+iir_16_5,bernoulli naiv bay classif,1
+iir_16_5,result,1
+iir_16_5,probabl,1
+iir_16_5,bernoulli,1
+iir_16_5,theta,1
+iir_16_5,fraction membership,1
+iir_16_5,thetak,1
+iir_16_5,denomin,1
+iir_16_5,sweet,1
+iir_16_5,instanc,1
+iir_16_5,random,1
+iir_16_5,quantiti,1
+iir_16_5,dtheta,1
+iir_16_5,vector,1
+iir_16_5,simultan relev,1
+iir_16_5,mean,1
+iir_16_5,gener,1
+iir_16_5,repres,1
+iir_16_5,set,1
+iir_16_5,exercis,1
+iir_16_5,assign,1
+iir_16_5,topic,1
+iir_16_5,maximum likelihood,1
+iir_16_5,spheric varianc,1
+iir_16_5,text classif,1
+iir_16_5,initi,1
+iir_16_5,nois,1
+iir_16_5,prone,1
+iir_16_5,object function,1
+iir_16_5,class,1
+iir_16_5,famili,1
+iir_16_5,expect,1
+iir_16_5,gaussian,1
+iir_16_5,section,1
+iir_16_5,local optima,1
+iir_16_5,similar,1
+iir_16_5,data,1
+iir_16_5,author,1
+iir_16_5,reassign,1
+iir_16_5,term,1
+iir_16_5,model paramet,1
+iir_16_5,applic,1
+iir_16_5,converg,1
+iir_16_5,moment,1
+iir_16_5,procedur,1
+iir_16_5,document cluster pair,1
+iir_16_5,chapter,1
+iir_16_5,equival criteria,1
+iir_16_5,ambigu context,1
+iir_16_5,framework,1
+iir_16_5,normal,1
+iir_16_5,tabl,1
+iir_16_5,time complex,1
+iir_16_5,equat,1
+iir_16_5,pertin,1
+iir_16_5,knowledg,1
+iir_16_5,domain,1
+iir_16_5,sugar,1
+iir_16_5,step,1
+iir_16_5,automobil,1
+iir_16_5,critic,1
+iir_16_5,iter algorithm,1
+iir_16_5,issu,1
+iir_16_5,criterion,1
+iir_16_5,prior,1
+iir_16_5,distribut,1
+iir_16_5,chines car,1
+iir_16_5,inform,1
+iir_16_5,smooth,1
+iir_16_5,iknm,1
+iir_16_5,proport,1
+iir_16_5,cluster,1
+iir_16_5,centroid,1
+iir_16_5,sphere,1
+iir_16_5,rigid assumpt,1
+iir_16_5,page,1
+iir_16_5,mixtur,1
+iir_16_5,flexibl,1
+q261,call,1
+q261,optim,1
+q261,disk,1
+q261,data,1
+q261,frequent,1
+q261,cach,1
+q261,main memori,1
+q261,techniqu,1
+q261,process,1
+q262,index,1
+q262,store,1
+q262,main memori,1
+q262,data,1
+q262,block,1
+q262,dictionari,1
+q262,buffer,1
+q263,coeffici,1
+q263,index construct,1
+q263,repres,1
+q263,term,1
+q263,termid,1
+q263,constant,1
+q264,sort,1
+q264,output,1
+q264,extern sort algorithm,1
+q264,advantag,1
+q264,algorithm,1
+q264,disk,1
+q264,random,1
+q264,cach,1
+q264,minim,1
+q264,effici,1
+q264,improv,1
+q265,bsbi,1
+q265,system,1
+q265,sort,1
+q265,base,1
+q265,sort base index,1
+q265,block,1
+q265,form,1
+q265,index algorithm,1
+q265,binari,1
+q265,buffer,1
+q266,bsbi,1
+q266,scalabl altern,1
+q266,sort,1
+q266,index,1
+q266,collect,1
+q266,memori,1
+q266,singl pass,1
+q266,compar,1
+q266,dictionari,1
+q266,spars,1
+q267,organ,1
+q267,add,1
+q267,bsbi,1
+q267,differ,1
+q267,spimi,1
+q267,term,1
+q267,post list,1
+q268,comput,1
+q268,distribut,1
+q268,mapreduc,1
+q269,assign,1
+q269,individu,1
+q269,direct,1
+q269,task,1
+q269,master,1
+q269,process,1
+q269,reassign,1
+q269,node,1
+q270,call,1
+q270,map,1
+q270,segment file,1
+q270,block,1
+q270,local intermedi file,1
+q271,data,1
+q271,extens,1
+q271,period,1
+q271,index,1
+q271,dynam,1
+q272,type,1
+q272,index,1
+q272,dynam,1
+q272,main,1
+q273,corpor,1
+q273,consider,1
+q273,data,1
+q273,retriev system,1
+q273,size,1
+q273,fast,1
+q273,secur,1
+q274,control,1
+q274,user,1
+q274,author,1
+q274,retriev system,1
+q274,list,1
+q274,phone,1
+q274,access,1
+q275,articl,1
+q275,document,1
+q275,common word,1
+q275,minimum,1
+q275,account,1
+q275,rule,1
+q275,text,1
+q275,verb,1
+q276,techniqu,1
+q276,inform,1
+q276,compress,1
+q276,lossi,1
+q276,lossless,1
+q277,vocabulari size,1
+q277,heap,1
+q277,law,1
+q277,estim,1
+q277,collect,1
+q277,function,1
+q278,low,1
+q278,compress,1
+q278,index,1
+q278,main goal,1
+q278,queri,1
+q278,distribut,1
+q278,implement,1
+q278,dictionari,1
+q278,improv,1
+q279,corpor,1
+q279,suitabl,1
+q279,method,1
+q279,compress,1
+q279,multiterabyt collect,1
+q279,expens,1
+q279,vocabulari,1
+q279,dictionari,1
+q280,invari,1
+q280,encod,1
+q280,gap,1
+q280,variabl,1
+q280,code,1
+q280,bitwis,1
+q280,byte,1
+q280,variabl byte encod,1
+q281,beta,1
+q281,bit,1
+q281,unari code,1
+q281,gamma,1
+q281,level,1
+q282,entropi,1
+q282,coeffici,1
+q282,probabl distribut,1
+q282,index,1
+q282,properti,1
+q282,absolut,1
+q282,code,1
+q283,search,1
+q283,time,1
+q283,compress,1
+q283,advantag,1
+q283,storag,1
+q283,space,1
+q283,text,1
+q283,requir,1
+q283,link,1
+q284,approach,1
+q284,compress,1
+q284,probabilist,1
+q284,base,1
+q284,statist,1
+q284,dictionari term,1
+q284,text,1
+q285,strategi,1
+q285,arithmet,1
+q285,statist,1
+q285,heap,1
+q285,code,1
+q286,adapt,1
+q286,type,1
+q286,model,1
+q286,compress,1
+q286,probabilist,1
+q286,static,1
+q287,string,1
+q287,idea,1
+q287,compress,1
+q287,occurr,1
+q287,adapt,1
+q287,refer,1
+q287,charact,1
+q287,scheme,1
+q287,type,1
+q287,dictionari,1
+q288,invert file,1
+q288,compress,1
+q288,index,1
+q288,scalabl,1
+q288,text,1
+q288,fast,1
+q289,databas,1
+q289,search,1
+q289,index,1
+q289,librari,1
+q289,success,1
+q289,combin,1
+q289,medium,1
+q289,size,1
+q289,techniqu,1
+q289,onlin,1
+q290,suffix,1
+q290,invert file,1
+q290,index,1
+q290,exampl,1
+q290,array,1
+q290,data structur,1
+q290,techniqu,1
+q290,structur retriev,1
+q290,model,1
+q291,invert file,1
+q291,element,1
+q291,index,1
+q291,vocabulari term,1
+q292,time complex,1
+q292,invert file,1
+q292,space requir,1
+q292,retriev,1
+q292,queri,1
+q292,block,1
+q292,advanc,1
+q292,improv,1
+q293,vocabulari,1
+q293,search,1
+q293,algorithm,1
+q293,retriev,1
+q293,manipul,1
+q293,step,1
+q293,invert index,1
+q294,suffix,1
+q294,disadvantag,1
+q294,index,1
+q294,construct process,1
+q294,complex queri,1
+q294,answer,1
+q294,tree,1
+q295,suffix,1
+q295,disk,1
+q295,random,1
+q295,access,1
+q295,array,1
+q295,index,1
+q295,indic,1
+q296,suffix,1
+q296,boolean queri,1
+q296,algorithm,1
+q296,prefix,1
+q296,manipul,1
+q296,vector,1
+q296,tree,1
+q296,set,1
+q297,requir,1
+q297,lazi,1
+q297,evalu,1
+q297,result,1
+q297,refer,1
+q298,search,1
+q298,indic,1
+q298,complex,1
+q298,data structur,1
+q298,array,1
+q298,text,1
+q299,posit,1
+q299,algorithm,1
+q299,text,1
+q300,oper,1
+q300,string,1
+q300,program,1
+q300,match,1
+q300,solut,1
+q300,approxim,1
+q300,dynam,1
+q301,filter,1
+q301,low,1
+q301,algorithm,1
+q301,base,1
+q301,dynam,1
+q301,program,1
+q301,match,1
+q301,error,1
+q301,parallel,1
+q301,level,1
+q302,queri,1
+q302,level,1
+q302,inform,1
+q302,structur,1
+q302,index,1
+q302,step,1
+q302,store,1
+q303,string,1
+q303,tag,1
+q303,structur,1
+q303,index,1
+q303,element,1
+q304,approach,1
+q304,search,1
+q304,decod,1
+q304,code,1
+q304,compress,1
+q304,encod,1
+q304,text,1
+q305,compress,1
+q305,index,1
+q305,independ,1
+q305,true,1
+q305,text,1
+q305,queri time,1
+q306,databas,1
+q306,search,1
+q306,star,1
+q306,compress,1
+q306,index,1
+q306,main,1
+q306,field,1
+q306,huge,1
+q306,complex,1
+q306,collect,1
+q306,text,1
+q307,metadata,1
+q307,parametr index,1
+q307,handl,1
+q307,zone,1
+q307,document,1
+q307,field,1
+q307,select,1
+q308,machin learn relev,1
+q308,weight,1
+q308,statement,1
+q308,indic,1
+q308,zone,1
+q308,exampl,1
+q308,linear,1
+q308,true,1
+q308,relev,1
+q308,function,1
+q308,final score,1
+q309,index time,1
+q309,document,1
+q309,appear,1
+q309,collect,1
+q309,term frequenc,1
+q310,time,1
+q310,appear,1
+q310,document frequenc,1
+q310,term,1
+q310,document collect,1
+q311,idea,1
+q311,invers,1
+q311,statement,1
+q311,chanc,1
+q311,appear,1
+q311,document frequenc,1
+q311,stop word,1
+q311,term frequenc,1
+q312,final score,1
+q312,calcul,1
+q312,tf idf,1
+q312,influenc,1
+q313,similar,1
+q313,queri,1
+q313,figur,1
+q313,document,1
+q314,queri term,1
+q314,boolean model,1
+q314,represent,1
+q314,index,1
+q314,base,1
+q314,vector space model,1
+q314,collect,1
+q314,dimens,1
+q314,true,1
+q314,repres,1
+q314,vocabulari,1
+q315,document length,1
+q315,short,1
+q315,tf idf,1
+q315,relev,1
+q315,inform,1
+q316,queri term,1
+q316,idea,1
+q316,invers,1
+q316,document frequenc,1
+q316,similar,1
+q316,statist,1
+q316,match,1
+q316,queri languag,1
+q316,probabl,1
+q316,relev,1
+q316,gener,1
+q316,languag model,1
+q316,true,1
+q317,alphabet,1
+q317,string,1
+q317,sum,1
+q317,word,1
+q317,separ,1
+q317,base,1
+q317,document,1
+q317,true,1
+q317,probabl,1
+q317,formal,1
+q317,gener,1
+q317,calcul,1
+q317,languag model,1
+q318,outcom,1
+q318,rank,1
+q318,alter,1
+q318,result,1
+q318,help,1
+q318,document,1
+q318,likelihood ratio,1
+q318,true,1
+q318,probabl,1
+q318,compar,1
+q318,languag model,1
+q319,individu,1
+q319,word,1
+q319,document,1
+q319,context,1
+q319,sentenc,1
+q319,correct,1
+q319,complic,1
+q319,probabl,1
+q319,multipli,1
+q319,gener,1
+q319,calcul,1
+q319,languag model,1
+q320,assumpt,1
+q320,word,1
+q320,multinomi,1
+q320,document,1
+q320,bag,1
+q320,context,1
+q320,distribut,1
+q320,frequenc,1
+q320,true,1
+q320,depend,1
+q320,relat,1
+q320,languag model,1
+q321,rank,1
+q321,infer,1
+q321,estim,1
+q321,document,1
+q321,queri languag,1
+q321,probabl,1
+q321,queri likelihood,1
+q321,gener,1
+q321,languag model,1
+q321,true,1
+q322,maximum likelihood estim,1
+q322,total,1
+q322,document length,1
+q322,word,1
+q322,estim,1
+q322,appear,1
+q322,true,1
+q322,probabl,1
+q322,relat,1
+q322,gener,1
+q322,term frequenc,1
+q323,outcom,1
+q323,help,1
+q323,word,1
+q323,document,1
+q323,true,1
+q323,probabl,1
+q323,smooth,1
+q323,gener,1
+q324,approach,1
+q324,call,1
+q324,comparison,1
+q324,gener,1
+q324,document model,1
+q324,true,1
+q324,probabl,1
+q324,queri likelihood,1
+q324,languag model approach,1
+q324,common,1
+q324,calcul,1
+q325,score document,1
+q325,true,1
+q325,ground truth judgment,1
+q325,relev,1
+q325,binari,1
+q325,inform,1
+q325,classif,1
+q326,trec,1
+q326,clef,1
+q326,standard test collect,1
+q326,standard,1
+q326,cranfield,1
+q327,reuter,1
+q327,news,1
+q327,gov,1
+q327,trec,1
+q327,inform retriev,1
+q327,collect,1
+q328,measur,1
+q328,index,1
+q328,qualiti,1
+q328,basic,1
+q328,precis,1
+q328,recal,1
+q328,inform retriev effect,1
+q328,effect,1
+q329,accur,1
+q329,fraction,1
+q329,sum,1
+q329,recal,1
+q329,relev,1
+q329,document retriev,1
+q330,precis,1
+q330,accuraci,1
+q330,rank,1
+q330,recal,1
+q330,weight,1
+q330,measur,1
+q331,averag,1
+q331,arithmet,1
+q331,valu,1
+q331,recal,1
+q331,inform,1
+q331,measur,1
+q331,true,1
+q331,map,1
+q331,individu,1
+q331,qualiti,1
+q331,interpol precis,1
+q331,figur,1
+q331,test collect,1
+q331,level,1
+q331,singl,1
+q332,individu,1
+q332,top,1
+q332,document,1
+q332,subset,1
+q332,queri,1
+q332,collect,1
+q332,form,1
+q332,result,1
+q332,relev assess,1
+q333,margin,1
+q333,trec,1
+q333,world,1
+q333,web,1
+q333,document,1
+q333,world wide web,1
+q333,result,1
+q333,relev,1
+q333,page,1
+q334,rate,1
+q334,retriev qualiti,1
+q334,search,1
+q334,system,1
+q334,index,1
+q334,data,1
+q334,collect,1
+q334,express,1
+q334,queri languag,1
+q334,fast,1
+q335,log,1
+q335,test,1
+q335,user,1
+q335,web search engin,1
+q335,clickthrough log analysi,1
+q335,measur,1
+q336,index,1
+q336,snippet,1
+q336,result,1
+q336,keyword,1
+q336,context,1
+q336,text summar,1
+q337,retriev process,1
+q337,user issu,1
+q337,search,1
+q337,understand,1
+q337,relev feedback,1
+q337,final result,1
+q337,queri,1
+q337,true,1
+q337,set,1
+q337,improv,1
+q338,iter,1
+q338,represent,1
+q338,system,1
+q338,relev feedback,1
+q338,user,1
+q338,precis,1
+q338,true,1
+q338,comput,1
+q338,inform,1
+q338,improv,1
+q339,suffici,1
+q339,inform retriev,1
+q339,relev feedback,1
+q339,queri,1
+q339,misspel,1
+q339,result,1
+q339,languag,1
+q340,pseudo relev feedback,1
+q340,autom,1
+q340,pseudo,1
+q340,direct,1
+q340,automat,1
+q341,control,1
+q341,search,1
+q341,thesauru,1
+q341,system,1
+q341,user,1
+q341,queri,1
+q341,true,1
+q341,term,1
+q341,vocabulari,1
+q342,increas,1
+q342,learn,1
+q342,queri,1
+q342,recal,1
+q342,true,1
+q342,user friendli,1
+q342,term,1
+q342,effect,1
+q343,understand,1
+q343,system,1
+q343,interfac,1
+q343,formul,1
+q343,user,1
+q343,queri,1
+q343,track,1
+q343,search result,1
+q344,principl,1
+q344,system,1
+q344,interfac,1
+q344,altern,1
+q344,user,1
+q344,memori,1
+q344,design,1
+q344,feedback,1
+q344,inform,1
+q344,expert,1
+q345,techniqu,1
+q345,inform,1
+q345,access,1
+q345,link,1
+q345,main,1
+q346,scan,1
+q346,detail,1
+q346,object,1
+q346,view,1
+q346,portion,1
+q346,item,1
+q346,inform,1
+q346,context,1
+q346,refer,1
+q347,bit,1
+q347,final,1
+q347,learn,1
+q347,satisfi,1
+q347,inform,1
+q347,seri,1
+q347,search process,1
+q347,select,1
+q347,system,1
+q347,document,1
+q347,retriev,1
+q347,user,1
+q347,model,1
+q347,true,1
+q347,singl,1
+q347,set,1
+q348,search,1
+q348,inform comparison,1
+q348,exampl,1
+q348,aggreg,1
+q348,process,1
+q348,access,1
+q349,tabl,1
+q349,autom,1
+q349,search interfac,1
+q349,sourc,1
+q349,start,1
+q349,list,1
+q349,type,1
+q349,text,1
+q349,select,1
+q349,paragraph,1
+q350,topic,1
+q350,consider,1
+q350,help,1
+q350,detail,1
+q350,sourc,1
+q350,search interfac,1
+q350,collect,1
+q350,repres,1
+q350,true,1
+q350,domain,1
+q350,user select,1
+q351,system,1
+q351,search interfac,1
+q351,repeat,1
+q351,retriev,1
+q351,user,1
+q351,start,1
+q351,result,1
+q351,inform,1
+q352,system,1
+q352,degre,1
+q352,document,1
+q352,framework,1
+q352,retriev,1
+q352,queri,1
+q352,satisfi,1
+q352,match,1
+q352,boolean,1
+q352,rank,1
+q352,true,1
+q353,topic,1
+q353,boolean queri,1
+q353,indic,1
+q353,retriev,1
+q353,specif,1
+q353,user,1
+q353,document,1
+q353,type,1
+q353,result,1
+q353,minim,1
+q353,singl,1
+q353,divid,1
+q353,set,1
+q354,queri term,1
+q354,exact,1
+q354,phrase,1
+q354,disadvantag,1
+q354,search engin,1
+q354,rare,1
+q354,match,1
+q354,relev,1
+q354,document retriev,1
+q354,requir,1
+q355,percentag,1
+q355,score,1
+q355,sourc,1
+q355,articl,1
+q355,document,1
+q355,date,1
+q355,surrog,1
+q355,relev,1
+q355,inform,1
+q356,categori,1
+q356,contrast,1
+q356,form,1
+q356,word,1
+q356,key,1
+q356,context,1
+q357,term,1
+q357,solut,1
+q357,multipl,1
+q357,document,1
+q358,filter,1
+q358,search,1
+q358,system,1
+q358,retriev result,1
+q358,inform,1
+q358,context,1
+q359,score,1
+q359,relev feedback,1
+q359,document,1
+q359,retriev,1
+q359,queri,1
+q359,techniqu,1
+q359,effect,1
+q360,inform,1
+q360,exampl,1
+q360,autom,1
+q361,pseudo relev feedback,1
+q361,pseudo,1
+q361,short,1
+q361,mechan,1
+q361,statement,1
+q361,precis,1
+q361,queri,1
+q361,singl,1
+q361,term,1
+q361,effect,1
+q362,queri term,1
+q362,due,1
+q362,spell error,1
+q362,thesauru,1
+q362,altern,1
+q362,queri suggest,1
+q362,empti,1
+q362,issu,1
+q362,result,1
+q362,function,1
+q362,set,1
+q363,user issu,1
+q363,search,1
+q363,queri,1
+q363,exampl,1
+q363,choic,1
+q363,portion,1
+q364,categori,1
+q364,web,1
+q364,taxonomi,1
+q364,index,1
+q364,base,1
+q364,retriev,1
+q364,search engin,1
+q364,attempt,1
+q364,popul,1
+q364,half,1
+q364,inform,1
+q364,page,1
+q364,text,1
+q365,control,1
+q365,presenc,1
+q365,index,1
+q365,retriev,1
+q365,challeng,1
+q365,amount,1
+q365,web search engin,1
+q365,authorship,1
+q365,content,1
+q365,text,1
+q365,central,1
+q366,imag,1
+q366,web,1
+q366,content,1
+q366,page,1
+q366,request,1
+q366,static,1
+q366,dynam,1
+q367,web,1
+q367,index,1
+q367,purpos,1
+q367,appear,1
+q367,manipul,1
+q367,content,1
+q367,page,1
+q367,search result,1
+q367,fast,1
+q367,link,1
+q368,crawler,1
+q368,ident,1
+q368,search engin,1
+q368,true,1
+q368,content,1
+q368,mislead,1
+q368,request,1
+q369,cost,1
+q369,search,1
+q369,method,1
+q369,time,1
+q369,base,1
+q369,advertis,1
+q370,perform,1
+q370,market,1
+q370,base,1
+q370,advertis,1
+q370,search engin,1
+q370,rank,1
+q370,product,1
+q370,link,1
+q371,return,1
+q371,user,1
+q371,queri,1
+q371,mind,1
+q371,inform,1
+q371,page,1
+q371,search result,1
+q372,queri,1
+q372,exampl,1
+q372,file,1
+q372,purchas,1
+q372,product,1
+q373,method,1
+q373,estim,1
+q373,index,1
+q373,search engin,1
+q373,manipul,1
+q373,size,1
+q373,techniqu,1
+q373,compar,1
+q374,walk,1
+q374,approach,1
+q374,random,1
+q374,search,1
+q374,index,1
+q374,estim,1
+q375,topic,1
+q375,ident,1
+q375,complement,1
+q375,phenomenon,1
+q375,web,1
+q375,charact,1
+q375,content,1
+q375,page,1
+q376,techniqu,1
+q376,web,1
+q376,graph,1
+q376,page,1
+q376,algorithm,1
+q377,advanc,1
+q377,techniqu,1
+q377,web,1
+q377,hit,1
+q377,link,1
+q378,gener,1
+q378,index,1
+q378,document,1
+q378,anchor text,1
+q378,web search engin,1
+q378,multipl,1
+q378,true,1
+q378,page,1
+q378,term,1
+q378,link,1
+q379,web,1
+q379,graph,1
+q379,numer score,1
+q379,frequent,1
+q379,true,1
+q379,depend,1
+q379,page,1
+q379,structur,1
+q379,search result,1
+q379,node,1
+q379,link,1
+q380,random,1
+q380,probabl,1
+q380,seri,1
+q380,choic,1
+q380,process,1
+q380,time,1
+q380,step,1
+q381,increas,1
+q381,valu,1
+q381,topic,1
+q381,deriv,1
+q381,web,1
+q381,user,1
+q381,random,1
+q381,affect,1
+q381,page,1
+q382,topic,1
+q382,score,1
+q382,user,1
+q382,similar,1
+q382,multipl,1
+q382,person,1
+q382,comput,1
+q382,mixtur,1
+q382,singl,1
+q383,page,1
+q383,author,1
+q383,true,1
+q384,topic,1
+q384,interv,1
+q384,search,1
+q384,form,1
+q384,hyper,1
+q384,text,1
+q384,hit,1
+q385,add,1
+q385,execut,1
+q385,period,1
+q385,time,1
+q385,document,1
+q385,collect,1
+q385,true,1
+q385,stand queri,1
+q386,neg,1
+q386,posit,1
+q386,review,1
+q386,search engin,1
+q386,automat,1
+q386,product,1
+q386,classif,1
+q387,categori,1
+q387,text classif,1
+q387,map,1
+q387,learn method,1
+q387,algorithm,1
+q387,document,1
+q387,class,1
+q388,goal,1
+q388,text classif,1
+q388,bay,1
+q388,learn method,1
+q388,multinomi,1
+q388,probabilist,1
+q388,document,1
+q388,class,1
+q388,true,1
+q388,model,1
+q389,role,1
+q389,ident,1
+q389,multinomi,1
+q389,document,1
+q389,class,1
+q389,queri languag,1
+q389,languag model,1
+q390,fraction,1
+q390,binari occurr inform,1
+q390,classifi,1
+q390,estim,1
+q390,bernoulli model,1
+q390,class,1
+q390,test document,1
+q390,true,1
+q390,absenc,1
+q390,term,1
+q390,inform,1
+q391,bill clinton,1
+q391,gradual chang,1
+q391,time,1
+q391,presid,1
+q391,estim,1
+q391,variat,1
+q391,class,1
+q391,concept drift,1
+q391,classif,1
+q392,increas,1
+q392,train,1
+q392,vocabulari size,1
+q392,featur select,1
+q392,classifi,1
+q392,purpos,1
+q392,classif accuraci,1
+q392,nois featur,1
+q392,effici,1
+q392,make,1
+q393,accident properti,1
+q393,train set,1
+q393,fit,1
+q393,overfit,1
+q393,data,1
+q393,nois featur,1
+q393,correct,1
+q393,incorrect gener,1
+q394,featur select,1
+q394,method,1
+q394,mutual inform,1
+q394,base,1
+q394,frequenc,1
+q394,squar,1
+q394,type,1
+q395,region,1
+q395,document,1
+q395,class,1
+q395,form,1
+q395,vector space classif,1
+q395,contigu hypothesi,1
+q395,classif,1
+q396,unit vector,1
+q396,role,1
+q396,length normal,1
+q396,length normal unit vector,1
+q396,document vector,1
+q396,classif,1
+q396,hyperspher,1
+q396,true,1
+q396,play,1
+q396,normal vector,1
+q396,surfac,1
+q396,vector space classif,1
+q397,rocchio classif,1
+q397,centroid,1
+q397,probabilist model,1
+q397,class boundari,1
+q397,true,1
+q397,comput,1
+q398,assign,1
+q398,knn classif,1
+q398,document,1
+q398,concaten,1
+q398,rocchio,1
+q398,random,1
+q398,class,1
+q398,decis boundari,1
+q398,segment,1
+q399,increas,1
+q399,train set,1
+q399,learn method,1
+q399,classif error,1
+q399,document,1
+q399,mislead,1
+q399,nois featur,1
+q400,rocchio,1
+q400,bay,1
+q400,classif,1
+q400,linear classifi,1
+q401,class,1
+q401,exclus,1
+q401,classif,1
+q402,classif,1
+q402,class,1
+q402,singl,1
+q402,true,1
+q402,exclus,1
+q402,label,1
+q402,document,1
+q403,text classif,1
+q403,bia,1
+q403,power,1
+q403,optim,1
+q403,varianc,1
+q403,linear classifi,1
+q403,optim learn method,1
+q403,statist,1
+q403,univers,1
+q403,classif error,1
+q403,exist,1
+q404,incorrect,1
+q404,predict,1
+q404,classifi,1
+q404,varianc,1
+q404,similar,1
+q404,decis,1
+q404,inconsist,1
+q404,correct,1
+q404,measur,1
+q405,similar,1
+q405,goal,1
+q405,cluster,1
+q405,true,1
+q405,algorithm,1
+q405,document,1
+q406,cluster,1
+q406,learn,1
+q406,distanc,1
+q406,algorithm,1
+q406,input,1
+q406,form,1
+q406,true,1
+q406,key,1
+q407,scatter gather,1
+q407,applic,1
+q407,cluster,1
+q407,inform retriev,1
+q407,search result,1
+q407,languag model,1
+q408,increas,1
+q408,cluster,1
+q408,precis,1
+q408,present,1
+q408,collect,1
+q408,recal,1
+q408,benefit,1
+q408,inform,1
+q408,effect,1
+q409,document,1
+q409,exhaust cluster,1
+q409,partit,1
+q409,multipl,1
+q409,refer,1
+q410,cardin,1
+q410,cluster,1
+q410,initi,1
+q410,singl,1
+q410,refer,1
+q410,combin,1
+q411,goal,1
+q411,cluster,1
+q411,time,1
+q411,low,1
+q411,qualiti,1
+q411,similar,1
+q411,intern criterion,1
+q411,low inter cluster similar,1
+q411,answer,1
+q411,measur,1
+q411,true,1
+q412,cluster,1
+q412,evalu measur,1
+q412,time,1
+q412,qualiti,1
+q412,match,1
+q412,human judg,1
+q412,result,1
+q412,standard,1
+q412,criteria,1
+q413,cluster,1
+q413,rand index,1
+q413,qualiti,1
+q413,puriti,1
+q413,measur,1
+q413,criteria,1
+q414,averag,1
+q414,assign,1
+q414,iter,1
+q414,mean cluster,1
+q414,centroid,1
+q414,object,1
+q414,algorithm,1
+q414,document,1
+q414,squar,1
+q414,minim,1
+q414,euclidean distanc,1
+q415,cluster,1
+q415,outlier,1
+q415,multipl,1
+q415,fit,1
+q415,document,1
+q416,time complex,1
+q416,output,1
+q416,flat cluster,1
+q416,hierarchi,1
+q416,true,1
+q416,result,1
+q416,compar,1
+q416,structur,1
+q416,inform,1
+q416,effici,1
+q416,requir,1
+q417,approach,1
+q417,pair,1
+q417,cluster,1
+q417,merg,1
+q417,split,1
+q417,individu,1
+q417,proce,1
+q417,top,1
+q417,document,1
+q417,success,1
+q417,true,1
+q417,singl,1
+q418,similar,1
+q418,cluster,1
+q418,singl,1
+q419,similar,1
+q419,criterion,1
+q419,cluster,1
+q419,merg,1
+q419,method,1
+q419,link,1
+q419,true,1
+q420,averag,1
+q420,similar,1
+q420,cluster,1
+q420,document,1
+q420,evalu,1
+q420,base,1
+q420,qualiti,1
+q421,similar,1
+q421,cluster,1
+q421,true,1
+q421,centroid,1
+q421,document,1
+q422,averag,1
+q422,applic,1
+q422,singl,1
+q422,choic,1
+q422,centroid,1
+q422,algorithm,1
+q422,link,1
+q423,run,1
+q423,cluster,1
+q423,bottom,1
+q423,top,1
+q423,algorithm,1
+q423,complex,1
+q423,true,1
+q423,divis,1
+q424,cluster,1
+q424,featur select,1
+q424,compar,1
+q424,distribut,1
+q424,depend,1
+q424,comput,1
+q424,term,1
+q424,label,1
+q425,cluster,1
+q425,featur select,1
+q425,compar,1
+q425,intern,1
+q425,distribut,1
+q425,depend,1
+q425,comput,1
+q425,term,1
+q425,label,1
+q426,statement,1
+q426,assess,1
+q426,search engin,1
+q426,construct,1
+q426,form,1
+q426,process,1
+q426,inform,1
+q426,answer,1
+q426,question,1
+q426,phrase,1
+q426,relev feedback,1
+q426,retriev,1
+q426,user,1
+q426,true,1
+q426,text,1
+q426,requir,1
+q427,scienc,1
+q427,inform retriev,1
+q427,perform,1
+q427,librari,1
+q427,statement,1
+q427,field,1
+q427,oper,1
+q427,search engin,1
+q427,fundament,1
+q427,process,1
+q427,true,1
+q427,index,1
+q427,document,1
+q427,studi,1
+q427,character,1
+q427,comput linguist,1
+q428,accur,1
+q428,expect,1
+q428,rank,1
+q428,short,1
+q428,featur,1
+q428,queri,1
+q428,web search engin,1
+q428,result,1
+q428,relev,1
+q428,page,1
+q428,respons time,1
+q428,requir,1
+q429,digit,1
+q429,file,1
+q429,desktop,1
+q429,level,1
+q429,system,1
+q429,time,1
+q429,version,1
+q429,librari,1
+q429,materi,1
+q429,enterpris,1
+q429,creation,1
+q429,featur,1
+q429,structur,1
+q429,inform,1
+q429,format,1
+q430,entiti,1
+q430,extract,1
+q430,close,1
+q430,inform retriev,1
+q430,base,1
+q430,field,1
+q430,record,1
+q430,cover,1
+q430,sentenc,1
+q430,match,1
+q430,content,1
+q430,key,1
+q430,fix,1
+q430,phrase,1
+q430,sort,1
+q430,document,1
+q430,name,1
+q430,user,1
+q430,combin,1
+q430,queri,1
+q430,compar,1
+q430,structur,1
+q430,paragraph,1
+q430,set,1
+q431,statement,1
+q431,search engin,1
+q431,oper,1
+q431,match,1
+q431,consist,1
+q431,boolean,1
+q431,map,1
+q431,system,1
+q431,word,1
+q431,document,1
+q431,basic,1
+q431,queri,1
+q431,complex,1
+q431,true,1
+q431,term,1
+q431,invert index,1
+q432,definit,1
+q432,compon,1
+q432,correct,1
+q432,return,1
+q432,arbitrari,1
+q432,unit,1
+q432,object,1
+q432,document,1
+q432,snippet,1
+q432,element,1
+q432,user,1
+q432,text,1
+q432,search result,1
+q432,segment,1
+q433,aspect,1
+q433,storag,1
+q433,evalu,1
+q433,probabl,1
+q433,relev,1
+q433,inform,1
+q433,measur,1
+q433,coverag,1
+q433,system,1
+q433,document,1
+q433,space,1
+q433,relat,1
+q433,respons time,1
+q433,effici,1
+q434,topic,1
+q434,search,1
+q434,text classif,1
+q434,index,1
+q434,rank algorithm,1
+q434,document,1
+q434,develop,1
+q434,data,1
+q434,build,1
+q434,effici,1
+q435,organ,1
+q435,search,1
+q435,scienc,1
+q435,special,1
+q435,inform retriev system,1
+q435,research,1
+q435,statement,1
+q435,librari,1
+q435,index,1
+q435,develop,1
+q435,start,1
+q435,date,1
+q435,data structur,1
+q435,true,1
+q435,fast,1
+q436,goal,1
+q436,system,1
+q436,object,1
+q436,statement,1
+q436,document,1
+q436,retriev,1
+q436,user,1
+q436,queri,1
+q436,context,1
+q436,form,1
+q436,true,1
+q436,stabl,1
+q436,relev,1
+q436,import,1
+q436,central,1
+q437,search,1
+q437,task,1
+q437,word,1
+q437,differ,1
+q437,user,1
+q437,queri,1
+q437,inform,1
+q437,unclear,1
+q437,set,1
+q438,return,1
+q438,natur languag,1
+q438,topic,1
+q438,subject,1
+q438,object,1
+q438,inform retriev,1
+q438,differ,1
+q438,document,1
+q438,satisfi,1
+q438,user,1
+q438,data,1
+q438,queri,1
+q438,error,1
+q438,retriev system,1
+q438,keyword,1
+q438,structur,1
+q438,text,1
+q438,synonym,1
+q439,crawler,1
+q439,modul,1
+q439,web,1
+q439,system,1
+q439,word,1
+q439,document collect,1
+q439,store,1
+q439,user,1
+q439,queri,1
+q439,compon,1
+q439,rank,1
+q439,relev,1
+q439,gener,1
+q439,central,1
+q439,invert index,1

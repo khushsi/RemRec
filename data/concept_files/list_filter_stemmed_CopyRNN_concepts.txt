@@ -1,0 +1,1319 @@
+item_id,concept,weight
+iir_1_1,boolean retriev model,1
+iir_1_1,inform retriev,1
+iir_1_1,invert file,1
+iir_1_1,pattern match,1
+iir_1_1,person inform,1
+iir_1_1,linear scan document,1
+iir_1_1,boolean express,1
+iir_1_1,data structur,1
+iir_1_1,ad hoc retriev,1
+iir_1_1,document retriev,1
+iir_1_1,fat book,1
+iir_1_1,invert index,1
+iir_1_2,home sale,1
+iir_1_2,index construct,1
+iir_1_2,schizophrenia,1
+iir_1_2,data organ,1
+iir_1_2,invert index structur,1
+iir_1_2,fix length array,1
+iir_1_2,text search,1
+iir_1_2,ad hoc text search,1
+iir_1_2,queri process,1
+iir_1_2,variabl length array,1
+iir_1_2,post list,1
+iir_1_2,hybrid scheme,1
+iir_1_2,middl column,1
+iir_1_2,document identifi,1
+iir_1_2,boolean search engin,1
+iir_1_2,document collect,1
+iir_1_2,invert index represent,1
+iir_1_2,document incid matrix,1
+iir_1_2,figur digit,1
+iir_1_2,data structur,1
+iir_1_3,linear time linear,1
+iir_1_3,time complex,1
+iir_1_3,boolean retriev model,1
+iir_1_3,disjunct normal form,1
+iir_1_3,queri evalu,1
+iir_1_3,intersect oper,1
+iir_1_3,queri process,1
+iir_1_3,distribut law,1
+iir_1_3,boolean queri formula,1
+iir_1_3,queri optim,1
+iir_1_3,conjunct queri,1
+iir_1_3,invert index,1
+iir_1_4,extend boolean retriev model,1
+iir_1_4,free text queri,1
+iir_1_4,natur languag,1
+iir_1_4,extend boolean model,1
+iir_1_4,rank retriev model,1
+iir_1_4,world wide web,1
+iir_1_4,boolean oper,1
+iir_1_4,oper system,1
+iir_1_4,boolean logic,1
+iir_1_4,boolean queri model,1
+iir_1_4,legal search,1
+iir_1_4,invert index,1
+iir_1_4,term proxim oper,1
+iir_1_4,vector space model,1
+iir_1_4,web search engin,1
+iir_1_4,unstructur search,1
+iir_1_4,phrase search,1
+iir_1_4,revers chronolog,1
+iir_1_4,boolean search,1
+iir_1_4,linear time merg,1
+iir_1_4,boolean express,1
+iir_1_4,ad hoc search,1
+iir_1_4,queri optim,1
+iir_2_2,subsect token drop common term stop,1
+iir_2_2,token drop common term stop word,1
+iir_2_2,vocabulari term,1
+iir_2_2,equival class,1
+iir_2_2,capit fold,1
+iir_2_3,post list data structur,1
+iir_2_3,post intersect,1
+iir_2_3,post list intersect oper,1
+iir_2_3,lower list,1
+iir_2_3,data structur,1
+iir_2_3,skip pointer,1
+iir_2_3,skip list pointer,1
+iir_2_3,invert index,1
+iir_2_4,implicit phrase queri,1
+iir_2_4,multiword compound,1
+iir_2_4,doubl quot syntax,1
+iir_2_4,web queri,1
+iir_2_4,rank retriev,1
+iir_2_4,posit index size,1
+iir_2_4,term proxim weight,1
+iir_2_4,search engin support,1
+iir_2_4,stanford univers,1
+iir_3_1,search structur,1
+iir_3_1,binari search tree,1
+iir_3_1,search engin,1
+iir_3_1,data structur,1
+iir_3_1,hash function,1
+iir_3_1,binari tree,1
+iir_3_1,standard system,1
+iir_3_1,asian languag,1
+iir_3_1,pre fetch,1
+iir_3_1,invert index,1
+iir_3_2,wildcard queri,1
+iir_3_2,singl symbol,1
+iir_3_2,regular tree,1
+iir_3_2,search tree,1
+iir_3_2,search engin,1
+iir_3_2,standard invert index,1
+iir_3_2,revers tree,1
+iir_3_3,gram overlap,1
+iir_3_3,googl report,1
+iir_3_3,spell correct edit distanc gram,1
+iir_3_3,search engin,1
+iir_3_3,edit distanc gram index,1
+iir_3_3,spell correct context,1
+iir_3_3,user experi,1
+iir_3_3,spell correct form,1
+iir_3_3,context sensit spell correct,1
+iir_3_4,reduc form,1
+iir_3_4,soundex algorithm,1
+iir_3_4,phonet correct phonet,1
+iir_3_4,soundex map,1
+iir_3_4,soundex index,1
+iir_3_4,standard invert index,1
+iir_3_4,pinyin transcript,1
+iir_3_4,phonet hash,1
+iir_3_4,write,1
+iir_4_1,transfer time,1
+iir_4_1,disk data,1
+iir_4_1,main memori cach,1
+iir_4_1,tabl digit,1
+iir_4_1,seek time,1
+iir_4_1,system design,1
+iir_4_1,inform retriev,1
+iir_4_1,oper system,1
+iir_4_1,data transfer rate,1
+iir_4_1,comput hardwar,1
+iir_4_1,hardwar basic,1
+iir_4_2,random disk,1
+iir_4_2,time complex,1
+iir_4_2,block sort base index algorithm,1
+iir_4_2,figur digit,1
+iir_4_2,memori sort,1
+iir_4_2,secondari storag,1
+iir_4_2,extern sort algorithm,1
+iir_4_2,person comput,1
+iir_4_2,index construct,1
+iir_4_2,data structur,1
+iir_4_2,invert index,1
+iir_4_3,linear scan,1
+iir_4_3,singl pass memori index,1
+iir_4_3,time complex,1
+iir_4_3,line digit return,1
+iir_4_3,figur digit,1
+iir_4_3,sort,1
+iir_4_3,memori index,1
+iir_4_3,index construct,1
+iir_4_3,data structur,1
+iir_4_3,line digit digit,1
+iir_4_3,invert index,1
+iir_4_4,tabl digit,1
+iir_4_4,singl machin index,1
+iir_4_4,mapreduc,1
+iir_4_4,document partit index,1
+iir_4_4,distribut environ,1
+iir_4_4,key pair,1
+iir_4_4,distribut index mapreduc,1
+iir_4_4,split index construct,1
+iir_4_4,distribut index distribut index,1
+iir_4_4,figur digit,1
+iir_4_4,term partit index,1
+iir_4_4,data flow,1
+iir_4_4,segment file,1
+iir_4_4,distribut comput,1
+iir_4_4,googl index,1
+iir_4_4,distribut index construct,1
+iir_4_4,invert index,1
+iir_4_5,time complex,1
+iir_4_5,multipl index,1
+iir_4_5,logarithm merg,1
+iir_4_5,dynam index,1
+iir_4_5,memori index,1
+iir_4_5,auxiliari index,1
+iir_4_5,main index,1
+iir_4_5,data structur,1
+iir_4_5,file system,1
+iir_4_5,spell correct algorithm,1
+iir_4_5,queri process,1
+iir_4_5,size,1
+iir_4_5,invert index,1
+iir_4_6,access control list,1
+iir_4_6,total index construct,1
+iir_4_6,boolean retriev,1
+iir_4_6,rank retriev,1
+iir_4_6,spell correct,1
+iir_4_6,block sort base index,1
+iir_4_6,qualiti collect,1
+iir_4_6,mapreduc,1
+iir_4_6,auxiliari index,1
+iir_4_6,term weight method,1
+iir_4_6,queri process,1
+iir_4_6,post list,1
+iir_4_6,invert index,1
+iir_4_6,file system,1
+iir_4_6,load balanc,1
+iir_4_6,increment index,1
+iir_4_6,invert acl index,1
+iir_4_6,inform retriev system,1
+iir_4_6,memori index algorithm,1
+iir_5_1,lossi compress,1
+iir_5_1,tabl digit,1
+iir_5_1,compress index,1
+iir_5_1,web search,1
+iir_5_1,dimension reduct techniqu,1
+iir_5_1,posit index,1
+iir_5_1,inform retriev,1
+iir_5_1,vector space model,1
+iir_5_1,frequent word,1
+iir_5_1,statist properti term,1
+iir_5_1,stop word,1
+iir_5_1,size,1
+iir_5_1,latent semant index,1
+iir_5_1,column digit,1
+iir_5_1,invert index,1
+iir_5_2,tabl digit,1
+iir_5_2,dictionari data structur,1
+iir_5_2,queri evalu,1
+iir_5_2,dictionari compress,1
+iir_5_2,post file,1
+iir_5_2,main memori,1
+iir_5_2,desktop machin,1
+iir_5_2,mobil phone,1
+iir_5_2,respons time,1
+iir_5_2,enterpris search server,1
+iir_5_2,search system,1
+iir_5_3,variabl encod method,1
+iir_5_3,post file compress,1
+iir_5_3,tabl encod gap,1
+iir_5_3,space,1
+iir_6_1,zone index,1
+iir_6_1,figur digit,1
+iir_6_1,parametr index,1
+iir_6_1,digit document,1
+iir_6_1,weight zone score learn weight,1
+iir_6_1,author,1
+iir_6_1,queri process,1
+iir_6_1,parametr search,1
+iir_6_1,invert index,1
+iir_6_2,queri term,1
+iir_6_2,term frequenc weight,1
+iir_6_2,document mari,1
+iir_6_2,bag word model,1
+iir_6_2,free text queri,1
+iir_6_2,boolean retriev,1
+iir_6_2,bag word represent,1
+iir_6_2,stop word,1
+iir_6_2,materi,1
+iir_6_2,tf idf weight,1
+iir_6_3,vector space model score,1
+iir_6_3,document vector,1
+iir_6_3,common vector space,1
+iir_6_3,inform retriev oper,1
+iir_6_3,vector space score,1
+iir_6_3,document classif,1
+iir_6_3,document collect,1
+iir_6_3,document cluster,1
+iir_7_1,unit vector,1
+iir_7_1,cosin similar,1
+iir_7_1,figur digit,1
+iir_7_1,jealou gossip,1
+iir_7_1,static qualiti score,1
+iir_7_1,index elimin,1
+iir_7_1,vector space score,1
+iir_7_1,top document retriev index elimin,1
+iir_7_1,read,1
+iir_7_3,vector space score support,1
+iir_7_3,free text queri,1
+iir_7_3,conjunct queri,1
+iir_7_3,queri oper interact,1
+iir_7_3,phrase queri,1
+iir_7_3,web search engin,1
+iir_7_3,free text retriev,1
+iir_7_3,vector space score queri oper,1
+iir_8_1,inform retriev effect,1
+iir_8_1,inform retriev system evalu,1
+iir_8_1,drink red wine,1
+iir_8_1,ad hoc inform retriev effect,1
+iir_8_1,develop test collect,1
+iir_8_1,binari assess,1
+iir_8_1,white wine,1
+iir_8_1,test suit,1
+iir_8_1,ground truth relev,1
+iir_8_1,heart attack,1
+iir_8_1,system evalu,1
+iir_8_1,system perform,1
+iir_8_1,random sampl queri,1
+iir_8_1,document collect,1
+iir_8_2,web page collect,1
+iir_8_2,ad hoc inform retriev system evalu,1
+iir_8_2,test bed evalu,1
+iir_8_2,ken lang,1
+iir_8_2,ad hoc track,1
+iir_8_2,text classif,1
+iir_8_2,web search,1
+iir_8_2,east asian languag,1
+iir_8_2,text retriev,1
+iir_8_2,inform retriev system,1
+iir_8_2,cross languag evalu forum,1
+iir_8_2,cross languag inform retriev,1
+iir_8_2,system evalu,1
+iir_8_2,standard test collect,1
+iir_8_2,unit kingdom,1
+iir_8_2,test collect evalu,1
+iir_8_2,document collect,1
+iir_8_3,machin learn classif,1
+iir_8_3,inform retriev system,1
+iir_8_3,weight harmon precis,1
+iir_8_3,conting tabl,1
+iir_8_3,system effect,1
+iir_8_3,low precis,1
+iir_8_3,balanc measur,1
+iir_8_3,unrank retriev set,1
+iir_8_3,inform retriev effect,1
+iir_8_3,document retriev,1
+iir_8_3,fals posit,1
+iir_8_3,harmon score,1
+iir_8_4,fals posit rate,1
+iir_8_4,roc curv,1
+iir_8_4,precis recal curv,1
+iir_8_4,rank retriev,1
+iir_8_4,search engin,1
+iir_8_4,balanc measur,1
+iir_8_4,document retriev,1
+iir_8_4,precis recal graph,1
+iir_8_4,web search,1
+iir_8_4,evalu measur,1
+iir_8_4,figur digit,1
+iir_8_4,averag precis,1
+iir_8_4,machin learn,1
+iir_8_4,ad hoc evalu,1
+iir_8_5,tini collect,1
+iir_8_5,chanc agreement,1
+iir_8_5,keyword search,1
+iir_8_5,ir evalu,1
+iir_8_5,machin learn method,1
+iir_8_5,system evalu,1
+iir_8_5,queri term,1
+iir_8_5,binari relev judgment,1
+iir_8_5,gold standard,1
+iir_8_5,world wide web,1
+iir_8_5,standard model,1
+iir_8_5,user studi,1
+iir_8_5,social scienc,1
+iir_8_5,user satisfact,1
+iir_8_5,margin relev,1
+iir_8_5,formal test,1
+iir_8_5,formal evalu measur,1
+iir_8_5,formal evalu set,1
+iir_8_5,document collect,1
+iir_8_5,kappa statist,1
+iir_8_5,document length,1
+iir_8_5,interact process,1
+iir_8_5,formal measur,1
+iir_8_5,medic ir,1
+iir_8_5,relev label,1
+iir_8_5,chanc kappa,1
+iir_8_6,subsect system,1
+iir_8_6,human satisfact,1
+iir_8_6,user studi,1
+iir_8_6,quantit evalu,1
+iir_8_6,search interfac,1
+iir_8_6,formal evalu measur,1
+iir_8_6,time complet,1
+iir_8_6,search engin,1
+iir_8_6,system qualiti,1
+iir_8_6,quantit measur,1
+iir_8_6,perspect system,1
+iir_8_6,measur human util,1
+iir_8_6,user comment,1
+iir_8_6,broader perspect,1
+iir_8_6,qualit measur,1
+iir_8_6,user util,1
+iir_8_7,inform secur control,1
+iir_8_7,system design,1
+iir_8_7,dynam summari,1
+iir_8_7,static summar,1
+iir_8_7,search engin,1
+iir_8_7,queri depend,1
+iir_8_7,static summari,1
+iir_8_7,natur languag process,1
+iir_8_7,document summari,1
+iir_8_7,text summar,1
+iir_9_1,web evalu,1
+iir_9_1,bottom row,1
+iir_9_1,pseudo relev feedback,1
+iir_9_1,relev feedback indirect relev feedback,1
+iir_9_1,relev feedback summari,1
+iir_9_1,imag search,1
+iir_9_1,user feedback,1
+iir_9_1,relev feedback strategi,1
+iir_9_1,relev feedback pseudo relev feedback,1
+iir_9_1,top row,1
+iir_9_1,relev feedback search,1
+iir_9_1,probabilist relev feedback,1
+iir_9_2,queri reformul,1
+iir_9_2,automat thesauru,1
+iir_9_2,queri expans automat thesauru,1
+iir_9_2,global method queri reformul,1
+iir_9_2,subsect vocabulari tool,1
+iir_9_2,queri expans,1
+iir_10_1,xml document collect,1
+iir_10_1,basic xml,1
+iir_10_1,xml queri,1
+iir_10_1,queri languag design,1
+iir_10_1,digit figur digit,1
+iir_10_1,xml dtd,1
+iir_10_1,xml schema,1
+iir_10_1,document type,1
+iir_10_1,nexi queri,1
+iir_10_1,structur queri,1
+iir_10_1,gallic war,1
+iir_10_1,inform retriev,1
+iir_10_1,xml document object model,1
+iir_10_1,node tree,1
+iir_10_1,path play,1
+iir_10_1,singl scene element,1
+iir_10_1,xml concept,1
+iir_10_1,relat attribut constraint,1
+iir_10_1,xml retriev,1
+iir_10_2,unstructur retriev,1
+iir_10_2,structur constraint,1
+iir_10_2,pseudo xpath notat,1
+iir_10_2,figur digit,1
+iir_10_2,interfac design,1
+iir_10_2,spars data,1
+iir_10_2,queri interfac,1
+iir_10_2,xml retriev system,1
+iir_10_2,structur document retriev principl,1
+iir_10_2,user interfac,1
+iir_10_2,structur retriev,1
+iir_10_2,queri shakespear,1
+iir_10_2,queri macbeth,1
+iir_10_2,structur queri,1
+iir_10_3,vector space encod,1
+iir_10_3,relax match,1
+iir_10_3,lower weight match,1
+iir_10_3,vector space retriev,1
+iir_10_3,vector space formal,1
+iir_10_3,queri weight,1
+iir_10_3,node bill gate,1
+iir_10_3,queri term,1
+iir_10_3,vector space model xml retriev,1
+iir_10_3,bill book,1
+iir_10_3,structur queri,1
+iir_10_3,bill author bill,1
+iir_10_3,pseudo xpath,1
+iir_10_3,unstructur retriev,1
+iir_10_3,chapter digit,1
+iir_10_3,figur digit,1
+iir_10_3,queri structur term,1
+iir_10_3,document similar function,1
+iir_10_3,lexic subtre,1
+iir_10_3,spars term statist,1
+iir_10_3,xml retriev,1
+iir_10_4,tabl digit,1
+iir_10_4,unstructur inform retriev,1
+iir_10_4,orthogon dimens,1
+iir_10_4,languag model,1
+iir_10_4,topic relev dimens,1
+iir_10_4,grade relev digit,1
+iir_10_4,structur retriev,1
+iir_10_4,ieee journal,1
+iir_10_4,vector space system,1
+iir_10_4,digit letter code,1
+iir_10_4,margin relev,1
+iir_10_4,vector space model,1
+iir_10_4,keyword match,1
+iir_10_4,unstructur retriev,1
+iir_10_4,structur constraint,1
+iir_10_4,figur digit,1
+iir_10_4,exact coverag,1
+iir_10_4,xml retriev,1
+iir_10_4,content system,1
+iir_10_5,text data,1
+iir_10_5,attribut data,1
+iir_10_5,match condit,1
+iir_10_5,proteom data,1
+iir_10_5,navig databas,1
+iir_10_5,text centric retriev,1
+iir_10_5,chapter binomi heap,1
+iir_10_5,text centric structur retriev model,1
+iir_10_5,data collect,1
+iir_10_5,relat calculu,1
+iir_10_5,structur retriev,1
+iir_10_5,xml document,1
+iir_10_5,unord set,1
+iir_10_5,xml retriev,1
+iir_10_5,relat databas,1
+iir_10_5,data centric xml retriev system,1
+iir_10_5,complex structur,1
+iir_10_5,publish text,1
+iir_10_5,text centric approach,1
+iir_10_5,exact match,1
+iir_10_5,text document,1
+iir_10_5,document structur,1
+iir_10_5,text databas,1
+iir_10_5,data centric approach,1
+iir_10_5,hard time,1
+iir_10_5,citi map,1
+iir_10_5,text attribut,1
+iir_10_5,text centric xml,1
+iir_11_1,chain rule,1
+iir_11_1,partit rule,1
+iir_11_1,event occur,1
+iir_11_1,basic probabl theori,1
+iir_11_1,joint event,1
+iir_11_1,random variabl,1
+iir_11_1,posterior probabl likelihood,1
+iir_11_1,fundament relationship,1
+iir_11_3,probabilist retriev,1
+iir_11_3,queri term,1
+iir_11_3,document relev,1
+iir_11_3,term incid,1
+iir_11_3,vector space model,1
+iir_11_3,relev feedback,1
+iir_11_3,binari independ model,1
+iir_11_3,bay rule,1
+iir_11_3,multivari bernoulli naiv bay model,1
+iir_11_4,binari model,1
+iir_11_4,tree structur depend,1
+iir_11_4,apprais,1
+iir_11_4,probabilist model,1
+iir_11_4,model bayesian network,1
+iir_11_4,term okapi bm,1
+iir_11_4,model tree,1
+iir_12_1,formal languag theori,1
+iir_12_1,unigram languag model,1
+iir_12_1,sequenc event,1
+iir_12_1,chain rule,1
+iir_12_1,figur digit,1
+iir_12_1,success event,1
+iir_12_1,finit automata languag model,1
+iir_12_1,speech recognit,1
+iir_12_1,document model,1
+iir_12_1,bigram languag model,1
+iir_12_1,spell correct machin translat spars digit,1
+iir_12_1,finit automaton,1
+iir_12_1,machin translat,1
+iir_12_1,partial specif,1
+iir_12_1,word sequenc,1
+iir_12_2,maximum likelihood estim,1
+iir_12_2,refer probabl distribut,1
+iir_12_2,conjunct semant,1
+iir_12_2,mixtur model,1
+iir_12_2,document model,1
+iir_12_2,natur languag queri,1
+iir_12_2,bay rule,1
+iir_12_2,separ languag,1
+iir_12_2,term frequenc,1
+iir_12_2,speech recognit,1
+iir_12_2,tf idf base term weight approach,1
+iir_12_2,click click digit metal,1
+iir_12_2,click click click digit click click,1
+iir_12_2,multinomi unigram languag model,1
+iir_12_2,text classif,1
+iir_12_2,inform retriev,1
+iir_12_2,term weight approach,1
+iir_12_2,random process,1
+iir_12_2,queri likelihood model,1
+iir_12_2,bernoulli model,1
+iir_12_2,linear interpol model,1
+iir_12_2,latin pop sensat,1
+iir_12_2,document collect,1
+iir_12_2,tf idf weight,1
+iir_12_2,multinomi naiv bay model,1
+iir_12_2,languag model ir,1
+iir_12_2,line search,1
+iir_12_2,term length,1
+iir_12_2,web search,1
+iir_12_2,linear interpol smooth,1
+iir_12_2,queri likelihood languag model,1
+iir_12_2,click click digit click click digit,1
+iir_12_2,languag model approach,1
+iir_12_2,human comput interfac,1
+iir_12_2,click shear,1
+iir_12_3,document length,1
+iir_12_3,speech natur languag process,1
+iir_12_3,passag match,1
+iir_12_3,probabilist languag model,1
+iir_12_3,text retriev,1
+iir_12_3,relev feedback,1
+iir_12_3,tf idf model,1
+iir_12_3,document model,1
+iir_12_3,boolean retriev,1
+iir_12_3,languag model speech,1
+iir_12_3,speech languag process,1
+iir_12_3,vector space retriev,1
+iir_12_3,document languag,1
+iir_12_3,queri languag,1
+iir_12_3,mathemat model,1
+iir_12_3,languag model approach,1
+iir_12_3,xml retriev,1
+iir_12_3,term frequenc,1
+iir_12_4,basic languag model,1
+iir_12_4,relev feedback model,1
+iir_12_4,condit probabl distribut,1
+iir_12_4,relev model,1
+iir_12_4,queri text,1
+iir_12_4,queri likelihood,1
+iir_12_4,document retriev,1
+iir_12_4,queri gener model,1
+iir_12_4,risk minim,1
+iir_12_4,model base,1
+iir_12_4,translat model,1
+iir_12_4,pseudo relev feedback,1
+iir_12_4,extend languag model approach,1
+iir_12_4,cross languag ir,1
+iir_12_4,model comparison,1
+iir_12_4,kullback leibler,1
+iir_12_4,queri languag model,1
+iir_12_4,figur digit,1
+iir_12_4,document likelihood model,1
+iir_12_4,document languag model,1
+iir_13_1,test data,1
+iir_13_1,text classif,1
+iir_13_1,learn algorithm,1
+iir_13_1,supervis learn method,1
+iir_13_1,nb learn method,1
+iir_13_1,naiv bay,1
+iir_13_1,figur digit,1
+iir_13_1,multicor comput chip,1
+iir_13_1,multicor chip,1
+iir_13_1,error rate,1
+iir_13_1,label document,1
+iir_13_1,privat chines airlin,1
+iir_13_1,learn process,1
+iir_13_2,maximum likelihood estim,1
+iir_13_2,tabl digit,1
+iir_13_2,formal deriv,1
+iir_13_2,term class,1
+iir_13_2,multinomi model,1
+iir_13_2,multinomi naiv bay multinomi nb,1
+iir_13_2,paramet estim,1
+iir_13_2,languag model,1
+iir_13_2,multinomi unigram,1
+iir_13_2,mode time complex,1
+iir_13_2,naiv bay text classif,1
+iir_13_2,log prior,1
+iir_13_2,nb classif,1
+iir_13_2,text classif,1
+iir_13_2,naiv bay algorithm,1
+iir_13_2,chines chines shanghai digit,1
+iir_13_2,chines chines chines tokyo,1
+iir_13_2,chines digit,1
+iir_13_2,figur digit,1
+iir_13_2,laplac smooth,1
+iir_13_2,docid word,1
+iir_13_2,chines beij chines,1
+iir_13_2,float underflow,1
+iir_13_2,posit independ,1
+iir_13_2,multinomi nb model,1
+iir_13_3,tabl digit,1
+iir_13_3,multinomi model estim,1
+iir_13_3,multivari bernoulli model,1
+iir_13_3,time complex,1
+iir_13_3,bernoulli model estim,1
+iir_13_3,figur digit,1
+iir_13_3,binari occurr inform,1
+iir_13_3,binari independ model,1
+iir_13_4,tabl digit,1
+iir_13_4,condit independ assumpt,1
+iir_13_4,document represent,1
+iir_13_4,paramet estim,1
+iir_13_4,bag word digit,1
+iir_13_4,natur languag,1
+iir_13_4,bag word model,1
+iir_13_4,multinomi model bernoulli model,1
+iir_13_4,multinomi versu bernoulli model,1
+iir_13_4,naiv bay,1
+iir_13_4,event model,1
+iir_13_4,bayesian text classif,1
+iir_13_4,bernoulli model,1
+iir_13_4,concept drift,1
+iir_13_4,figur digit,1
+iir_13_4,decis rule,1
+iir_13_4,nb model,1
+iir_13_4,document gener model,1
+iir_13_4,posit independ,1
+iir_13_5,bernoulli nb classifi,1
+iir_13_5,overfit figur,1
+iir_13_5,featur select featur select,1
+iir_13_5,multipl classifi comparison,1
+iir_13_5,util measur,1
+iir_13_5,methodassess chi squar,1
+iir_13_5,statist text classif,1
+iir_13_5,basic featur select,1
+iir_13_5,nois featur,1
+iir_13_5,view featur select,1
+iir_13_5,bia varianc tradeoff,1
+iir_13_5,featur select nois featur,1
+iir_13_5,bernoulli model,1
+iir_13_5,complex classifi,1
+iir_13_5,featur select algorithm,1
+iir_13_5,figur digit,1
+iir_13_5,class classif,1
+iir_13_5,subsect mutual inform featur selectionchi featur,1
+iir_13_5,featur select method,1
+iir_13_5,frequenc base featur select featur select,1
+iir_13_5,selectionchi featur select,1
+iir_13_6,tabl digit,1
+iir_13_6,qualiti classif,1
+iir_13_6,reuter digit collect,1
+iir_13_6,text classif evalu,1
+iir_13_6,inform gain,1
+iir_13_6,multinomi model,1
+iir_13_6,paramet estim,1
+iir_13_6,statist sampl,1
+iir_13_6,perform evalu,1
+iir_13_6,time complex,1
+iir_13_6,text classif system,1
+iir_13_6,statist text classif,1
+iir_13_6,decis tree,1
+iir_13_6,document classif,1
+iir_13_6,machin learn,1
+iir_13_6,word zoo,1
+iir_13_6,class,1
+iir_13_6,conting tabl,1
+iir_13_6,multinomi classifi,1
+iir_13_6,naiv bay classifi,1
+iir_13_6,fals posit decis,1
+iir_13_6,ad hoc retriev,1
+iir_13_6,bernoulli model,1
+iir_13_6,concept drift,1
+iir_13_6,featur select,1
+iir_13_6,mutual inform,1
+iir_13_6,figur digit,1
+iir_13_6,posit independ,1
+iir_14_1,distanc measur,1
+iir_14_1,dot product,1
+iir_14_1,exercis digit,1
+iir_14_1,vector space classifi,1
+iir_14_1,cosin similar,1
+iir_14_1,measur related,1
+iir_14_1,vector classif,1
+iir_14_1,figur digit,1
+iir_14_1,length normal vector,1
+iir_14_1,knn classif,1
+iir_14_1,document vector,1
+iir_14_1,local region,1
+iir_14_1,project plane,1
+iir_14_1,measur related vector space,1
+iir_14_1,nearest neighbor,1
+iir_14_1,document represent measur related,1
+iir_14_1,vector space classif,1
+iir_14_1,euclidean distanc,1
+iir_14_2,tabl digit,1
+iir_14_2,mode time complex train,1
+iir_14_2,text classif,1
+iir_14_2,decis rule,1
+iir_14_2,naiv bay,1
+iir_14_2,figur digit,1
+iir_14_2,rocchio classif train,1
+iir_14_2,class classif,1
+iir_14_2,rocchio relev feedback,1
+iir_14_2,irregular shape,1
+iir_14_2,vector space classif,1
+iir_14_2,fals posit,1
+iir_14_2,euclidean distanc,1
+iir_14_3,voronoi tessel,1
+iir_14_3,space bound,1
+iir_14_3,cosin similar,1
+iir_14_3,time complex,1
+iir_14_3,figur digit,1
+iir_14_3,local region,1
+iir_14_3,knn classif,1
+iir_14_3,nn estim,1
+iir_14_3,convex region,1
+iir_14_3,closest neighbor,1
+iir_14_3,voronoi cell,1
+iir_14_3,nearest neighbor,1
+iir_14_3,decis boundari,1
+iir_14_3,convex polygon,1
+iir_14_4,linear classif,1
+iir_14_4,web page classif,1
+iir_14_4,document represent,1
+iir_14_4,nonlinear classifi,1
+iir_14_4,text classif,1
+iir_14_4,learn method,1
+iir_14_4,naiv bay,1
+iir_14_4,decis rule,1
+iir_14_4,figur digit,1
+iir_14_4,class boundari,1
+iir_14_4,linear classifi,1
+iir_14_4,linearli separ class,1
+iir_14_4,vector represent,1
+iir_14_4,decis boundari,1
+iir_14_4,nois featur,1
+iir_14_4,linear separ,1
+iir_14_4,mix chines english web page,1
+iir_14_4,nois document,1
+iir_14_5,tabl digit,1
+iir_14_5,text classif,1
+iir_14_5,row grain,1
+iir_14_5,agricultur class,1
+iir_14_5,multivalu classif,1
+iir_14_5,neg label,1
+iir_14_5,posit label,1
+iir_14_5,maximum confid,1
+iir_14_5,grain document,1
+iir_14_5,figur digit,1
+iir_14_5,confus matrix,1
+iir_14_5,linear classifi,1
+iir_14_5,poultri trade,1
+iir_14_5,singl label classif,1
+iir_14_5,classif class,1
+iir_14_5,money fx trade,1
+iir_14_6,linear method,1
+iir_14_6,document represent,1
+iir_14_6,chines text,1
+iir_14_6,learn classifi,1
+iir_14_6,evalu measur,1
+iir_14_6,learn nois,1
+iir_14_6,bag word model,1
+iir_14_6,statist text classif,1
+iir_14_6,learn error bia varianc,1
+iir_14_6,machin learn,1
+iir_14_6,naiv bay,1
+iir_14_6,bia varianc tradeoff,1
+iir_14_6,nonlinear learn method,1
+iir_14_6,varianc learn,1
+iir_14_6,nonlinear model,1
+iir_14_6,optim learn,1
+iir_14_6,decis boundari,1
+iir_14_6,regular linear regress,1
+iir_14_6,memori capac,1
+iir_14_6,featur select,1
+iir_14_6,figur digit,1
+iir_14_6,linear nonlinear classifi,1
+iir_14_6,regular logist regress,1
+iir_14_6,linear classifi,1
+iir_14_6,linear model,1
+iir_14_6,linear learn method,1
+iir_14_6,margin maxim,1
+iir_15_1,data set,1
+iir_15_1,naiv bay,1
+iir_15_1,function margin,1
+iir_15_1,vector space,1
+iir_15_1,decis surfac,1
+iir_15_1,shortest distanc,1
+iir_15_1,standard quadrat program,1
+iir_15_1,maximum margin weight vector,1
+iir_15_1,decis boundari,1
+iir_15_1,euclidean distanc,1
+iir_15_1,decis hyperplan,1
+iir_15_1,linear constraint,1
+iir_15_1,memori capac,1
+iir_15_1,machin learn,1
+iir_15_1,figur digit,1
+iir_15_1,closest data,1
+iir_15_1,mathemat optim,1
+iir_15_1,shortest line,1
+iir_15_1,linearli separ,1
+iir_15_1,support vector machin,1
+iir_15_1,lagrang multipli,1
+iir_15_1,geometr margin,1
+iir_15_1,data format,1
+iir_15_1,quadrat optim,1
+iir_15_3,commerci world email,1
+iir_15_3,internet publish,1
+iir_15_3,text classif,1
+iir_15_3,applic specif heurist,1
+iir_15_3,jackson moulini,1
+iir_15_3,separ featur,1
+iir_15_3,machin learn method,1
+iir_15_3,email spam filter,1
+iir_15_3,featur space,1
+iir_15_3,domain specif text featur,1
+iir_15_3,text featur,1
+iir_15_3,text document zone,1
+iir_15_3,applic develop,1
+iir_15_3,text summar,1
+iir_15_4,score result,1
+iir_15_4,relev signal,1
+iir_15_4,text classif,1
+iir_15_4,ad hoc inform retriev,1
+iir_15_4,inform retriev,1
+iir_15_4,relev judgment,1
+iir_15_4,relev decis,1
+iir_15_4,machin learn method,1
+iir_15_4,result rank,1
+iir_15_4,cosin score,1
+iir_15_4,document weight,1
+iir_16_1,tabl digit,1
+iir_16_1,cluster cluster,1
+iir_16_1,search engin,1
+iir_16_1,keyword search,1
+iir_16_1,user interfac search,1
+iir_16_1,cluster base navig,1
+iir_16_1,latent semant index,1
+iir_16_1,languag model,1
+iir_16_1,cluster search,1
+iir_16_1,iter cluster,1
+iir_16_1,nearest neighbor search,1
+iir_16_1,spars data,1
+iir_16_1,mutual similar,1
+iir_16_1,search result cluster,1
+iir_16_1,oper system,1
+iir_16_1,top row,1
+iir_16_1,invert index,1
+iir_16_1,scatter gather cluster,1
+iir_16_1,vector space model,1
+iir_16_1,cluster hypothesi cluster,1
+iir_16_1,hierarch cluster,1
+iir_16_1,figur digit,1
+iir_16_1,inform retriev system,1
+iir_16_1,user experi,1
+iir_16_1,cluster base retriev,1
+iir_16_1,cluster inform retriev,1
+iir_16_2,similar languag,1
+iir_16_2,cosin similar,1
+iir_16_2,vector space model,1
+iir_16_2,object function,1
+iir_16_2,similar measur distanc metric,1
+iir_16_2,stop word,1
+iir_16_2,averag distanc,1
+iir_16_2,approxim topic similar,1
+iir_16_2,similar distanc,1
+iir_16_2,euclidean distanc,1
+iir_16_2,distanc metric,1
+iir_16_3,intra cluster similar,1
+iir_16_3,tabl digit,1
+iir_16_3,cluster qualiti,1
+iir_16_3,inter cluster similar,1
+iir_16_3,extern criteria,1
+iir_16_3,perfect cluster,1
+iir_16_3,maximum mutual inform,1
+iir_16_3,direct evalu,1
+iir_16_3,rand index,1
+iir_16_3,optim cluster,1
+iir_16_3,cluster algorithm,1
+iir_16_3,search result cluster,1
+iir_16_3,oper system,1
+iir_16_3,evalu cluster,1
+iir_16_3,lower bound,1
+iir_16_3,fals posit,1
+iir_16_3,gold standard class,1
+iir_16_3,extern evalu measur,1
+iir_16_3,user studi,1
+iir_16_3,object function,1
+iir_16_3,conting tabl,1
+iir_16_3,transpar evalu,1
+iir_16_3,differenti weight,1
+iir_16_3,intern criteria,1
+iir_16_3,figur digit,1
+iir_16_3,fals neg,1
+iir_16_3,document cluster,1
+iir_16_4,time complex,1
+iir_16_4,rocchio classif,1
+iir_16_4,random sampl,1
+iir_16_4,length normal vector,1
+iir_16_4,seed select,1
+iir_16_4,closest centroid,1
+iir_16_4,singleton cluster,1
+iir_16_4,suboptim cluster,1
+iir_16_4,hierarch cluster method,1
+iir_16_4,residu sum squar,1
+iir_16_4,real valu space,1
+iir_16_5,tabl digit,1
+iir_16_5,multivari bernoulli distribut,1
+iir_16_5,log likelihood,1
+iir_16_5,mixtur model,1
+iir_16_5,spheric shape,1
+iir_16_5,soft assign,1
+iir_16_5,languag model,1
+iir_16_5,time complex,1
+iir_16_5,expect maxim algorithm,1
+iir_16_5,maximum likelihood criterion,1
+iir_16_5,text classif,1
+iir_16_5,probabilist model,1
+iir_16_5,em cluster algorithm,1
+iir_16_5,model base cluster assum,1
+iir_16_5,chines car,1
+iir_16_5,hard cluster,1
+iir_16_5,cluster model,1
+iir_16_5,soft cluster,1
+iir_16_5,em algorithm,1
+iir_16_5,document cluster,1
+q261,main memori,1
+q261,disk data,1
+q262,main memori,1
+q262,data,1
+q262,read,1
+q263,index construct,1
+q264,random disk,1
+q264,extern sort algorithm,1
+q265,block sort base index algorithm,1
+q266,singl pass,1
+q266,sort,1
+q266,memori index,1
+q267,post list,1
+q268,distribut comput,1
+q268,mapreduc,1
+q270,segment file,1
+q271,data,1
+q271,dynam index,1
+q272,dynam index,1
+q273,data,1
+q273,size,1
+q274,author,1
+q274,access control list,1
+q275,text document,1
+q276,lossi compress,1
+q277,size,1
+q278,queri,1
+q279,dictionari compress,1
+q283,search,1
+q283,space,1
+q286,model,1
+q288,file compress,1
+q288,invert file,1
+q289,search,1
+q289,size,1
+q290,retriev model,1
+q290,structur retriev,1
+q290,invert file,1
+q290,data structur,1
+q291,invert file,1
+q292,invert file,1
+q292,queri,1
+q292,time complex,1
+q292,space,1
+q293,search,1
+q293,invert index,1
+q294,queri,1
+q294,tree,1
+q295,random disk,1
+q296,tree,1
+q296,boolean queri,1
+q297,evalu,1
+q298,data structur,1
+q298,search,1
+q301,pattern match,1
+q302,queri,1
+q302,ad hoc,1
+q304,search,1
+q305,queri,1
+q306,search,1
+q307,parametr index,1
+q307,zone index,1
+q308,relev,1
+q308,machin learn,1
+q309,term frequenc,1
+q310,document collect,1
+q311,stop word,1
+q311,term frequenc,1
+q312,tf idf,1
+q313,queri,1
+q313,document similar,1
+q314,queri term,1
+q314,boolean model,1
+q314,vector space model,1
+q315,document relev,1
+q315,document length,1
+q315,tf idf,1
+q316,queri term,1
+q316,document relev,1
+q316,queri languag model,1
+q316,similar,1
+q317,languag model,1
+q318,languag model,1
+q319,unigram languag model,1
+q319,document languag model,1
+q320,unigram languag model,1
+q321,model estim,1
+q321,queri languag model,1
+q321,queri likelihood model,1
+q322,maximum likelihood estim,1
+q322,document length,1
+q322,term frequenc,1
+q324,model comparison,1
+q324,document likelihood,1
+q324,queri model,1
+q324,document model,1
+q324,queri likelihood model,1
+q324,languag model approach,1
+q325,relev,1
+q325,document classif,1
+q325,ground truth,1
+q326,standard test collect,1
+q327,inform retriev,1
+q328,inform retriev effect,1
+q329,document relev,1
+q329,document retriev,1
+q330,weight harmon,1
+q330,precis recal,1
+q331,averag precis,1
+q331,test collect,1
+q332,relev,1
+q332,queri,1
+q332,top document,1
+q333,margin relev,1
+q333,world wide web,1
+q334,data collect,1
+q334,search,1
+q334,queri languag,1
+q335,user satisfact,1
+q335,web search engin,1
+q335,test,1
+q336,text summar,1
+q337,relev feedback search,1
+q337,queri,1
+q337,search,1
+q338,relev feedback,1
+q339,cross languag inform retriev,1
+q339,inform retriev,1
+q339,queri expans,1
+q339,relev feedback,1
+q340,pseudo relev feedback,1
+q340,relev feedback indirect relev feedback,1
+q341,thesauru,1
+q341,queri,1
+q341,search,1
+q342,queri expans,1
+q342,learn,1
+q343,queri,1
+q343,search result,1
+q343,user interfac,1
+q344,feedback,1
+q347,search,1
+q347,model,1
+q347,learn,1
+q348,search,1
+q349,search interfac,1
+q350,search interfac,1
+q351,search interfac,1
+q352,rank retriev,1
+q352,queri,1
+q353,document type,1
+q353,boolean queri,1
+q354,queri term,1
+q354,search engin,1
+q354,exact match,1
+q354,relev,1
+q354,document retriev,1
+q355,document relev,1
+q358,search,1
+q359,queri reformul,1
+q359,relev feedback,1
+q361,queri,1
+q361,pseudo relev feedback,1
+q362,thesauru,1
+q362,queri term,1
+q363,queri,1
+q363,search,1
+q364,search engin,1
+q364,web page,1
+q365,web search engin,1
+q366,web page,1
+q367,search result,1
+q367,web page,1
+q368,search engin,1
+q369,search,1
+q370,search engin,1
+q371,queri,1
+q371,search result,1
+q372,queri,1
+q373,search engin,1
+q373,size,1
+q374,search,1
+q375,web page,1
+q376,web page,1
+q378,web search engin,1
+q378,web page,1
+q379,search result,1
+q381,web page,1
+q382,similar,1
+q383,author,1
+q384,text search,1
+q385,queri,1
+q386,search engin,1
+q386,classif,1
+q387,text classif,1
+q387,supervis learn,1
+q387,learn algorithm,1
+q387,learn method,1
+q387,class,1
+q387,document classif,1
+q388,learn method,1
+q388,class,1
+q388,multinomi nb model,1
+q388,text classif,1
+q389,queri languag model,1
+q389,class,1
+q389,document languag model,1
+q389,multinomi nb model,1
+q389,multinomi unigram languag model,1
+q390,bernoulli model,1
+q390,binari occurr inform,1
+q390,test,1
+q390,class,1
+q391,concept drift,1
+q391,nb classif,1
+q391,class,1
+q392,nois featur,1
+q392,size,1
+q392,classif,1
+q392,featur select,1
+q393,data,1
+q393,nois featur,1
+q394,chi squar,1
+q394,mutual inform,1
+q394,frequenc base featur select,1
+q394,featur select method,1
+q395,class,1
+q395,vector space classif,1
+q396,unit vector,1
+q396,vector space classif,1
+q396,document vector,1
+q397,probabilist model,1
+q397,class boundari,1
+q397,rocchio classif,1
+q398,decis boundari,1
+q398,class,1
+q398,knn classif,1
+q399,learn method,1
+q399,nois featur,1
+q399,classif,1
+q399,nois document,1
+q400,classif,1
+q400,linear classifi,1
+q401,class,1
+q401,multivalu classif,1
+q402,singl label classif,1
+q402,class classif,1
+q403,linear classif,1
+q403,learn method,1
+q403,statist text classif,1
+q403,linear classifi,1
+q403,optim learn,1
+q403,bia varianc,1
+q404,similar,1
+q405,cluster algorithm,1
+q405,document cluster,1
+q405,cluster similar,1
+q406,cluster algorithm,1
+q406,distanc,1
+q406,supervis learn,1
+q407,scatter gather,1
+q407,cluster,1
+q407,inform retriev,1
+q407,search result cluster,1
+q407,languag model,1
+q408,cluster,1
+q409,cluster,1
+q410,cluster cluster,1
+q411,intra cluster similar,1
+q411,inter cluster similar,1
+q412,cluster,1
+q412,extern criteria,1
+q412,evalu measur,1
+q413,rand index,1
+q413,cluster qualiti,1
+q413,extern criteria,1
+q414,cluster algorithm,1
+q414,euclidean distanc,1
+q414,document cluster,1
+q415,cluster cluster,1
+q415,document cluster,1
+q416,hierarch cluster,1
+q416,time complex,1
+q417,singleton cluster,1
+q418,cluster similar,1
+q419,cluster similar,1
+q420,evalu,1
+q420,similar,1
+q420,cluster qualiti,1
+q421,cluster similar,1
+q423,cluster algorithm,1
+q424,featur select,1
+q424,cluster cluster,1
+q425,featur select,1
+q425,cluster cluster,1
+q426,search engin,1
+q426,relev feedback,1
+q427,search engin,1
+q427,inform retriev,1
+q428,relev,1
+q428,queri,1
+q428,respons time,1
+q428,web search engin,1
+q429,materi,1
+q430,sort,1
+q430,queri,1
+q430,inform retriev,1
+q431,search engin,1
+q431,queri,1
+q431,pattern match,1
+q431,invert index,1
+q432,search result,1
+q433,evalu,1
+q433,relev,1
+q433,respons time,1
+q433,space,1
+q434,data,1
+q434,text classif,1
+q434,search,1
+q435,inform retriev system,1
+q435,data structur,1
+q435,search,1
+q436,relev,1
+q436,queri,1
+q437,queri,1
+q437,search,1
+q438,queri,1
+q438,inform retriev,1
+q438,natur languag,1
+q438,data,1
+q439,relev,1
+q439,queri,1
+q439,document collect,1
+q439,invert index,1
