@@ -26,3 +26,6 @@ Contact me in case you need PFA code
 #
 recommendation.py - to find the matching
 evaluate.py to generate output
+
+#
+If you are interested in dataset for this paper please send me an email to k.thaker@pitt.edu
