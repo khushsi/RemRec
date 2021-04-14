@@ -78,7 +78,7 @@ def evaluate(df):
         # qsec = row['quiz_sec']
         outcome = row['outcome']
 
-        if not q.startswith('q') or outcome != '0':# not in ('0', 0):
+        if not q.startswith('q') or outcome != 0 or str(outcome) != '0':# not in ('0', 0):
             continue
 
         for method in match_methods:

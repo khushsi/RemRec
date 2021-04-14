@@ -93,9 +93,7 @@ def get_match(vec_file, cfile):
                 i = features.index(k)
             else:
                 i=-1
-                print(k,"not in list")
-            if i < 0:
-                print("Feature not found - something is wrong")
+                # print(k,"not in list")
             if i >= 0:
                 v = knowledge_v[i]
                 if 0. <= v <= 1.0:
@@ -146,9 +144,10 @@ def get_match(vec_file, cfile):
 if __name__ == '__main__':
 
     vec_file= 'data/vec/pfa_outcome_concept_list_expert.csv'
-    concept_file='data/concept_files/list_filter_stemmed_CopyRNN_concepts.txt'
+    concept_file='data/concept_files/list_filter_stemmed_TopicRank_concepts.txt'
     df = get_match(vec_file,concept_file)
     df.to_csv("match.csv", index=False)
+
     print('matching file-created',"data/match.csv")
     evaluate_file('match.csv')
 

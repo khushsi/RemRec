@@ -11,4 +11,3 @@ q333,What is an example of marginal relevance? documents with other languges. th
 q334,Which of the following are benchmarks to rate an IR system beyond retrieval quality? How expressive is its query language?. How large is the data collection. How fast does it index?. How fast does it search,iir_8_6,iir,2196
 q335,How is user satisfaction measured by web search engines? A/B testing. clickthrough log analysis. B/A testing,iir_8_6,iir,2196
 q336,What is associated with results snippets? click analysis. index number. keyword in context. text summarization,iir_8_7,iir,2200
-q337,Which one is true about relevance feedback? ask search specialist to provide feedback. involve user in the retrieval process to improve the final result set. Teach users to issue good queries. understand user history,iir_9_1,iir,2203
