@@ -8,7 +8,7 @@ openpyxl
 Recommending Remedial Readings Using Student Knowledge States
 
 # Sample Input:
-This file is generated utilizing PFA model - you can utilize any PFA or student model the output required is as below:
+This file is generated utilizing PFA model - you can utilize any PFA or student model the output required is as below: 
 data/vec/pfa_sample_concepts_knowledge.csv
  
 Contact me in case you need PFA code
